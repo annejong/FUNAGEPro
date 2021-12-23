@@ -1,0 +1,38 @@
+ENOG check
+
+
+SCRATCHDIR=/tmp
+DATABASEDIR=/data/gsea_pro/databases
+PROGRAMDIR=/data/gsea_pro/FACoP
+
+DIAMONDDIR=/data/software/diamond/diamond-master
+DIAMOND_DB=$DATABASEDIR/uniprot_sprot.dmnd
+
+genome=/data/g2d_mirror_genbank/Bacillus_subtilis_subsp_subtilis_str_168/ASM904v1_genomic.g2d
+genome=/data/g2d_mirror_genbank/Bacillus_subtilis_73/ASM966227v1_genomic.g2d
+genome=/data/g2d_mirror/Burkholderia_thailandensis_MSMB121/ASM38552v1_genomic.g2d
+
+
+python3 $PROGRAMDIR/diamond_format_results.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.description -out $genome.description
+	cp $genome.description $genome.FACoP.table
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.GO      -class $DATABASEDIR/go-basic.obo.description               -out $genome.FACoP.GO
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.IPR     -class $DATABASEDIR/IPR.description                        -out $genome.FACoP.IPR
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.ENOG    -class $DATABASEDIR/NOG.description                        -out $genome.FACoP.ENOG
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.eggNOG  -class $DATABASEDIR/eggNOG_COG.description                 -out $genome.FACoP.eggNOG_COG
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.COG     -class $DATABASEDIR/COG.description                        -out $genome.FACoP.COG
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.PFAM    -class $DATABASEDIR/PFAM.description                       -out $genome.FACoP.Pfam
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.Keyword -class $DATABASEDIR/KEYWORD.description                    -out $genome.FACoP.KEYWORDS
+	python3 $PROGRAMDIR/classify_genome.py -diamond $genome.diamond.tab -db $DATABASEDIR/uniprot_sprot.KEGGPATHWAY -class $DATABASEDIR/KEGGPATHWAY.description            -out $genome.FACoP.KEGG
+
+
+FACoP.COG   sp instead of locus-tag
+FACoP.eggNOG_COG   sp instead of locus-tag
+
+
+$DIAMONDDIR/diamond blastp --unal 1 --threads $cpu --tmpdir $SCRATCHDIR --query $genome.faa --db $DIAMOND_DB --out $genome.diamond.tab --evalue 0.1 --max-target-seqs 1
+
+
+/data/g2d_mirror/Burkholderia_thailandensis_MSMB121
+
+data/gsea_pro/databases/IPR.description
+Outfile  =/data/g2d_mirror_genbank/Helicobacter_pylori_oki128/

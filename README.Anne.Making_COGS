@@ -1,0 +1,48 @@
+3.2. COGnitor.
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3.2.0. Running BLAST.
+
+Technically, running BLAST searches is outside the scope of COG software. 
+The following sequence of commands is given exclusively for the sake of example. 
+Suppose that you have proteins sets from two query genomes in two separate FASTA files: Gen1.fa and Gen2.fa and the orthology domains in another FASTA file: COGs.fa.
+
+my_proteins = 'CP000828.g2d.faa'
+
+$ cat Gen1.fa Gen2.fa > GenQuery.fa # pools the query sets together
+
+$ makeblastdb -in GenThree.fa -dbtype prot -out GenThree # formats a BLASTable database for the query set
+
+$ makeblastdb -in COGs.fa -dbtype prot -out COGs # formats a BLASTable database for the target set
+
+$ psiblast -query GenThree.fa -db GenThree -show_gis -outfmt 7 -num_descriptions 10 -num_alignments 10 -dbsize 100000000 -comp_based_stats F -seg no -out BLASTss/QuerySelf.tab # unfiltered self-hit BLAST results in the ./BLASTss/ directory
+
+$ psiblast -query GenThree.fa -db COGs -show_gis -outfmt 7 -num_descriptions 1000 -num_alignments 1000 -dbsize 100000000 -comp_based_stats F -seg no -out BLASTno/QueryCOGs.tab # unfiltered BLAST results in the ./BLASTno/ directory
+
+$ psiblast -query GenThree.fa -db COGs -show_gis -outfmt 7 -num_descriptions 1000 -num_alignments 1000 -dbsize 100000000 -comp_based_stats T -seg yes -out BLASTff/QueryCOGs.tab # filtered BLAST results in the ./BLASTff/ directory
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3.2.1. Preparation of the "sequence Universe".
+
+Internally all COG software uses numerical IDs for the sequences. 
+The first step in the data preparation, thus, involves making a table that connects these internal IDs and the IDs in the user-supplied data. 
+Suppose you need to have a file GenQuery.p2o.csv that lists all sequences involved in the query genomes (format "<prot-id>,<genome-id>") and COG.p2o.csv that lists all orthology domains. 
+The following commands will then be used:
+
+$ cat GenQuery.p2o.csv COG.p2o.csv > tmp.p2o.csv # pools the lists together
+
+$ COGmakehash -i=tmp.p2o.csv -o=./BLASTcogn -s="," -n=1 # makes ./BLASTcogn/hash.csv file 
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3.2.2. Processing of BLAST results.
+
+The program will read the BLAST results from the ./BLASTno/ and ./BLASTff/ directories and will store the pre-processed results in the ./BLASTconv/ directory.
+
+$ COGreadblast -d=./BLASTcogn -u=./BLASTno -f=./BLASTff -s=./BLASTss -e=0.1 -q=2 -t=2
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3.2.3. Running COGNITOR.
+
+To run COGNITOR you need a COG domain assignment file (as described in 2.10.). If your file is called COGs.csv, the following command will be used:
+
+$ COGcognitor -i=./BLASTcogn -t=COGs.csv -q=GenQuery.p2o.csv -o=GenQuery.COG.csv # COGNITOR results in GenQuery.COG.csv

@@ -1,0 +1,21 @@
+# Install or Updating GSEA-Pro
+
+# last update; Dec 21-2020; 334842 proteins
+
+1) cd FACoP
+2) run the script 00.GSEApro_build_database.sh
+3) run the script 01.GSEApro_annotate_genomes.sh
+
+
+
+
+#OLD:
+# # For KEGG download the Organism names:
+# python /usr/molgentools/KEGG_organims_mapping.py 
+# 
+# 
+# Gene3D / CATH description file:
+# ftp://ftp.biochem.ucl.ac.uk/pub/cath/v4_0_0/CathNames
+
+
+
