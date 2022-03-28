@@ -1,5 +1,4 @@
 #!/usr/bin/env perl
-#!/usr/bin/env perl
 #
 #
 #	Anne de Jong
@@ -26,6 +25,7 @@ use JSON;
 # ------------------------------------------------------------ parameters ----------------------------------------------------------------------
 my $program_dir = dirname($0) ;
 my $R_script = "$program_dir/gsea_pro_v3.R";
+#my $R_autodetect_script = "$program_dir/gsea_pro_benchmark_v2.R";
 my $R_autodetect_script = "$program_dir/gsea_pro_benchmark.R";
 
 
@@ -45,7 +45,7 @@ my $clusterColumn = 'clusterID' ;
 my $autodetect = 'true';
 my $genome2d_url = 'http://genome2d.molgenrug.nl/genome2d_results/GSEA_pro' ;
 my $KEGG_organisms = "$program_dir/KEGG_organism.table";
-my $usage = "$program_dir/gsea_pro_v3.pl
+my $usage = "$program_dir/gsea_pro/gsea_pro.pl
 				-s sessiondir and output folder [default=current folder]
 				-table	Tab delimited text file of locus-tags and experiments: first column = locus_tag, other columns = experiments
 				-g genome prefix, including full path [e.g. /var/genomes/Bacteria/Lactococcus_lactis_cremoris_MG1363_uid58837/NC_009004 ]
@@ -53,7 +53,6 @@ my $usage = "$program_dir/gsea_pro_v3.pl
 				-up	cutoff value for positive values [default = $up]
 				-down	cutoff value for negative values [default = $down]
 				-cluster	Name of the clustercolumn [default = $clusterColumn]
-				-auto  Auto detect threshold values [default= $autodetect]
 				-o user prefix for results [default = $user_prefix ]
 
 e.g.  ./gsea_pro_v3.pl -table gsea_pro_Experiment_Table.txt -g /var/genomes/Bacteria/Bacillus_subtilis_168_uid57675/NC_000964 -o my_results
@@ -81,34 +80,32 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 	$classes{SUPERFAMILY} = "http://supfam.cs.bris.ac.uk/SUPERFAMILY/cgi-bin/scop.cgi?ipid="; 	
 	$classes{Pfam} = "http://pfam.xfam.org/family/" ; 
 	$classes{KEYWORDS} = "https://en.wikipedia.org/wiki/" ;
-	$classes{eggNOG_COG} = "http://eggnog5.embl.de/" ; 
-	$classes{ENOG} = "http://eggnog5.embl.de/" ; 
+	$classes{SMART} = "http://smart.embl-heidelberg.de/smart/do_annotation.pl?BLAST=DUMMY&DOMAIN=" ; 
 	$classes{COG} = "http://ecoliwiki.net/colipedia/index.php/Clusters_of_Orthologous_Groups_(COGs)?name=" ; 
 	$classes{operons} = "http://genome2d.molgenrug.nl/index.php/show-operon?operonname=" ; 
-	$classes{REGULON} = "http://genome2d.molgenrug.nl/index.php/show-regulon?REGULON=" ; 
 	#$classes{MetaCyc} = "http://metacyc.org/META/new-image?type=PATHWAY&object=" ; 
 	
 # session folders
 	my @items = split '/', $sessiondir ;  # get the sessionid without directory: is index [-1]	
 	my $session_id = $items[-1] ;
+	#my $href = "$genome2d_url/$session_id" ;  # the web results folder
 	
-# Annotation from Genome2D database or FACoP. To make the naming uniform;
-	print "===>Genome = $genome\n" ;	
+
 
  # ------------------------------------------------------------ main ----------------------------------------------------------------------
 
 
 # 1. Add the KEGG organism ID, this allows the correct organism link in the KEGG website 
-	# use python /data/molgentools/KEGG_organims_mapping.py to generate/update the KEGG organism table
+	# use python /usr/molgentools/KEGG_organims_mapping.py to generate/update the KEGG organism table
 	my $KEGG_organism_id = get_KEGG_organism_id() ;
 	print "KEGG organism ID = $KEGG_organism_id\n"; 
 	$classes{KEGG_organism} = $KEGG_organism_id ;
 
  
 # 2. Read the experiments, clusters or single table, This will all be stored in the hash: %experiments
-	print "\n#2. Read $sessiondir/$querytable\n";
+	print "#2. Read $sessiondir/$querytable\n";
 	clean_querytable() ;
-	if (chk_query_locustags()<0.10) { # less than 10% matches so give a warning 
+	if (chk_query_locustags()<0.80) { # less than 70% matches so give a warning 
 		my $str = "<font color=red>ERROR: Bad match between query and organism<br>
 					Please check the locus-tags in your query and the selected genome.<br> 
 					NOTE: In some annotations the <i>underscore</i> in the locus-tag is missing.<br> </font>" ;
@@ -121,8 +118,7 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 	anne_files::append_lines("$sessiondir/sessionprogress","Auto detect Threshold Values = ON<br>") if ($autodetect eq 'true') ; 
 	anne_files::append_lines("$sessiondir/sessionprogress","Reading data<br>");
 
-#3. Selected method
-	print "\n#3. Selected method = $method\n";
+	print "#3. Selected method = $method\n";
 	my $InputTableSize = 0 ;
 	if ($method eq 'experiment') {
 		%experiments = read_experiments($querytable)  ;
@@ -134,11 +130,12 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 		print "Error: defined method '-method $method' not found\n" ;
 	}	
 
+# 3. Auto detect cutoff values by using the first dataset
 	
 # 4. R script wil be executed for each experiment, cluster or single list
 	# test FACoP
 	# sudo -u www-data R --vanilla --slave --args /tmp/GSEAPRO/GSEA_PRO/129.125.142.95.4sgv17tddtls9lbcchn2rmh264.883 /tmp/GSEAPRO/GSEA_PRO/129.125.142.95.4sgv17tddtls9lbcchn2rmh264.883/GSEA_Pro.list.single_list.txt /tmp/FACoP/FACoP/129.125.142.95.ncm44vdlmjc3q09s4bk4ee52i1.254/query.FACoP GSEA_Pro single_list < /data/gsea_pro/gsea_pro_v3.R
-	print "\n#4. Analyze experiments in R\n";
+	print "#4. Analyze experiments in R\n";
 	anne_files::append_lines("$sessiondir/sessionprogress","Analyze experiments in R<br>");
 	my @experimentHits ;
 	analyze_experiments_in_R() ;
@@ -146,14 +143,14 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 	
 	
 # 5. Combine all experiment in one overview table: Class x Experiments
-	print "\n#5. Combine all experiment in one overview table: Class x Experiments\n";
+	print "#5. Combine all experiment in one overview table: Class x Experiments\n";
 	my %class_exp ; # the classID x experiment table
 	combine_experiments_classes() ;
 	# write a locus-tag list as HTML of all experiment x class_id combination : Data source = %class_exp and  %GenesPerClassID
 
 	
 # 6. Results produced by the R routine will be converted to HTML tables and JSON for visualization by the webserver
-	print "\n#6. Convert R result tables to HTML and JSON files for all Classes x Experimens\n";
+	print "#6. Convert R result tables to HTML and JSON files for all Classes x Experimens\n";
 	foreach my $class (keys %classes) {	
 		foreach my $experiment (sort keys %experiments) {
 			my $file_prefix = "$sessiondir/$user_prefix.GSEA.$class.$experiment" ;
@@ -162,8 +159,8 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 		} 
 	}
 	
+	
 # 7. Write JSON for D3.js TreeMap and GroupedBarPlot
-	print "\n#7. Make TreeMap\n";
 	make_TreeMap_JSON() ;
 	make_GroupedBarPlot_nested_JSON();
 	make_GroupedBarPlot_table();
@@ -171,20 +168,27 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 	anne_files::write_lines("$sessiondir/00.ClassExperiments_old.json",(encode_json \%class_exp)) ;
 	anne_files::write_lines("$sessiondir/00.Class.json",(encode_json \%classes)) ;
 	anne_files::write_lines("$sessiondir/00.Experiments.json",(encode_json \%experiments)) ;
+
+
+
+	
 	
 # 8. Make result pages
-	print "\n#8. Write the table and html table: Class X Experiment \n";
-	print "\t Table 1 json\n";
+	# Write the table and html table: Class X Experiment 
+	# Main Table ;
 	make_Table_1_JSON();
-	print "\t GeneAnnotation json\n";
-	make_GenomeAnnotation_JSON() ;
+	make_GenomeAnnotion_JSON() ;
+	
+
 	
 # 9. print Analysis Report
-	print "\n#9. Analysis Report\n";
 	print join "\n", @analysis_report	;
 	print "\n";
+	#	write_locustag_files();	
+	
 
-# 10. FINAL. let the web server know that the run is finished
+
+# 10. FINAL. let the web-server know that the run is finished
 	anne_files::write_string("$sessiondir/sessionstop", "done") ;
 
 	
@@ -197,13 +201,11 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 # ------------------------------------------------------------ functions ----------------------------------------------------------------------
 
 
-sub make_GenomeAnnotation_JSON {
-	# convert the genome table of genome2d to json format
-	my %table = anne_files::read_table_to_hash("$genome.g2d.FACoP.table") ;
-	print "Annotation is loaded from $genome.g2d.FACoP.table\n================================================================\n" ;
+sub make_GenomeAnnotion_JSON {
+	# convert the genome tabel of genome2d to json format
+	my %table = anne_files::read_table_to_hash("$genome.g2d.table") ;
 	anne_files::write_lines("$sessiondir/00.GenomeAnnotation.json",(encode_json \%table)) ;
 }	
-
 
 
 sub make_Table_1_JSON {
@@ -276,18 +278,36 @@ sub analyze_experiments_in_R {
 			print "Analyzing experiment $experiment\n";
 			anne_files::write_lines("$sessiondir/$user_prefix.list.$experiment.txt", @{ $experiments{$experiment} } ); 
 			# run the R script
-			print "R parameters\n
-			sessiondir = $sessiondir \n
-			experiment = $sessiondir/$user_prefix.list.$experiment.txt \n
-			genome = $genome \n
-			user_prefix = $user_prefix \n
-			experiment = $experiment \n" ;
-			my $tmp = "R --vanilla --slave --args $sessiondir $sessiondir/$user_prefix.list.$experiment.txt $genome $user_prefix $experiment < $R_script 2>>$sessiondir/00.GSEA_Pro.log" ;
+			my $tmp = "R --vanilla --slave --args $sessiondir $sessiondir/$user_prefix.list.$experiment.txt $genome.g2d $user_prefix $experiment < $R_script 2>>$sessiondir/00.GSEA_Pro.log" ;
 			anne_files::write_log("$sessiondir/log.txt", $tmp, 'true') ;
 			system($tmp) ;
 		}
 	}
 }
+
+sub write_locustag_files {	
+	# 1. Load genome annotation table from genome2d
+	# 2. Make html file of all Experiment x ClassID combinations
+	if (-e "$genome.g2d.table") {
+		my @lines = anne_files::read_lines("$genome.g2d.table");
+		my %annotation ;
+		foreach my $line (@lines) {	if ($line =~ m/^(.*?)\s+.*/) { $annotation{$1} = $line ;$annotation{$1} =~ s/\%3B|\%2C/,/g; }}  # remove also some unwanted hex chars which happens to be in the genome.g2d.table
+		foreach my $class_id (sort keys %class_exp) {
+			my @row = "$class_id" ;
+			foreach my $experiment (sort keys %experiments ) {					
+				# print "$class_id x $experiment\n";
+				my $fileprefix = "$user_prefix.$experiment.$class_id" ;
+				if (defined($class_exp{$class_id}{$experiment}{ExpectationValue})) {  # only write significant data
+					my @outfile =  "Geneset of $experiment with class_id = $class_id" ;
+					foreach (@{$GenesPerClassID{$experiment}{$class_id}}) { 
+						if (defined($annotation{$_})) { push @outfile, $annotation{$_}; } else { push @outfile, $_;}
+					}	
+					anne_files::write_lines("$sessiondir/$fileprefix.txt", (join "\n", @outfile)) ;   # write each individual experiment x class locus tags
+				}
+			}
+		}	
+	}	
+}	
 
 
 sub chk_query_locustags {
@@ -301,10 +321,7 @@ sub chk_query_locustags {
 	}
 	my $locustags = join ' ', anne_files::unique_array(@query_locustags) ; # long concatenated 'query locus_tag string'
 	my $queryCount = scalar anne_files::unique_array(@query_locustags) ; ;
-	@lines = anne_files::read_lines("$genome.g2d.FACoP.table") ;
-	print "Checking $genome     .g2d.FACoP.table\n" ;
-	print "$lines[0]\n$lines[1]\n$lines[2]\n" ;
-	print "$lines[0]\n$lines[1]\n$lines[2]\n" ;
+	@lines = anne_files::read_lines("$genome.g2d.table") ;
 	my $count = 0;
 	foreach my $line (@lines) {
 		my @items = split ";|,|\t", $line ; # split on the most common separators
@@ -324,7 +341,7 @@ sub autodetect_threshold {
 	my ($experiment, @lines) = @_ ;
 	anne_files::append_lines("$sessiondir/sessionprogress","Detecting Threshold values for $experiment<br>");
 	anne_files::write_lines("$sessiondir/autodetect.tmp",@lines) ;
-	my $commandline = "R --vanilla --slave --args $sessiondir $sessiondir/autodetect.tmp $genome $experiment < $R_autodetect_script 2>>$sessiondir/00.GSEA_Pro.log" ;
+	my $commandline = "R --vanilla --slave --args $sessiondir $sessiondir/autodetect.tmp $genome.g2d $experiment < $R_autodetect_script 2>>$sessiondir/00.GSEA_Pro.log" ;
 	anne_files::write_log("$sessiondir/log.txt", $commandline, 'true') ;
 	system($commandline) ;
 	# read the R results summary 
@@ -420,11 +437,7 @@ sub read_experiments {
 	return %results ;
 }
 
-sub leading_zeros {
-	my $number = shift ;
-	if ($number =~ (/^\d+$/)) {  return sprintf("%02d", $number); } # is a number 
-	else { return $number ; }
-}
+
 
 sub read_clusters {
 	# Here we do not use Thresholds because the clusters are already based on statistics
@@ -436,9 +449,7 @@ sub read_clusters {
 	$InputTableSize = scalar keys %table ;
 	my %results ;
 	foreach my $locus (sort keys %table) {
-		#my $test = leading_zeros($table{$locus}{$clusterColumn}) ;
-		my $cluster = "Cluster".leading_zeros($table{$locus}{$clusterColumn}) ;
-		#my $cluster = "Cluster_".$table{$locus}{$clusterColumn};
+		my $cluster = "Cluster_".$table{$locus}{$clusterColumn};
 		push @{ $results{$cluster} }, $locus ;
 	}
 	# locus tags can/will occur multiple times, so make the array unique
@@ -447,6 +458,7 @@ sub read_clusters {
 		@{ $results{$cluster} } = anne_files::unique_array(@{ $results{$cluster} }) ; 
 		delete $results{$cluster} if (scalar  @{ $results{$cluster} } < $ClusterSize ) ;
 	} 
+	# 2. filter values using threshold values and if needed auto detect threshold values
 	# make report
 	my $keycount = scalar keys %results ;
 	push @analysis_report, "Number of Clusters: $keycount" ;
@@ -488,12 +500,39 @@ sub combine_experiments_classes {
 
 
 sub get_genome_size {
-	my @lines = anne_files::read_lines("$genome.table") ;
+	my @lines = anne_files::read_lines("$genome.g2d.table") ;
 	shift @lines ;
 	return scalar @lines ;
 }
 
 
+
+sub make_OverviewTable {
+	my $TableCSS = "<style>
+		table {
+			border-collapse: collapse; }
+		th, td {
+			padding: 8px;
+			text-align: left;
+			border-bottom: 1px solid #ddd; }
+		th {
+			background-color: #003333;
+			color: white; }
+		tr {
+			color=#E0FFFF; }
+		tr:hover{background-color:yellow;}
+
+		</style>";
+
+	my $report = join "<br>", @analysis_report ;
+	my $bookmark = "http://genome2d.molgenrug.nl/index.php/gsea-pro?session_bookmark=$session_id";
+	my $html = "<TABLE>
+					<tr><td><b>GSEA-Pro Analysis Report</b></td><td>$report</td></tr>
+					<tr><td>Bookmark your results</td><td><a href=$bookmark target=_blank><b>$user_prefix Results: Click Right Mouse Button to Bookmark this GSEA-Pro Session</b></a></td></tr>						
+				</TABLE>";
+	print "==>OvervriewTable:$sessiondir/$user_prefix.OverviewTable.html\n" ;
+	anne_files::write_lines("$sessiondir/$user_prefix.OverviewTable.html",$TableCSS.$html) ;
+}
 
 sub genes_per_CLASS_ID {
 	# Get results from R output files

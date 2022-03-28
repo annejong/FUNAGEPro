@@ -1,0 +1,10 @@
+git add 00.README.Anne
+git add COG_from_ClassDescriptions.pl
+git add cognames2003-2014.tab
+git add FACoP
+git add *.R
+git add *.pl
+git add *.py
+git add KEGG_organism.table
+git add *.descriptions
+git add README*

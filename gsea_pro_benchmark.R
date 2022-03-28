@@ -30,7 +30,7 @@ maxTopHits <- 200
 noiseValue <- 1.1	
 	
 # this can be change to e.g. IPR, GO, KEGG 	
-benchmark_class <- 'IPR'
+benchmark_class <- 'GO'
 
 setwd(sessiondir)
 
@@ -58,7 +58,7 @@ HypGeomDist <- function(k,m,n,N) {
 load_class_data <- function(Class) {
 	# Read the classes Class data from files
 	# for testing:  Class<- 'GO'
-	filename = paste(genome,Class,sep='.')
+	filename = paste(genome,'g2d',Class,sep='.')
 	if (file.exists(filename)) {
 		CLASS_table<-read.table(filename, sep = "\t", quote = "", blank.lines.skip = TRUE, header=FALSE)
 		colnames(CLASS_table) <- c("ID","CLASS_ID","Description")

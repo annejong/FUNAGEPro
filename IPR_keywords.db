@@ -1,0 +1,2725 @@
+Number of KeyWords = 243
+(vitamin	IPR002751	cobalamin (vitamin b12) biosynthesis cbim family
+(vitamin	IPR006158	cobalamin (vitamin b12)-binding domain
+(vitamin	IPR006365	cobalamin (vitamin b12) biosynthesis cobl precorrin-6y c(5 15)-methyltransferase
+(vitamin	IPR016176	cobalamin (vitamin b12)-dependent enzyme  catalytic
+2-like	IPR005244	fo synthase  subunit 2-like
+2-like	IPR017981	gpcr  family 2-like
+2-like	IPR029018	chitobiase beta-hexosaminidase domain 2-like
+2-like	IPR029067	cdc48 domain 2-like
+6-phosphogluconate	IPR000581	dihydroxy-acid 6-phosphogluconate dehydratase
+6-phosphogluconate	IPR006183	6-phosphogluconate dehydrogenase
+6-phosphogluconate	IPR008927	6-phosphogluconate dehydrogenase c-terminal domain-like
+6-phosphogluconate	IPR013328	6-phosphogluconate dehydrogenase  domain 2
+abc	IPR000515	abc transporter type 1  transmembrane domain meti-like
+abc	IPR001851	abc transporter  permease
+abc	IPR002491	abc transporter periplasmic binding domain
+abc	IPR003339	abc ecf transporter  transmembrane component
+abc	IPR003439	abc transporter-like
+abc	IPR005667	sulphate abc transporter permease protein 2
+abc	IPR005770	phosphate phosphite phosphonate abc transporter  periplasmic binding protein
+abc	IPR005948	thiamine abc transporter periplasmic binding protein
+abc	IPR013305	abc transporter tap-like
+abc	IPR026082	abc transporter a  abca
+abc	IPR030802	abc transporter permease male
+acid	IPR000326	phosphatidic acid phosphatase type 2 haloperoxidase
+acid	IPR000890	aliphatic acid kinase  short-chain
+acid	IPR001011	acid phosphatase  class a  bacterial
+acid	IPR001106	aromatic amino acid lyase
+acid	IPR001273	aromatic amino acid hydroxylase
+acid	IPR002293	amino acid polyamine transporter i
+acid	IPR003664	fatty acid synthesis plsx protein
+acid	IPR005519	acid phosphatase  class b-like
+acid	IPR006160	short chain fatty acid transporter atoe
+acid	IPR006726	para-hydroxybenzoic acid efflux pump subunit aaeb fusaric acid resistance protein
+acid	IPR006726	para-hydroxybenzoic acid efflux pump subunit aaeb fusaric acid resistance protein
+acid	IPR008963	purple acid phosphatase-like  n-terminal
+acid	IPR009359	phenylacetic acid degradation b
+acid	IPR010329	3-hydroxyanthranilic acid dioxygenase
+acid	IPR011606	branched-chain amino acid transport  permease
+acid	IPR012133	alpha-hydroxy acid dehydrogenase  fmn-dependent
+acid	IPR012689	2 4-dihydroxyhept-2-ene-1 7-dioic acid aldolase
+acid	IPR030679	abc-type amino acid transport system  atpase component  hisp-type
+aconitase	IPR001030	aconitase 3-isopropylmalate dehydratase large subunit  alpha beta alpha domain
+aconitase	IPR012016	aconitase x subunit 2  putative
+aconitase	IPR015928	aconitase 3-isopropylmalate dehydratase  swivel
+aconitase	IPR015937	aconitase isopropylmalate dehydratase
+acyl	IPR005283	peroxysomal long chain fatty acyl transporter
+acyl	IPR007431	acyl carrier protein phosphodiesterase
+acyl	IPR016035	acyl transferase acyl hydrolase lysophospholipase
+acyl	IPR016035	acyl transferase acyl hydrolase lysophospholipase
+acyl	IPR023439	malonate decarboxylase citrate lyase acyl carrier protein
+acyl-coa	IPR006684	acyl-coa thioester hydrolase ybgc ybaw family
+acyl-coa	IPR009075	acyl-coa dehydrogenase oxidase c-terminal
+acyl-coa	IPR013786	acyl-coa dehydrogenase oxidase  n-terminal
+acyl-coa	IPR015876	acyl-coa desaturase
+acyl-coa	IPR016181	acyl-coa n-acyltransferase
+adaptor	IPR001392	clathrin adaptor  mu subunit
+adaptor	IPR009028	coatomer calthrin adaptor appendage  c-terminal subdomain
+adaptor	IPR013041	coatomer clathrin adaptor appendage  ig-like subdomain
+adaptor	IPR014719	ribosomal protein l7 l12  c-terminal adaptor protein clps-like
+adaptor	IPR016635	adaptor protein complex  sigma subunit
+aldolase	IPR000741	fructose-bisphosphate aldolase  class-i
+aldolase	IPR000771	fructose-bisphosphate aldolase  class-ii
+aldolase	IPR001585	transaldolase fructose-6-phosphate aldolase
+aldolase	IPR002915	deoc fbab  lacd aldolase
+aldolase	IPR012062	d-tagatose-bisphosphate aldolase  non-catalytic subunit  gatz kbaz
+aldolase	IPR012689	2 4-dihydroxyhept-2-ene-1 7-dioic acid aldolase
+alpha	IPR000066	antenna complex  alpha beta subunit
+alpha	IPR000194	atpase  f1 v1 a1 complex  alpha beta subunit  nucleotide-binding domain
+alpha	IPR000471	interferon alpha beta delta
+alpha	IPR001019	guanine nucleotide binding protein (g-protein)  alpha subunit
+alpha	IPR001030	aconitase 3-isopropylmalate dehydratase large subunit  alpha beta alpha domain
+alpha	IPR001030	aconitase 3-isopropylmalate dehydratase large subunit  alpha beta alpha domain
+alpha	IPR001308	electron transfer flavoprotein alpha subunit fixb
+alpha	IPR001353	proteasome  subunit alpha beta
+alpha	IPR001588	casein  alpha beta
+alpha	IPR001696	voltage gated sodium channel  alpha subunit
+alpha	IPR002489	glutamate synthase  alpha subunit  c-terminal
+alpha	IPR004232	nitrile hydratase alpha  thiocyanate hydrolase gamma
+alpha	IPR004529	phenylalanyl-trna synthetase  class iic  alpha subunit
+alpha	IPR004805	dna polymerase iii  alpha subunit
+alpha	IPR005178	organic solute transporter subunit alpha transmembrane protein 184
+alpha	IPR005294	atp synthase  f1 complex  alpha subunit
+alpha	IPR006080	beta alpha defensin
+alpha	IPR008908	sarcoglycan alpha epsilon
+alpha	IPR008924	methyl-coenzyme m reductase  alpha beta subunit  c-terminal
+alpha	IPR010143	nitrogenase component 1  alpha chain
+alpha	IPR010327	fldb fldc dehydratase alpha beta subunit
+alpha	IPR011070	globular protein  non-globular alpha beta subunit
+alpha	IPR011322	nitrogen regulatory pii-like  alpha beta
+alpha	IPR011488	translation initiation factor 2  alpha subunit
+alpha	IPR012128	phycobilisome  alpha beta subunit
+alpha	IPR013761	sterile alpha motif pointed domain
+alpha	IPR013792	rna 3'-terminal phosphate cyclase enolpyruvate transferase  alpha beta
+alpha	IPR014638	double c2 protein  alpha beta gamma
+alpha	IPR014729	rossmann-like alpha beta alpha sandwich fold
+alpha	IPR014729	rossmann-like alpha beta alpha sandwich fold
+alpha	IPR015417	glycine sarcosine betaine reductase complex  protein b  subunit alpha  beta
+alpha	IPR015946	k homology domain-like  alpha beta
+alpha	IPR016336	receptor tyrosine-protein phosphatase  alpha epsilon-type
+alpha	IPR017943	bactericidal permeability-increasing protein  alpha beta domain
+alpha	IPR017945	dhbp synthase ribb-like alpha beta domain
+alpha	IPR020097	pseudouridine synthase i  trua  alpha beta domain
+alpha	IPR021537	hypoxia-inducible factor  alpha subunit
+alpha	IPR022878	v-type atp synthase catalytic alpha chain
+alpha	IPR023900	nitrile hydratase alpha subunit  thiocyanate hydrolase gamma subunit
+alpha	IPR026255	nad(p) transhydrogenase  alpha subunit
+alpha	IPR029028	alpha beta knot methyltransferases
+alpha	IPR029058	alpha beta hydrolase fold
+amidase	IPR000120	amidase
+amidase	IPR002502	n-acetylmuramoyl-l-alanine amidase domain
+amidase	IPR013486	sporulation stage ii protein d  amidase enhancer lytb
+amidase	IPR023631	amidase signature domain
+amino	IPR001106	aromatic amino acid lyase
+amino	IPR001273	aromatic amino acid hydroxylase
+amino	IPR002293	amino acid polyamine transporter i
+amino	IPR003675	caax amino terminal protease
+amino	IPR011606	branched-chain amino acid transport  permease
+amino	IPR030679	abc-type amino acid transport system  atpase component  hisp-type
+aminoacyl-trna	IPR002305	aminoacyl-trna synthetase  class ic
+aminoacyl-trna	IPR006195	aminoacyl-trna synthetase  class ii
+aminoacyl-trna	IPR009080	aminoacyl-trna synthetase  class ia  anticodon-binding
+aminoacyl-trna	IPR018150	aminoacyl-trna synthetase  class ii (d k n)-like
+aminopeptidase	IPR001714	peptidase m24  methionine aminopeptidase
+aminopeptidase	IPR001930	peptidase m1  alanine aminopeptidase leukotriene a4 hydrolase
+aminopeptidase	IPR011356	peptidase m17  leucine aminopeptidase peptidase b
+aminopeptidase	IPR029149	creatinase aminopeptidase p spt16  n-terminal
+aminotransferase	IPR000653	degt dnrj eryc1 strs aminotransferase
+aminotransferase	IPR001544	aminotransferase class iv
+aminotransferase	IPR005814	aminotransferase class-iii
+aminotransferase	IPR005861	histidinol-phosphate aminotransferase family
+aminotransferase	IPR005958	tyrosine nicotianamine aminotransferase
+aminotransferase	IPR022278	phosphoserine aminotransferase
+aminotransferase	IPR024169	serine-pyruvate aminotransferase 2-aminoethylphosphonate-pyruvate transaminase
+antigen	IPR002343	paraneoplastic encephalomyelitis antigen
+antigen	IPR002858	variant surface antigen rifin stevor  plasmodium falciparum
+antigen	IPR009483	invasion plasmid antigen ipad
+antigen	IPR011162	mhc classes i ii-like antigen recognition protein
+antigen	IPR026523	paraneoplastic antigen ma
+antigen	IPR032300	cell surface antigen  c-terminal
+antitoxin	IPR007337	relb antitoxin antitoxin dinj
+antitoxin	IPR007337	relb antitoxin antitoxin dinj
+antitoxin	IPR019238	transcriptional regulator  abiei 2 antitoxin  type iv ta system
+antitoxin	IPR032758	antitoxin mqsa higa-2
+archaeal	IPR001425	archaeal bacterial fungal rhodopsins
+archaeal	IPR004493	leucyl-trna synthetase  class ia  archaeal eukaryotic cytosolic
+archaeal	IPR005703	ribosomal protein s3  eukaryotic archaeal
+archaeal	IPR005872	archaeal bacterial translation initiation factor sui1
+archaeal	IPR006591	rna polymerase archaeal subunit p eukaryotic subunit rpabc4
+archaeal	IPR007238	dna primase large subunit  eukaryotic archaeal
+archaeal	IPR010036	magnesium-dependent phosphatase-1  eukaryotic archaeal type
+archaeal	IPR022813	protein-export membrane protein secd secf  archaeal and bacterial
+archaeal	IPR027639	comb  archaeal
+arginine	IPR007041	arginine n-succinyltransferase asta arug
+arginine	IPR011193	ornithine lysine arginine decarboxylase
+arginine	IPR024946	arginine repressor c-terminal-like domain
+arginine	IPR025799	protein arginine n-methyltransferase
+arginine	IPR033199	dimethylarginine dimethylaminohydrolase arginine deiminase
+assembly	IPR000825	suf system fes cluster assembly  sufbd
+assembly	IPR007446	pilus assembly protein pilp
+assembly	IPR010563	pilus assembly trak
+assembly	IPR010664	lipopolysaccharide assembly  lptc-related
+assembly	IPR013046	phage baseplate assembly protein v gp45
+assembly	IPR019056	phage tail assembly chaperone protein  tac6
+assembly	IPR019106	type-f conjugative transfer system pilin assembly protein trbc
+assembly	IPR019108	cytochrome c oxidase caa3-type  assembly factor ctag-related
+assembly	IPR019151	proteasome assembly chaperone 2
+associated	IPR007354	carotene biosynthesis associated membrane protein
+associated	IPR010516	sin3 associated polypeptide p18
+associated	IPR017451	f-box associated interaction domain
+associated	IPR019051	trp biosynthesis associated  transmembrane protein  oprn chp
+associated	IPR019199	virulence-associated protein d   crispr associated protein cas2
+associated	IPR026074	microtubule associated protein 1
+associated	IPR027324	microtubule associated protein map2 map4 tau
+associated	IPR030113	actin-filament associated protein
+associated	IPR031098	arthropod  neurohormone alpha-latrotoxin associated low molecular weight protein
+associated	IPR032816	snare associated golgi protein
+atp	IPR000131	atp synthase  f1 complex  gamma subunit
+atp	IPR000454	atp synthase  f0 complex  subunit c
+atp	IPR000568	atp synthase  f0 complex  subunit a
+atp	IPR001348	atp phosphoribosyltransferase hisg
+atp	IPR001469	atp synthase  f1 complex  delta epsilon subunit
+atp	IPR002146	atp synthase  f0 complex  subunit b b'  bacterial chloroplast
+atp	IPR004516	histidine-trna ligase atp phosphoribosyltransferase regulatory subunit
+atp	IPR005294	atp synthase  f1 complex  alpha subunit
+atp	IPR006808	atp synthase  f0 complex  subunit g  mitochondrial
+atp	IPR008688	atp synthase  f0 complex  subunit b mi25
+atp	IPR022878	v-type atp synthase catalytic alpha chain
+atp	IPR022879	v-type atp synthase regulatory subunit b beta
+atp	IPR025501	atp binding protein mind
+atp-dependent	IPR000631	atp-dependent (s)-nad(p)h-hydrate dehydratase
+atp-dependent	IPR000977	dna ligase  atp-dependent
+atp-dependent	IPR004589	dna helicase  atp-dependent  recq type
+atp-dependent	IPR017170	lhr-like atp-dependent rna helicase  predicted
+atp-dependent	IPR022953	atp-dependent 6-phosphofructokinase
+atpase	IPR000194	atpase  f1 v1 a1 complex  alpha beta subunit  nucleotide-binding domain
+atpase	IPR000402	sodium potassium-transporting atpase subunit beta
+atpase	IPR001757	p-type atpase
+atpase	IPR002490	v-type  atpase  v0 complex  116kda subunit family
+atpase	IPR002731	atpase  badf badg bcra bcrd type
+atpase	IPR002843	atpase  v0 complex   c d subunit
+atpase	IPR003594	histidine kinase-like atpase  c-terminal domain
+atpase	IPR005654	atpase  afg1-like
+atpase	IPR005714	atpase  type iii secretion system  flii yscn
+atpase	IPR008218	atpase  v1 complex  subunit f
+atpase	IPR008389	atpase  v0 complex  subunit e1 e2
+atpase	IPR016300	arsenical pump atpase  arsa get3
+atpase	IPR025955	type-iv secretion system protein trac conjugative transfer atpase
+atpase	IPR030679	abc-type amino acid transport system  atpase component  hisp-type
+augmin-like	IPR028346	haus augmin-like complex subunit 2
+augmin-like	IPR029131	haus augmin-like complex subunit 5
+augmin-like	IPR029327	haus augmin-like complex subunit 4
+augmin-like	IPR029711	haus augmin-like complex subunit 7-like
+bacterial	IPR000983	bacterial general secretion pathway protein g-type pilin
+bacterial	IPR001011	acid phosphatase  class a  bacterial
+bacterial	IPR001425	archaeal bacterial fungal rhodopsins
+bacterial	IPR002016	haem peroxidase  plant fungal bacterial
+bacterial	IPR002103	bacterial luciferase nfp
+bacterial	IPR002146	atp synthase  f0 complex  subunit b b'  bacterial chloroplast
+bacterial	IPR002191	bacterial export protein family 3
+bacterial	IPR004960	bacterial lipid a biosynthesis acyltransferase
+bacterial	IPR005872	archaeal bacterial translation initiation factor sui1
+bacterial	IPR013307	superantigen  staphylococcal streptococcal toxin  bacterial
+bacterial	IPR018513	cellulose synthase bcsb  bacterial
+bacterial	IPR022813	protein-export membrane protein secd secf  archaeal and bacterial
+barrel	IPR011008	dimeric alpha-beta barrel
+barrel	IPR012349	fmn-binding split barrel
+barrel	IPR013785	aldolase-type tim barrel
+barrel	IPR029066	plp-binding barrel
+beta	IPR000066	antenna complex  alpha beta subunit
+beta	IPR000194	atpase  f1 v1 a1 complex  alpha beta subunit  nucleotide-binding domain
+beta	IPR000369	potassium channel  voltage-dependent  beta subunit  kcne
+beta	IPR000391	ring-hydroxylating dioxygenase beta subunit
+beta	IPR000402	sodium potassium-transporting atpase subunit beta
+beta	IPR000471	interferon alpha beta delta
+beta	IPR000584	voltage-dependent calcium channel  l-type  beta subunit
+beta	IPR001030	aconitase 3-isopropylmalate dehydratase large subunit  alpha beta alpha domain
+beta	IPR001353	proteasome  subunit alpha beta
+beta	IPR001395	aldo keto reductase potassium channel subunit beta
+beta	IPR001588	casein  alpha beta
+beta	IPR004461	co dehydrogenase acetyl-coa synthase complex beta subunit
+beta	IPR004531	phenylalanyl-trna synthetase  class iic  beta subunit  archae euk cytosolic
+beta	IPR005661	na+-transporting methylmalonyl-coa oxaloacetate decarboxylase  beta subunit
+beta	IPR006080	beta alpha defensin
+beta	IPR008699	nadh dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8
+beta	IPR008924	methyl-coenzyme m reductase  alpha beta subunit  c-terminal
+beta	IPR010327	fldb fldc dehydratase alpha beta subunit
+beta	IPR011070	globular protein  non-globular alpha beta subunit
+beta	IPR011206	citrate lyase beta subunit-like
+beta	IPR011322	nitrogen regulatory pii-like  alpha beta
+beta	IPR011330	glycoside hydrolase deacetylase  beta alpha-barrel
+beta	IPR012128	phycobilisome  alpha beta subunit
+beta	IPR012255	electron transfer flavoprotein  beta subunit
+beta	IPR013792	rna 3'-terminal phosphate cyclase enolpyruvate transferase  alpha beta
+beta	IPR014638	double c2 protein  alpha beta gamma
+beta	IPR014729	rossmann-like alpha beta alpha sandwich fold
+beta	IPR015417	glycine sarcosine betaine reductase complex  protein b  subunit alpha  beta
+beta	IPR015812	integrin beta subunit
+beta	IPR015946	k homology domain-like  alpha beta
+beta	IPR017943	bactericidal permeability-increasing protein  alpha beta domain
+beta	IPR017945	dhbp synthase ribb-like alpha beta domain
+beta	IPR017946	plc-like phosphodiesterase  tim beta alpha-barrel domain
+beta	IPR019198	beta propeller domain-containing family
+beta	IPR019405	lactonase  7-bladed beta propeller
+beta	IPR020097	pseudouridine synthase i  trua  alpha beta domain
+beta	IPR022879	v-type atp synthase regulatory subunit b beta
+beta	IPR023026	tryptophan synthase beta chain beta chain-like
+beta	IPR023026	tryptophan synthase beta chain beta chain-like
+beta	IPR026739	ap complex subunit beta
+beta	IPR029028	alpha beta knot methyltransferases
+beta	IPR029058	alpha beta hydrolase fold
+beta-barrel	IPR009000	translation protein  beta-barrel domain
+beta-barrel	IPR009009	rlpa-like protein  double-psi beta-barrel domain
+beta-barrel	IPR009088	transcription factor iia  beta-barrel
+beta-barrel	IPR011250	outer membrane protein outer membrane enzyme pagp   beta-barrel
+beta-barrel	IPR016085	protease inhibitor  beta-barrel domain
+beta-barrel	IPR017938	riboflavin synthase-like beta-barrel
+beta-barrel	IPR018759	putative beta-barrel porin 2
+binding	IPR000814	tata-box binding protein
+binding	IPR001019	guanine nucleotide binding protein (g-protein)  alpha subunit
+binding	IPR001071	cellular retinaldehyde binding alpha-tocopherol transport
+binding	IPR001630	camp response element binding (creb) protein
+binding	IPR002491	abc transporter periplasmic binding domain
+binding	IPR004452	4fe-4s binding protein
+binding	IPR005770	phosphate phosphite phosphonate abc transporter  periplasmic binding protein
+binding	IPR005948	thiamine abc transporter periplasmic binding protein
+binding	IPR006073	gtp binding domain
+binding	IPR006127	periplasmic solute binding protein  znua-like
+binding	IPR006170	pheromone general odorant binding protein
+binding	IPR006628	purine-rich element binding protein family
+binding	IPR008336	dna topoisomerase i  dna binding  eukaryotic-type
+binding	IPR008995	molybdate tungstate binding  c-terminal
+binding	IPR009011	mannose-6-phosphate receptor binding domain
+binding	IPR009081	phosphopantetheine binding acp domain
+binding	IPR009168	insulin-like growth factor binding protein
+binding	IPR011256	regulatory factor  effector binding domain
+binding	IPR022796	chlorophyll a-b binding protein
+binding	IPR025501	atp binding protein mind
+binding	IPR026045	ferric binding protein
+binding	IPR028082	periplasmic binding protein-like i
+binding	IPR029005	lim-domain binding protein seuss
+binding	IPR029009	allosteric substrate binding domain
+binding	IPR030678	peptide nickel binding protein  mppa-type
+binding	IPR031259	intracellular lipid binding protein
+biogenesis	IPR003544	cytochrome c-type biogenesis protein ccmb
+biogenesis	IPR003567	cytochrome c-type biogenesis protein
+biogenesis	IPR005155	ribosome biogenesis factor nip7-like
+biogenesis	IPR005304	ribosomal biogenesis  methyltransferase  emg1 nep1
+biogenesis	IPR008733	peroxisomal biogenesis factor 11
+biogenesis	IPR019027	pilus biogenesis cpad-related
+biogenesis	IPR022309	ribosomal protein s8e ribosomal biogenesis nsa2
+biogenesis	IPR022784	ribosome biogenesis protein alb1
+biogenesis	IPR028364	ribosomal protein l1 ribosomal biogenesis protein
+biosynthesis	IPR002684	biotin synthase biotin biosynthesis bifunctional protein bioab
+biosynthesis	IPR002751	cobalamin (vitamin b12) biosynthesis cbim family
+biosynthesis	IPR002797	polysaccharide biosynthesis protein
+biosynthesis	IPR003448	molybdopterin biosynthesis moae
+biosynthesis	IPR003731	dinitrogenase iron-molybdenum cofactor biosynthesis
+biosynthesis	IPR003773	menaquinone biosynthesis enzyme
+biosynthesis	IPR004666	ribosomal s6 modification enzyme rimk lysine biosynthesis enzyme lysx
+biosynthesis	IPR004960	bacterial lipid a biosynthesis acyltransferase
+biosynthesis	IPR006062	histidine biosynthesis
+biosynthesis	IPR006365	cobalamin (vitamin b12) biosynthesis cobl precorrin-6y c(5 15)-methyltransferase
+biosynthesis	IPR007354	carotene biosynthesis associated membrane protein
+biosynthesis	IPR007715	ubiquinone biosynthesis protein coq4
+biosynthesis	IPR010971	ubiquinone biosynthesis hydroxylase ubih coq6
+biosynthesis	IPR012245	molybdenum cofactor biosynthesis protein moab
+biosynthesis	IPR014438	glucan biosynthesis  periplasmic  mdog d
+biosynthesis	IPR017475	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase
+biosynthesis	IPR017806	ergothioneine biosynthesis protein egtb
+biosynthesis	IPR017808	ergothioneine biosynthesis protein egtc
+biosynthesis	IPR019051	trp biosynthesis associated  transmembrane protein  oprn chp
+biosynthesis	IPR019074	spore cortex biosynthesis protein  yabq-like
+biosynthesis	IPR021148	polysaccharide biosynthesis domain
+biosynthesis	IPR023045	molybdenum cofactor biosynthesis c
+c-like	IPR007822	lanthionine synthetase c-like
+c-like	IPR009056	cytochrome c-like domain
+c-like	IPR017901	c-cap cofactor c-like domain
+c-like	IPR026327	methyl-coenzyme m reductase  protein c-like
+c-terminal	IPR000483	cysteine-rich flanking region  c-terminal
+c-terminal	IPR000788	ribonucleotide reductase large subunit  c-terminal
+c-terminal	IPR000961	agc-kinase  c-terminal
+c-terminal	IPR001203	aldehyde ferredoxin oxidoreductase  c-terminal
+c-terminal	IPR002489	glutamate synthase  alpha subunit  c-terminal
+c-terminal	IPR003594	histidine kinase-like atpase  c-terminal domain
+c-terminal	IPR004216	l-fucose l-arabinose isomerase  c-terminal
+c-terminal	IPR004358	signal transduction histidine kinase-related protein  c-terminal
+c-terminal	IPR008280	tubulin ftsz  c-terminal
+c-terminal	IPR008916	retrovirus capsid  c-terminal
+c-terminal	IPR008920	transcription regulator fadr gntr  c-terminal
+c-terminal	IPR008921	dna polymerase iii  clamp loader complex  gamma delta delta subunit  c-terminal
+c-terminal	IPR008924	methyl-coenzyme m reductase  alpha beta subunit  c-terminal
+c-terminal	IPR008927	6-phosphogluconate dehydrogenase c-terminal domain-like
+c-terminal	IPR008988	transcriptional repressor  c-terminal
+c-terminal	IPR008995	molybdate tungstate binding  c-terminal
+c-terminal	IPR009001	translation elongation factor ef1a initiation factor if2gamma  c-terminal
+c-terminal	IPR009006	alanine racemase group iv decarboxylase  c-terminal
+c-terminal	IPR009014	transketolase c-terminal pyruvate-ferredoxin oxidoreductase domain ii
+c-terminal	IPR009028	coatomer calthrin adaptor appendage  c-terminal subdomain
+c-terminal	IPR009075	acyl-coa dehydrogenase oxidase c-terminal
+c-terminal	IPR010918	air synthase-related protein  c-terminal domain
+c-terminal	IPR011049	serralysin-like metalloprotease  c-terminal
+c-terminal	IPR011071	polysaccharide lyase family 8-like  c-terminal
+c-terminal	IPR011766	thiamine pyrophosphate enzyme  c-terminal tpp-binding
+c-terminal	IPR012921	spen paralogue and orthologue spoc  c-terminal
+c-terminal	IPR013632	dna recombination and repair protein rad51-like  c-terminal
+c-terminal	IPR014719	ribosomal protein l7 l12  c-terminal adaptor protein clps-like
+c-terminal	IPR014737	transposase  tn5-like  c-terminal
+c-terminal	IPR014784	copper type ii  ascorbate-dependent monooxygenase-like  c-terminal
+c-terminal	IPR015378	transposase-like  mu  c-terminal
+c-terminal	IPR015795	pyruvate kinase  c-terminal
+c-terminal	IPR015893	tetracycline transcriptional regulator  tetr-like  c-terminal
+c-terminal	IPR015955	lactate dehydrogenase glycoside hydrolase  family 4  c-terminal
+c-terminal	IPR016091	superantigen toxin  c-terminal
+c-terminal	IPR016098	cyclase-associated protein cap septum formation inhibitor minc  c-terminal
+c-terminal	IPR016136	dna helicase dnab  n-terminal dna primase dnag  c-terminal
+c-terminal	IPR016164	fad-linked oxidase-like  c-terminal
+c-terminal	IPR021136	flagellar hook-length control protein-like  c-terminal
+c-terminal	IPR022782	actin interacting protein 3  c-terminal
+c-terminal	IPR023093	rad21 rec8-like protein  c-terminal
+c-terminal	IPR025931	taqi-like c-terminal specificity domain
+c-terminal	IPR028375	ka1 domain ssp2  c-terminal
+c-terminal	IPR029043	glycine cleavage t-protein ygfz  c-terminal domain
+c-terminal	IPR029065	enolase c-terminal domain-like
+c-terminal	IPR032095	saccharopine dehydrogenase  c-terminal
+c-terminal	IPR032300	cell surface antigen  c-terminal
+c-terminal	IPR033614	c-terminal rassf family
+c-terminal-like	IPR010987	glutathione s-transferase  c-terminal-like
+c-terminal-like	IPR011022	arrestin c-terminal-like domain
+c-terminal-like	IPR011034	formyl transferase  c-terminal-like
+c-terminal-like	IPR011068	nucleotidyltransferase  class i  c-terminal-like
+c-terminal-like	IPR024946	arginine repressor c-terminal-like domain
+c-terminal-like	IPR025659	tubby c-terminal-like domain
+c-type	IPR003544	cytochrome c-type biogenesis protein ccmb
+c-type	IPR003567	cytochrome c-type biogenesis protein
+c-type	IPR016187	c-type lectin fold
+c-type	IPR018660	c-type lysozyme  inhibitor
+c-type	IPR030999	sulfur oxidation c-type cytochrome soxx
+calcium	IPR000584	voltage-dependent calcium channel  l-type  beta subunit
+calcium	IPR002077	voltage-dependent calcium channel  alpha-1 subunit
+calcium	IPR004481	sodium potassium calcium exchanger
+calcium	IPR004713	calcium proton exchanger
+calcium	IPR004836	sodium calcium exchanger protein
+calcium	IPR005415	type iii secretion system  low calcium response  chaperone lcrh sycd
+calcium	IPR012446	calcium release-activated calcium channel protein
+calcium	IPR012446	calcium release-activated calcium channel protein
+calcium	IPR020636	calcium calmodulin-dependent calcium-dependent protein kinase
+capsid	IPR008916	retrovirus capsid  c-terminal
+capsid	IPR008980	viral capsid haemagglutinin protein
+capsid	IPR016184	capsid spike protein  ssdna virus
+capsid	IPR024455	phage capsid
+carrier	IPR002067	mitochondrial carrier protein
+carrier	IPR002582	holo-[acyl carrier protein] synthase
+carrier	IPR002666	reduced folate carrier
+carrier	IPR004564	outer membrane lipoprotein carrier protein lola-like
+carrier	IPR004686	tricarboxylate iron carrier
+carrier	IPR007431	acyl carrier protein phosphodiesterase
+carrier	IPR023439	malonate decarboxylase citrate lyase acyl carrier protein
+carrier	IPR024925	malonyl coa-acyl carrier protein transacylase
+catalytic	IPR011010	dna breaking-rejoining enzyme  catalytic core
+catalytic	IPR013762	integrase-like  catalytic domain
+catalytic	IPR014746	glutamine synthetase guanido kinase  catalytic domain
+catalytic	IPR016176	cobalamin (vitamin b12)-dependent enzyme  catalytic
+catalytic	IPR019752	pyruvate ketoisovalerate oxidoreductase  catalytic domain
+catalytic	IPR020058	glutamyl glutaminyl-trna synthetase  class ib  catalytic domain
+catalytic	IPR020103	pseudouridine synthase  catalytic domain
+catalytic	IPR022878	v-type atp synthase catalytic alpha chain
+catalytic	IPR024079	metallopeptidase  catalytic domain
+cation	IPR002524	cation efflux protein
+cation	IPR003445	cation transporter
+cation	IPR006153	cation h+ exchanger
+cation	IPR018422	cation h+ exchanger  cpa1 family
+cell	IPR001182	cell cycle protein ftsw roda
+cell	IPR003438	glial cell line-derived neurotrophic factor receptor
+cell	IPR005548	cell division protein ftsq divib
+cell	IPR007227	cell shape-determining protein mred
+cell	IPR007561	cell division protein sepf sepf-related
+cell	IPR009138	neural cell adhesion
+cell	IPR024114	islet cell autoantigen 1 ica1-like
+cell	IPR025224	cell cycle and apoptosis regulator protein
+cell	IPR032300	cell surface antigen  c-terminal
+cell	IPR033481	cell fusion protein dni1 fig1
+chain	IPR000440	nadh:ubiquinone plastoquinone oxidoreductase  chain 3
+chain	IPR000778	cytochrome b245  heavy chain
+chain	IPR001133	nadh-ubiquinone oxidoreductase chain 4l k
+chain	IPR002061	scorpion long chain toxin defensin
+chain	IPR004374	peptide chain release factor 2
+chain	IPR004403	peptide chain release factor erf1 arf1
+chain	IPR005283	peroxysomal long chain fatty acyl transporter
+chain	IPR006160	short chain fatty acid transporter atoe
+chain	IPR009451	amine dehydrogenase heavy chain
+chain	IPR010143	nitrogenase component 1  alpha chain
+chain	IPR010226	nadh-quinone oxidoreductase  chain i
+chain	IPR011613	glycoside hydrolase family 15 phosphorylase b kinase regulatory chain family
+chain	IPR016008	amine dehydrogenase light chain
+chain	IPR022780	dynein family light intermediate chain
+chain	IPR022878	v-type atp synthase catalytic alpha chain
+chain	IPR023026	tryptophan synthase beta chain beta chain-like
+chain	IPR026983	dynein heavy chain
+channel	IPR000369	potassium channel  voltage-dependent  beta subunit  kcne
+channel	IPR000584	voltage-dependent calcium channel  l-type  beta subunit
+channel	IPR001395	aldo keto reductase potassium channel subunit beta
+channel	IPR001696	voltage gated sodium channel  alpha subunit
+channel	IPR001807	chloride channel  voltage gated
+channel	IPR001873	na+ channel  amiloride-sensitive
+channel	IPR002077	voltage-dependent calcium channel  alpha-1 subunit
+channel	IPR002946	intracellular chloride channel
+channel	IPR003280	two pore domain potassium channel
+channel	IPR003938	potassium channel  voltage-dependent  eag elk erg
+channel	IPR004695	voltage-dependent anion channel
+channel	IPR004729	transient receptor potential channel
+channel	IPR005408	two pore domain potassium channel  twik family
+channel	IPR006685	mechanosensitive ion channel mscs
+channel	IPR012446	calcium release-activated calcium channel protein
+channel	IPR013642	calcium-activated chloride channel protein
+channel	IPR016449	potassium channel  inwardly rectifying  kir
+channel	IPR027098	sodium channel subunit beta-1 beta-3
+channel	IPR028325	voltage-gated potassium channel
+chaperone	IPR001802	mercuric transport protein periplasmic component copper chaperone copz
+chaperone	IPR003782	copper chaperone sco1 senc
+chaperone	IPR005415	type iii secretion system  low calcium response  chaperone lcrh sycd
+chaperone	IPR006818	histone chaperone asf1-like
+chaperone	IPR008978	hsp20-like chaperone
+chaperone	IPR010261	tir chaperone protein (cest) family
+chaperone	IPR019056	phage tail assembly chaperone protein  tac6
+chaperone	IPR019114	chaperone lipoprotein  puls outs-like
+chaperone	IPR019151	proteasome assembly chaperone 2
+chaperone	IPR020945	dmso nitrate reductase chaperone
+chaperone	IPR021150	ubiquinol-cytochrome c chaperone upf0174
+chaperone	IPR022797	type iii secretion system regulator lcrr chaperone cesd2
+chaperone	IPR024134	superoxide dismutase (cu zn)   superoxide dismutase copper chaperone
+cleavage	IPR020581	glycine cleavage system p protein
+cleavage	IPR027266	gtp-binding protein trme glycine cleavage system t protein  domain 1
+cleavage	IPR029043	glycine cleavage t-protein ygfz  c-terminal domain
+cleavage	IPR033753	glycine cleavage system h-protein simiate
+coactivator	IPR009110	nuclear receptor coactivator  interlocking
+coactivator	IPR014935	steroid receptor coactivator
+coactivator	IPR017426	nuclear receptor coactivator
+coactivator	IPR026780	proline-rich nuclear receptor coactivator 1 2
+coactivator	IPR026784	constitutive coactivator of ppar-gamma
+coat	IPR000263	geminivirus ar1 br1 coat protein
+coat	IPR002681	coat protein  ilarvirus
+coat	IPR010392	satellite virus coat
+coat	IPR012851	spore coat protein cotf-like
+coat	IPR016111	hexon coat protein  subdomain 4
+coat	IPR029053	viral coat protein subunit
+cobalamin	IPR002751	cobalamin (vitamin b12) biosynthesis cbim family
+cobalamin	IPR006158	cobalamin (vitamin b12)-binding domain
+cobalamin	IPR006365	cobalamin (vitamin b12) biosynthesis cobl precorrin-6y c(5 15)-methyltransferase
+cobalamin	IPR016176	cobalamin (vitamin b12)-dependent enzyme  catalytic
+coenzyme	IPR004165	coenzyme a transferase family i
+coenzyme	IPR008225	coenzyme f420:l-glutamate ligase
+coenzyme	IPR008792	coenzyme pqq synthesis d
+coenzyme	IPR017200	coenzyme pqq synthesis protein e
+cofactor	IPR003731	dinitrogenase iron-molybdenum cofactor biosynthesis
+cofactor	IPR012245	molybdenum cofactor biosynthesis protein moab
+cofactor	IPR017300	na(+) h(+) exchange regulatory cofactor nherf
+cofactor	IPR017901	c-cap cofactor c-like domain
+cofactor	IPR023045	molybdenum cofactor biosynthesis c
+coiled-coil	IPR019394	testis-specific protein tex28 transmembrane and coiled-coil domains protein
+coiled-coil	IPR024461	coiled-coil domain-containing protein 90-like
+coiled-coil	IPR026657	proline serine-rich coiled-coil protein 1 g2 and s phase-expressed protein 1
+coiled-coil	IPR029627	serine-rich coiled-coil domain-containing protein
+complex	IPR000066	antenna complex  alpha beta subunit
+complex	IPR000131	atp synthase  f1 complex  gamma subunit
+complex	IPR000194	atpase  f1 v1 a1 complex  alpha beta subunit  nucleotide-binding domain
+complex	IPR000454	atp synthase  f0 complex  subunit c
+complex	IPR000568	atp synthase  f0 complex  subunit a
+complex	IPR001469	atp synthase  f1 complex  delta epsilon subunit
+complex	IPR001901	protein translocase complex  sece sec61-gamma subunit
+complex	IPR002146	atp synthase  f0 complex  subunit b b'  bacterial chloroplast
+complex	IPR002490	v-type  atpase  v0 complex  116kda subunit family
+complex	IPR002843	atpase  v0 complex   c d subunit
+complex	IPR004205	cytochrome b-c1 complex subunit 8
+complex	IPR004461	co dehydrogenase acetyl-coa synthase complex beta subunit
+complex	IPR005294	atp synthase  f1 complex  alpha subunit
+complex	IPR006789	actin-related protein 2 3 complex subunit 5
+complex	IPR006808	atp synthase  f0 complex  subunit g  mitochondrial
+complex	IPR006875	sarcoglycan complex subunit protein
+complex	IPR007018	mediator complex  subunit med6
+complex	IPR007255	conserved oligomeric golgi complex subunit 8
+complex	IPR007264	h aca ribonucleoprotein complex  subunit nop10
+complex	IPR007504	h aca ribonucleoprotein complex  subunit gar1 naf1
+complex	IPR008011	complex 1 lyr protein
+complex	IPR008218	atpase  v1 complex  subunit f
+complex	IPR008389	atpase  v0 complex  subunit e1 e2
+complex	IPR008402	anaphase-promoting complex subunit  15 mnd2
+complex	IPR008688	atp synthase  f0 complex  subunit b mi25
+complex	IPR008721	origin recognition complex  subunit 6
+complex	IPR008921	dna polymerase iii  clamp loader complex  gamma delta delta subunit  c-terminal
+complex	IPR009846	splicing factor 3b subunit 5 rds3 complex subunit 10
+complex	IPR009976	exocyst complex component sec10-like
+complex	IPR010207	electron transport complex  rnfb rsxb
+complex	IPR013921	mediator complex  subunit med20
+complex	IPR015417	glycine sarcosine betaine reductase complex  protein b  subunit alpha  beta
+complex	IPR016218	acetyl-coa decarbonylase synthase complex  gamma subunit
+complex	IPR016635	adaptor protein complex  sigma subunit
+complex	IPR017383	actin-related protein 2 3 complex subunit 1
+complex	IPR018003	insecticidal toxin complex plasmid virulence protein
+complex	IPR019166	micos complex subunit mic26 mic27
+complex	IPR019364	mediator complex  subunit med8  fungi metazoa
+complex	IPR019585	26s proteasome regulatory subunit rpn7 cop9 signalosome complex subunit 1
+complex	IPR021006	hda1 complex subunit 2 3
+complex	IPR021149	oligosaccharyl transferase complex  subunit ost3 ost6
+complex	IPR021151	gins complex
+complex	IPR021906	swi snf-like complex subunit baf250 osa
+complex	IPR024789	anaphase-promoting complex subunit 4
+complex	IPR024835	synaptonemal complex protein 1 2
+complex	IPR026699	exosome complex rna-binding protein 1 rrp40 rrp4
+complex	IPR026739	ap complex subunit beta
+complex	IPR026971	condensin subunit 1 condensin-2 complex subunit d3
+complex	IPR028143	get complex subunit get2 sif1
+complex	IPR028346	haus augmin-like complex subunit 2
+complex	IPR029131	haus augmin-like complex subunit 5
+complex	IPR029321	integrator complex subunit 2
+complex	IPR029327	haus augmin-like complex subunit 4
+complex	IPR029711	haus augmin-like complex subunit 7-like
+component	IPR001802	mercuric transport protein periplasmic component copper chaperone copz
+component	IPR003339	abc ecf transporter  transmembrane component
+component	IPR003501	phosphotransferase system  eiib component  type 2 3
+component	IPR004701	phosphotransferase system  mannose-type iia component
+component	IPR004703	phosphotransferase system  sugar-specific permease component
+component	IPR004716	phosphotransferase system  glucitol sorbitol-specific iia component
+component	IPR007194	transport protein particle (trapp) component
+component	IPR008621	cbb3-type cytochrome oxidase component
+component	IPR009976	exocyst complex component sec10-like
+component	IPR010143	nitrogenase component 1  alpha chain
+component	IPR010898	heptaprenyl diphosphate synthase component i
+component	IPR011603	2-oxoglutarate dehydrogenase e1 component
+component	IPR019999	anthranilate synthase component i-like
+component	IPR024529	ecf transporter  substrate-specific component
+component	IPR024717	denitrification system component napc nirt nrfh
+component	IPR026827	proteasome component ecm29 translational activator gcn1
+component	IPR030679	abc-type amino acid transport system  atpase component  hisp-type
+component	IPR030701	transcription factor tfiiib component b''
+conjugative	IPR009838	type iv conjugative transfer system  protein tral
+conjugative	IPR019106	type-f conjugative transfer system pilin assembly protein trbc
+conjugative	IPR022458	conjugative coupling factor trag trad
+conjugative	IPR025955	type-iv secretion system protein trac conjugative transfer atpase
+conserved	IPR004792	conserved hypothetical protein chp00275  flavoprotein hi0933-like
+conserved	IPR007255	conserved oligomeric golgi complex subunit 8
+conserved	IPR011971	conserved hypothetical protein chp02284
+conserved	IPR012808	conserved hypothetical protein chp02453
+conserved	IPR014061	conserved hypothetical protein chp02688
+conserved	IPR017517	conserved hypothetical protein chp03083  actinobacterial-type
+conserved	IPR019962	conserved hypothetical protein chp03663
+containing	IPR005358	putative zinc- or iron-chelating domain containing protein
+containing	IPR027417	p-loop containing nucleoside triphosphate hydrolase
+containing	IPR027681	i-bar domain containing protein irsp53 irtks pinkbar
+containing	IPR030127	i-bar domain containing protein mim abba
+copper	IPR000269	copper amine oxidase
+copper	IPR001235	blue (type 1) copper protein  plastocyanin-type
+copper	IPR001802	mercuric transport protein periplasmic component copper chaperone copz
+copper	IPR003782	copper chaperone sco1 senc
+copper	IPR014784	copper type ii  ascorbate-dependent monooxygenase-like  c-terminal
+copper	IPR024134	superoxide dismutase (cu zn)   superoxide dismutase copper chaperone
+core	IPR008445	core protein a15
+core	IPR009079	four-helical cytokine-like  core
+core	IPR011010	dna breaking-rejoining enzyme  catalytic core
+core	IPR017850	alkaline-phosphatase-like  core domain
+crispr-associated	IPR002729	crispr-associated protein cas1
+crispr-associated	IPR006482	crispr-associated protein cas7  subtype i-b i-c
+crispr-associated	IPR010154	crispr-associated protein cas7 cst2 devr
+crispr-associated	IPR019016	crispr-associated dxthg protein
+crispr-associated	IPR019117	crispr-associated protein  cmr3
+crispr-associated	IPR021124	crispr-associated protein  cas5
+cyclase	IPR000228	rna 3'-terminal phosphate cyclase
+cyclase	IPR003193	adp-ribosyl cyclase (cd38 157)
+cyclase	IPR013792	rna 3'-terminal phosphate cyclase enolpyruvate transferase  alpha beta
+cyclase	IPR018333	squalene cyclase
+cyclase	IPR019587	polyketide cyclase dehydrase
+cyclase	IPR029787	nucleotide cyclase
+cysteine-rich	IPR000483	cysteine-rich flanking region  c-terminal
+cysteine-rich	IPR001283	cysteine-rich  secretory protein  allergen v5 tpx-1-related
+cysteine-rich	IPR007609	ssrna positive strand viral 18kda cysteine-rich protein
+cysteine-rich	IPR009030	growth factor receptor cysteine-rich domain
+cysteine-rich	IPR025990	cysteine-rich cpxcg protein
+cytochrome	IPR000298	cytochrome c oxidase-like subunit iii
+cytochrome	IPR000778	cytochrome b245  heavy chain
+cytochrome	IPR000883	cytochrome c oxidase subunit i
+cytochrome	IPR001128	cytochrome p450
+cytochrome	IPR002322	cytochrome c  class iii
+cytochrome	IPR002326	cytochrome c1
+cytochrome	IPR003177	cytochrome c oxidase  subunit viia
+cytochrome	IPR003321	cytochrome c552
+cytochrome	IPR003544	cytochrome c-type biogenesis protein ccmb
+cytochrome	IPR003567	cytochrome c-type biogenesis protein
+cytochrome	IPR004203	cytochrome c oxidase subunit iv family
+cytochrome	IPR004205	cytochrome b-c1 complex subunit 8
+cytochrome	IPR005171	cytochrome c oxidase subunit iv  prokaryotes
+cytochrome	IPR008168	cytochrome c  class ic
+cytochrome	IPR008621	cbb3-type cytochrome oxidase component
+cytochrome	IPR009056	cytochrome c-like domain
+cytochrome	IPR010980	cytochrome c b562
+cytochrome	IPR011031	multihaem cytochrome
+cytochrome	IPR016003	photosystem ii cytochrome c-550 precursor
+cytochrome	IPR016174	di-haem cytochrome  transmembrane
+cytochrome	IPR019108	cytochrome c oxidase caa3-type  assembly factor ctag-related
+cytochrome	IPR023616	cytochrome c oxidase-like  subunit i domain
+cytochrome	IPR024791	cytochrome c oxidase subunit iii
+cytochrome	IPR026259	di-c-type haem protein  maug cytochrome c peroxidase
+cytochrome	IPR030999	sulfur oxidation c-type cytochrome soxx
+deaminase	IPR006263	cytidine deaminase  homodimeric
+deaminase	IPR006329	amp deaminase
+deaminase	IPR006330	adenosine adenine deaminase
+deaminase	IPR008180	deoxyuridine triphosphate nucleotidohydrolase deoxycytidine triphosphate deaminase
+deaminase	IPR027278	1-aminocyclopropane-1-carboxylate deaminase d-cysteine desulfhydrase
+decarboxylase	IPR000183	ornithine dap arg decarboxylase
+decarboxylase	IPR000257	uroporphyrinogen decarboxylase (uro-d)
+decarboxylase	IPR002129	pyridoxal phosphate-dependent decarboxylase
+decarboxylase	IPR002993	ornithine decarboxylase antizyme
+decarboxylase	IPR003826	s-adenosylmethionine decarboxylase family  prokaryotic
+decarboxylase	IPR005308	orn lys arg decarboxylase  n-terminal
+decarboxylase	IPR005661	na+-transporting methylmalonyl-coa oxaloacetate decarboxylase  beta subunit
+decarboxylase	IPR005899	sodium ion-translocating decarboxylase
+decarboxylase	IPR005935	diphosphomevalonate phosphomevalonate decarboxylase
+decarboxylase	IPR009006	alanine racemase group iv decarboxylase  c-terminal
+decarboxylase	IPR010451	acetoacetate decarboxylase
+decarboxylase	IPR011193	ornithine lysine arginine decarboxylase
+decarboxylase	IPR018020	oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+decarboxylase	IPR023439	malonate decarboxylase citrate lyase acyl carrier protein
+dehydratase	IPR000581	dihydroxy-acid 6-phosphogluconate dehydratase
+dehydratase	IPR000631	atp-dependent (s)-nad(p)h-hydrate dehydratase
+dehydratase	IPR001030	aconitase 3-isopropylmalate dehydratase large subunit  alpha beta alpha domain
+dehydratase	IPR003208	diol glycerol dehydratase dehydratase reactivating factor
+dehydratase	IPR003208	diol glycerol dehydratase dehydratase reactivating factor
+dehydratase	IPR006251	homoaconitase 3-isopropylmalate dehydratase  large subunit
+dehydratase	IPR010327	fldb fldc dehydratase alpha beta subunit
+dehydratase	IPR015928	aconitase 3-isopropylmalate dehydratase  swivel
+dehydratase	IPR015937	aconitase isopropylmalate dehydratase
+dehydratase	IPR017654	galactarate dehydratase gard-like
+dehydratase	IPR017714	methylthioribulose-1-phosphate dehydratase
+dehydratase	IPR020807	polyketide synthase  dehydratase domain
+dehydrogenase	IPR000447	fad-dependent glycerol-3-phosphate dehydrogenase
+dehydrogenase	IPR000669	mannitol dehydrogenase
+dehydrogenase	IPR000701	succinate dehydrogenase fumarate reductase  transmembrane subunit
+dehydrogenase	IPR001557	l-lactate malate dehydrogenase
+dehydrogenase	IPR002085	alcohol dehydrogenase superfamily  zinc-type
+dehydrogenase	IPR002347	short-chain dehydrogenase reductase sdr
+dehydrogenase	IPR003767	malate l-lactate dehydrogenase
+dehydrogenase	IPR004137	hydroxylamine reductase ni-containing co dehydrogenase
+dehydrogenase	IPR004461	co dehydrogenase acetyl-coa synthase complex beta subunit
+dehydrogenase	IPR005631	flavinator of succinate dehydrogenase
+dehydrogenase	IPR005990	inosine-5'-monophosphate dehydrogenase
+dehydrogenase	IPR006095	glutamate phenylalanine leucine valine dehydrogenase
+dehydrogenase	IPR006168	glycerol-3-phosphate dehydrogenase  nad-dependent
+dehydrogenase	IPR006183	6-phosphogluconate dehydrogenase
+dehydrogenase	IPR008699	nadh dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8
+dehydrogenase	IPR008927	6-phosphogluconate dehydrogenase c-terminal domain-like
+dehydrogenase	IPR009075	acyl-coa dehydrogenase oxidase c-terminal
+dehydrogenase	IPR009451	amine dehydrogenase heavy chain
+dehydrogenase	IPR010061	methylmalonate-semialdehyde dehydrogenase
+dehydrogenase	IPR011182	l-aspartate dehydrogenase
+dehydrogenase	IPR011603	2-oxoglutarate dehydrogenase e1 component
+dehydrogenase	IPR012080	aspartate-semialdehyde dehydrogenase
+dehydrogenase	IPR012131	histidinol dehydrogenase
+dehydrogenase	IPR012133	alpha-hydroxy acid dehydrogenase  fmn-dependent
+dehydrogenase	IPR012135	dihydroorotate dehydrogenase  class 1  2
+dehydrogenase	IPR013328	6-phosphogluconate dehydrogenase  domain 2
+dehydrogenase	IPR013786	acyl-coa dehydrogenase oxidase  n-terminal
+dehydrogenase	IPR014603	formate dehydrogenase iron-sulphur subunit
+dehydrogenase	IPR015955	lactate dehydrogenase glycoside hydrolase  family 4  c-terminal
+dehydrogenase	IPR016008	amine dehydrogenase light chain
+dehydrogenase	IPR016161	aldehyde histidinol dehydrogenase
+dehydrogenase	IPR016208	aldehyde oxidase xanthine dehydrogenase
+dehydrogenase	IPR017476	udp-glucose gdp-mannose dehydrogenase
+dehydrogenase	IPR020831	glyceraldehyde erythrose phosphate dehydrogenase family
+dehydrogenase	IPR022893	shikimate dehydrogenase family
+dehydrogenase	IPR024190	methenyltetrahydromethanopterin dehydrogenase  hmd-type
+dehydrogenase	IPR028971	nad-glutamate dehydrogenase
+dehydrogenase	IPR030664	succinate dehydrogenase fumarate reductase adenylylsulphate reductase   flavoprotein subunit
+dehydrogenase	IPR032095	saccharopine dehydrogenase  c-terminal
+dehydrogenase	IPR032837	glycerol-1-phosphate dehydrogenase
+delta	IPR000471	interferon alpha beta delta
+delta	IPR001178	delta endotoxin  central domain
+delta	IPR001469	atp synthase  f1 complex  delta epsilon subunit
+delta	IPR004349	vanadium alternative nitrogenase delta subunit
+delta	IPR008921	dna polymerase iii  clamp loader complex  gamma delta delta subunit  c-terminal
+delta	IPR008921	dna polymerase iii  clamp loader complex  gamma delta delta subunit  c-terminal
+delta	IPR014376	protein kinase c  delta epsilon eta theta types
+delta	IPR015484	cd3 protein  epsilon gamma delta subunit
+delta	IPR024826	dna polymerase delta ii small subunit family
+delta	IPR028435	plakophilin delta catenin
+dioxygenase	IPR000391	ring-hydroxylating dioxygenase beta subunit
+dioxygenase	IPR004313	acireductone dioxygenase ard family
+dioxygenase	IPR005123	oxoglutarate iron-dependent dioxygenase
+dioxygenase	IPR008775	phytanoyl-coa dioxygenase
+dioxygenase	IPR010329	3-hydroxyanthranilic acid dioxygenase
+dioxygenase	IPR029068	glyoxalase bleomycin resistance protein dihydroxybiphenyl dioxygenase
+dna	IPR000212	dna helicase  uvrd rep type
+dna	IPR000380	dna topoisomerase  type ia
+dna	IPR000605	helicase  superfamily 3  single-stranded dna rna virus
+dna	IPR000977	dna ligase  atp-dependent
+dna	IPR001241	dna topoisomerase  type iia
+dna	IPR001604	dna rna non-specific endonuclease
+dna	IPR002081	cryptochrome dna photolyase class 1
+dna	IPR002099	dna mismatch repair protein family
+dna	IPR002298	dna polymerase a
+dna	IPR002755	dna primase  small subunit
+dna	IPR002775	dna rna-binding protein alba-like
+dna	IPR002815	spo11 dna topoisomerase vi subunit a
+dna	IPR004260	pyrimidine dimer dna glycosylase
+dna	IPR004583	dna repair protein rad4
+dna	IPR004589	dna helicase  atp-dependent  recq type
+dna	IPR004615	dna polymerase iii  psi subunit
+dna	IPR004805	dna polymerase iii  alpha subunit
+dna	IPR006172	dna-directed dna polymerase  family b
+dna	IPR007232	dna repair protein rad52 59 22
+dna	IPR007238	dna primase large subunit  eukaryotic archaeal
+dna	IPR007695	dna mismatch repair protein muts-like  n-terminal
+dna	IPR008336	dna topoisomerase i  dna binding  eukaryotic-type
+dna	IPR008336	dna topoisomerase i  dna binding  eukaryotic-type
+dna	IPR008921	dna polymerase iii  clamp loader complex  gamma delta delta subunit  c-terminal
+dna	IPR010285	dna helicase pif1-like
+dna	IPR010996	dna polymerase beta-like  n-terminal domain
+dna	IPR011010	dna breaking-rejoining enzyme  catalytic core
+dna	IPR011184	dna mismatch repair muts
+dna	IPR011257	dna glycosylase
+dna	IPR012327	d12 class n6 adenine-specific dna methyltransferase
+dna	IPR013020	dna helicase (dna repair)  rad3 type
+dna	IPR013632	dna recombination and repair protein rad51-like  c-terminal
+dna	IPR013760	dna topoisomerase  type iia-like domain
+dna	IPR014015	helicase  superfamily 3  dna virus
+dna	IPR014145	dna ligase d  polymerase domain
+dna	IPR015254	n-glycosylase dna lyase-like
+dna	IPR015637	g u mismatch-specific dna glycosylase
+dna	IPR016136	dna helicase dnab  n-terminal dna primase dnag  c-terminal
+dna	IPR016136	dna helicase dnab  n-terminal dna primase dnag  c-terminal
+dna	IPR016467	dna recombination and repair protein  reca-like
+dna	IPR017642	dna sulphur modification protein dndb
+dna	IPR022312	dna polymerase family x
+dna	IPR023223	dna polymerase iii inhibitor ia3  alpha-helix domain
+dna	IPR024826	dna polymerase delta ii small subunit family
+dna	IPR027031	glycyl-trna synthetase dna polymerase subunit gamma-2
+dna	IPR033316	dna endonuclease rbbp8-like
+dna-binding	IPR000119	histone-like dna-binding protein
+dna-binding	IPR000424	primosome prib single-strand dna-binding
+dna-binding	IPR001138	zn(2)-c6 fungal-type dna-binding domain
+dna-binding	IPR002177	dna-binding protein dps
+dna-binding	IPR004645	dna-binding protein tfx  archaea
+dna-binding	IPR008967	p53-like transcription factor  dna-binding
+dna-binding	IPR009061	putative dna-binding domain
+dna-binding	IPR010982	lambda repressor-like  dna-binding domain
+dna-binding	IPR011991	winged helix-turn-helix dna-binding domain
+dna-binding	IPR015300	dna-binding pseudobarrel domain
+dna-binding	IPR016177	dna-binding domain
+dna-binding	IPR018004	kila  n-terminal apses-type hth  dna-binding
+dna-directed	IPR006172	dna-directed dna polymerase  family b
+dna-directed	IPR009025	dna-directed rna polymerase  rbp11-like dimerisation domain
+dna-directed	IPR012164	dna-directed rna polymerase subunit transcription factor s
+dna-directed	IPR015712	dna-directed rna polymerase  subunit 2
+domain-containing	IPR008835	sclerostin sclerostin domain-containing protein 1
+domain-containing	IPR019198	beta propeller domain-containing family
+domain-containing	IPR024461	coiled-coil domain-containing protein 90-like
+domain-containing	IPR029627	serine-rich coiled-coil domain-containing protein
+domain-containing	IPR031152	plexin domain-containing protein
+domain-containing	IPR032976	yjef n-terminal domain-containing protein  eukaryotes
+domain-containing	IPR033562	patatin-like phospholipase domain-containing protein
+domain-containing	IPR033635	ankyrin repeat and sam domain-containing protein 1
+domain-like	IPR008927	6-phosphogluconate dehydrogenase c-terminal domain-like
+domain-like	IPR008979	galactose-binding domain-like
+domain-like	IPR010919	sand domain-like
+domain-like	IPR011993	ph domain-like
+domain-like	IPR015797	nudix hydrolase domain-like
+domain-like	IPR015946	k homology domain-like  alpha beta
+domain-like	IPR016197	chromo domain-like
+domain-like	IPR017856	integrase  n-terminal zinc-binding domain-like
+domain-like	IPR028979	hpr(ser) kinase phosphorylase  n-terminal domain-like
+domain-like	IPR029016	gaf domain-like
+domain-like	IPR029017	enolase n-terminal domain-like
+domain-like	IPR029060	pin domain-like
+domain-like	IPR029065	enolase c-terminal domain-like
+domain-like	IPR029151	periplasmic sensor domain-like
+effector	IPR006972	secretion system effector c  ssec-like
+effector	IPR010290	transmembrane secretion effector
+effector	IPR011256	regulatory factor  effector binding domain
+effector	IPR013351	type iii secretion system effector delivery regulator tyea-related
+effector	IPR020850	gtpase effector domain
+effector	IPR029273	cdc42 effector
+efflux	IPR002524	cation efflux protein
+efflux	IPR003423	outer membrane efflux protein
+efflux	IPR003810	putative manganese efflux pump
+efflux	IPR006143	rnd efflux pump  membrane fusion protein
+efflux	IPR006726	para-hydroxybenzoic acid efflux pump subunit aaeb fusaric acid resistance protein
+electron	IPR001308	electron transfer flavoprotein alpha subunit fixb
+electron	IPR008990	electron transport accessory protein-like domain
+electron	IPR010207	electron transport complex  rnfb rsxb
+electron	IPR012255	electron transfer flavoprotein  beta subunit
+elongation	IPR001884	translation elongation factor if5a
+elongation	IPR004540	translation elongation factor efg ef2
+elongation	IPR006297	elongation factor 4
+elongation	IPR009001	translation elongation factor ef1a initiation factor if2gamma  c-terminal
+elongation	IPR009022	elongation factor g  iii-v domain
+elongation	IPR011680	fasciculation and elongation protein zeta  fez
+elongation	IPR014717	translation elongation factor ef1b ribosomal protein s6
+elongation	IPR016492	transcription elongation factor  tfiis-related
+elongation	IPR020599	translation elongation factor p yeip
+elongation	IPR021156	transcription elongation factor a-like brain expressed x-linked
+elongation	IPR023459	transcription elongation factor grea greb family
+elongation	IPR029040	rna polymerase subunit rpabc4 transcription elongation factor spt4
+endonuclease	IPR001604	dna rna non-specific endonuclease
+endonuclease	IPR004042	intein dod homing endonuclease
+endonuclease	IPR004221	restriction endonuclease  type ii  ecori
+endonuclease	IPR005094	endonuclease relaxase  moba vird2
+endonuclease	IPR005135	endonuclease exonuclease phosphatase
+endonuclease	IPR006084	xpg rad2 endonuclease
+endonuclease	IPR006676	trna-splicing endonuclease
+endonuclease	IPR011335	restriction endonuclease  type ii-like
+endonuclease	IPR015314	restriction endonuclease  type ii  ecorv
+endonuclease	IPR018574	structure-specific endonuclease subunit slx4
+endonuclease	IPR027434	homing endonuclease
+endonuclease	IPR033316	dna endonuclease rbbp8-like
+enzyme	IPR000011	ubiquitin sumo-activating enzyme e1
+enzyme	IPR000277	cys met metabolism  pyridoxal phosphate-dependent enzyme
+enzyme	IPR001354	mandelate racemase muconate lactonizing enzyme methylaspartate ammonia-lyase
+enzyme	IPR002218	trna uridine 5-carboxymethylaminomethyl modification enzyme mnmg-related
+enzyme	IPR002922	thiazole biosynthetic enzyme thi4 family
+enzyme	IPR003773	menaquinone biosynthesis enzyme
+enzyme	IPR004666	ribosomal s6 modification enzyme rimk lysine biosynthesis enzyme lysx
+enzyme	IPR004666	ribosomal s6 modification enzyme rimk lysine biosynthesis enzyme lysx
+enzyme	IPR008279	pep-utilising enzyme  mobile domain
+enzyme	IPR010401	glycogen debranching enzyme
+enzyme	IPR011010	dna breaking-rejoining enzyme  catalytic core
+enzyme	IPR011250	outer membrane protein outer membrane enzyme pagp   beta-barrel
+enzyme	IPR011766	thiamine pyrophosphate enzyme  c-terminal tpp-binding
+enzyme	IPR011837	glycogen debranching enzyme  glgx type
+enzyme	IPR012001	thiamine pyrophosphate enzyme  n-terminal tpp-binding domain
+enzyme	IPR012110	thiamine pyrophosphate (tpp)-dependent enzyme
+enzyme	IPR012839	organic radical enzyme activase
+enzyme	IPR016135	ubiquitin-conjugating enzyme rwd-like
+enzyme	IPR016176	cobalamin (vitamin b12)-dependent enzyme  catalytic
+enzyme	IPR016431	pyruvate-formate lyase-activating enzyme  predicted
+epsilon	IPR001469	atp synthase  f1 complex  delta epsilon subunit
+epsilon	IPR004991	clostridium epsilon toxin etx bacillus mosquitocidal toxin mtx2
+epsilon	IPR008908	sarcoglycan alpha epsilon
+epsilon	IPR014376	protein kinase c  delta epsilon eta theta types
+epsilon	IPR015484	cd3 protein  epsilon gamma delta subunit
+esterase	IPR000801	putative esterase
+esterase	IPR007815	erythromycin esterase
+esterase	IPR008886	uncharacterised protein family upf0227 esterase yqia
+esterase	IPR010126	esterase  phb depolymerase
+esterase	IPR011118	tannase feruloyl esterase
+esterase	IPR013830	sgnh hydrolase-type esterase domain
+eukaryotic	IPR003020	bicarbonate transporter  eukaryotic
+eukaryotic	IPR004493	leucyl-trna synthetase  class ia  archaeal eukaryotic cytosolic
+eukaryotic	IPR005703	ribosomal protein s3  eukaryotic archaeal
+eukaryotic	IPR006591	rna polymerase archaeal subunit p eukaryotic subunit rpabc4
+eukaryotic	IPR007238	dna primase large subunit  eukaryotic archaeal
+eukaryotic	IPR007356	trna (guanine-n1-)-methyltransferase  eukaryotic
+eukaryotic	IPR008335	eukaryotic molybdopterin oxidoreductase
+eukaryotic	IPR010036	magnesium-dependent phosphatase-1  eukaryotic archaeal type
+eukaryotic	IPR027246	eukaryotic porin tom40
+exchanger	IPR004481	sodium potassium calcium exchanger
+exchanger	IPR004713	calcium proton exchanger
+exchanger	IPR004836	sodium calcium exchanger protein
+exchanger	IPR006153	cation h+ exchanger
+exchanger	IPR018422	cation h+ exchanger  cpa1 family
+export	IPR002191	bacterial export protein family 3
+export	IPR003715	polysaccharide export protein
+export	IPR012823	flagellar export flij
+export	IPR030217	nuclear rna export factor
+factor	IPR000649	initiation factor 2b-related
+factor	IPR000812	transcription factor tfiib
+factor	IPR000837	ap-1 transcription factor
+factor	IPR001187	tissue factor
+factor	IPR001217	transcription factor stat
+factor	IPR001499	gpcr fungal pheromone mating factor  ste3
+factor	IPR001581	leukemia inhibitory factor  oncostatin
+factor	IPR001699	transcription factor  t-box
+factor	IPR001884	translation elongation factor if5a
+factor	IPR002035	von willebrand factor  type a
+factor	IPR002100	transcription factor  mads-box
+factor	IPR002112	transcription factor jun
+factor	IPR003025	transcription factor otx
+factor	IPR003208	diol glycerol dehydratase dehydratase reactivating factor
+factor	IPR003438	glial cell line-derived neurotrophic factor receptor
+factor	IPR003658	anti-sigma factor antagonist
+factor	IPR003749	thiamines molybdopterin converting factor subunit 1
+factor	IPR003991	pertactin virulence factor family
+factor	IPR004374	peptide chain release factor 2
+factor	IPR004403	peptide chain release factor erf1 arf1
+factor	IPR004405	translation release factor  pelota
+factor	IPR004540	translation elongation factor efg ef2
+factor	IPR004979	transcription factor ap-2
+factor	IPR005065	platelet-activating factor acetylhydrolase
+factor	IPR005155	ribosome biogenesis factor nip7-like
+factor	IPR005872	archaeal bacterial translation initiation factor sui1
+factor	IPR006053	tumour necrosis factor
+factor	IPR006297	elongation factor 4
+factor	IPR006535	hnrnp r q splicing factor
+factor	IPR007128	polyamine-modulated factor 1 kinetochore protein nnf1
+factor	IPR007224	transcription initiation factor rrn11
+factor	IPR008366	nuclear factor of activated t cells (nfat)
+factor	IPR008733	peroxisomal biogenesis factor 11
+factor	IPR008967	p53-like transcription factor  dna-binding
+factor	IPR009001	translation elongation factor ef1a initiation factor if2gamma  c-terminal
+factor	IPR009001	translation elongation factor ef1a initiation factor if2gamma  c-terminal
+factor	IPR009022	elongation factor g  iii-v domain
+factor	IPR009030	growth factor receptor cysteine-rich domain
+factor	IPR009083	transcription factor iia  helical
+factor	IPR009088	transcription factor iia  beta-barrel
+factor	IPR009168	insulin-like growth factor binding protein
+factor	IPR009846	splicing factor 3b subunit 5 rds3 complex subunit 10
+factor	IPR011050	pectin lyase fold virulence factor
+factor	IPR011171	glia maturation factor
+factor	IPR011256	regulatory factor  effector binding domain
+factor	IPR011488	translation initiation factor 2  alpha subunit
+factor	IPR012164	dna-directed rna polymerase subunit transcription factor s
+factor	IPR012227	tnf receptor-associated factor traf
+factor	IPR012845	rna polymerase sigma factor  flia whig
+factor	IPR013324	rna polymerase sigma factor  region 3 4
+factor	IPR013970	replication factor a protein 3
+factor	IPR014295	anti-sigma factor
+factor	IPR014717	translation elongation factor ef1b ribosomal protein s6
+factor	IPR015648	transcription factor dp
+factor	IPR015988	stat transcription factor  coiled coil
+factor	IPR016248	fibroblast growth factor receptor family
+factor	IPR016263	rna polymerase sporulation-specific sigma factor
+factor	IPR016361	transcriptional enhancer factor  metazoa
+factor	IPR016371	rna polymerase sigma-h factor
+factor	IPR016374	transcription factor  gata-2 3
+factor	IPR016375	transcription factor gata-4 5 6
+factor	IPR016378	transcription factor cyclic amp-dependent  cre-bp1-type
+factor	IPR016492	transcription elongation factor  tfiis-related
+factor	IPR016637	neurogenic differentiation factor neurod
+factor	IPR017039	virulence factor brkb
+factor	IPR017923	transcription factor iis  n-terminal
+factor	IPR019108	cytochrome c oxidase caa3-type  assembly factor ctag-related
+factor	IPR019350	rna polymerase i-specific transcription initiation factor rrn6-like
+factor	IPR020599	translation elongation factor p yeip
+factor	IPR021156	transcription elongation factor a-like brain expressed x-linked
+factor	IPR021537	hypoxia-inducible factor  alpha subunit
+factor	IPR022097	transcription factor sox
+factor	IPR022323	tumour necrosis factor receptor 11
+factor	IPR022458	conjugative coupling factor trag trad
+factor	IPR022793	rna polymerase i-specific transcription initiation factor rrn10
+factor	IPR023398	translation initiation factor eif- 4e-like
+factor	IPR023459	transcription elongation factor grea greb family
+factor	IPR024509	anti-lipopolysaccharide factor scygonadin
+factor	IPR024715	coagulation factor 5 8
+factor	IPR024874	transcription factor maf family
+factor	IPR024940	transcription factor tcf lef
+factor	IPR026085	activating transcription factor 7-interacting protein
+factor	IPR027304	trigger factor sura domain
+factor	IPR027725	heat shock transcription factor family
+factor	IPR029040	rna polymerase subunit rpabc4 transcription elongation factor spt4
+factor	IPR030217	nuclear rna export factor
+factor	IPR030450	transcription factor sp1 family
+factor	IPR030701	transcription factor tfiiib component b''
+factor	IPR033756	flagellum site-determining protein ylxh  fe-s cluster assembling factor nbp35
+finger	IPR000315	b-box-type zinc finger
+finger	IPR000962	zinc finger  dksa trar c4-type
+finger	IPR001222	zinc finger  tfiis-type
+finger	IPR001781	zinc finger  lim-type
+finger	IPR001876	zinc finger  ranbp2-type
+finger	IPR001878	zinc finger  cchc-type
+finger	IPR003604	zinc finger  u1-type
+finger	IPR007527	zinc finger  swim-type
+finger	IPR013083	zinc finger  ring fyve phd-type
+finger	IPR013088	zinc finger  nhr gata-type
+finger	IPR015880	zinc finger  c2h2-like
+finger	IPR027775	c2h2- zinc finger protein family
+flagellar	IPR001172	flagellar motor switch flin type iii secretion hrcqb
+flagellar	IPR006714	flagellar filament outer layer protein flaa
+flagellar	IPR012823	flagellar export flij
+flagellar	IPR021136	flagellar hook-length control protein-like  c-terminal
+flavoprotein	IPR001308	electron transfer flavoprotein alpha subunit fixb
+flavoprotein	IPR004792	conserved hypothetical protein chp00275  flavoprotein hi0933-like
+flavoprotein	IPR012255	electron transfer flavoprotein  beta subunit
+flavoprotein	IPR030664	succinate dehydrogenase fumarate reductase adenylylsulphate reductase   flavoprotein subunit
+fold	IPR004039	rubredoxin-type fold
+fold	IPR009024	methyl-coenzyme m reductase  ferredoxin-like fold
+fold	IPR011050	pectin lyase fold virulence factor
+fold	IPR011761	atp-grasp fold
+fold	IPR012336	thioredoxin-like fold
+fold	IPR012462	peptidase c78  ubiquitin fold modifier-specific peptidase 1  2
+fold	IPR013783	immunoglobulin-like fold
+fold	IPR013784	carbohydrate-binding-like fold
+fold	IPR013806	kringle-like fold
+fold	IPR013816	atp-grasp fold  subdomain 2
+fold	IPR014710	rmlc-like jelly roll fold
+fold	IPR014729	rossmann-like alpha beta alpha sandwich fold
+fold	IPR016024	armadillo-type fold
+fold	IPR016187	c-type lectin fold
+fold	IPR020568	ribosomal protein s5 domain 2-type fold
+fold	IPR029058	alpha beta hydrolase fold
+gamma	IPR000131	atp synthase  f1 complex  gamma subunit
+gamma	IPR002026	urease  gamma gamma-beta subunit
+gamma	IPR004232	nitrile hydratase alpha  thiocyanate hydrolase gamma
+gamma	IPR007375	sarcosine oxidase  gamma subunit
+gamma	IPR008921	dna polymerase iii  clamp loader complex  gamma delta delta subunit  c-terminal
+gamma	IPR012165	cytochrome-c3 hydrogenase  gamma subunit
+gamma	IPR014638	double c2 protein  alpha beta gamma
+gamma	IPR015484	cd3 protein  epsilon gamma delta subunit
+gamma	IPR016218	acetyl-coa decarbonylase synthase complex  gamma subunit
+gamma	IPR021663	t-cell surface glycoprotein cd3 zeta subunit high affinity ige receptor gamma subunit
+gamma	IPR023900	nitrile hydratase alpha subunit  thiocyanate hydrolase gamma subunit
+glutamate	IPR001048	aspartate glutamate uridylate kinase
+glutamate	IPR001057	glutamate acetylglutamate kinase
+glutamate	IPR001508	ionotropic glutamate receptor  metazoa
+glutamate	IPR002489	glutamate synthase  alpha subunit  c-terminal
+glutamate	IPR003739	lysine-2 3-aminomutase glutamate 2 3-aminomutase
+glutamate	IPR006095	glutamate phenylalanine leucine valine dehydrogenase
+glutamate	IPR006336	glutamate
+glutamate	IPR024188	glutamate synthase large subunit-like protein
+glycine	IPR010187	selenoprotein b  glycine betaine sarcosine d-proline reductase family
+glycine	IPR015417	glycine sarcosine betaine reductase complex  protein b  subunit alpha  beta
+glycine	IPR020581	glycine cleavage system p protein
+glycine	IPR027266	gtp-binding protein trme glycine cleavage system t protein  domain 1
+glycine	IPR029043	glycine cleavage t-protein ygfz  c-terminal domain
+glycine	IPR033753	glycine cleavage system h-protein simiate
+glycoprotein	IPR001038	glycoprotein c  glycoprotein a
+glycoprotein	IPR001038	glycoprotein c  glycoprotein a
+glycoprotein	IPR001332	arterivirus gp5 envelope glycoprotein
+glycoprotein	IPR001903	rhabdovirus  glycoprotein
+glycoprotein	IPR008155	amyloidogenic glycoprotein
+glycoprotein	IPR021663	t-cell surface glycoprotein cd3 zeta subunit high affinity ige receptor gamma subunit
+glycoside	IPR000805	glycoside hydrolase family 26
+glycoside	IPR000933	glycoside hydrolase  family 29
+glycoside	IPR001360	glycoside hydrolase family 1
+glycoside	IPR001362	glycoside hydrolase  family 32
+glycoside	IPR001554	glycoside hydrolase  family 14
+glycoside	IPR001661	glycoside hydrolase  family 37
+glycoside	IPR001916	glycoside hydrolase  family 22
+glycoside	IPR001944	glycoside hydrolase  family 35
+glycoside	IPR002053	glycoside hydrolase  family 25
+glycoside	IPR002196	glycoside hydrolase  family 24
+glycoside	IPR002241	glycoside hydrolase  family 27
+glycoside	IPR005198	glycoside hydrolase  family 76
+glycoside	IPR006101	glycoside hydrolase  family 2
+glycoside	IPR006710	glycoside hydrolase  family 43
+glycoside	IPR011330	glycoside hydrolase deacetylase  beta alpha-barrel
+glycoside	IPR011613	glycoside hydrolase family 15 phosphorylase b kinase regulatory chain family
+glycoside	IPR013319	glycoside hydrolase family 11 12
+glycoside	IPR013812	glycoside hydrolase  family 2 20  immunoglobulin-like beta-sandwich domain
+glycoside	IPR015902	glycoside hydrolase  family 13
+glycoside	IPR015955	lactate dehydrogenase glycoside hydrolase  family 4  c-terminal
+glycoside	IPR017853	glycoside hydrolase superfamily
+glycoside	IPR028995	glycoside hydrolase families 57 38  central domain
+glycosyl	IPR000715	glycosyl transferase  family 4
+glycosyl	IPR000811	glycosyl transferase  family 35
+glycosyl	IPR001503	glycosyl transferase family 10
+glycosyl	IPR001675	glycosyl transferase family 29
+glycosyl	IPR001830	glycosyl transferase  family 20
+glycosyl	IPR002201	glycosyl transferase  family 9
+glycosyl	IPR002495	glycosyl transferase  family 8
+glycosyl	IPR003440	glycosyl transferase  family 48
+glycosyl	IPR004629	glycosyl transferase wecb taga cpsf
+glycosyl	IPR013780	glycosyl hydrolase  all-beta
+glycosylase	IPR004260	pyrimidine dimer dna glycosylase
+glycosylase	IPR005019	methyladenine glycosylase
+glycosylase	IPR011257	dna glycosylase
+glycosylase	IPR015637	g u mismatch-specific dna glycosylase
+gpcr	IPR000239	gpcr kinase
+gpcr	IPR000337	gpcr  family 3
+gpcr	IPR000832	gpcr  family 2  secretin-like
+gpcr	IPR001499	gpcr fungal pheromone mating factor  ste3
+gpcr	IPR001571	gpcr  family 2  vasoactive intestinal peptide receptor
+gpcr	IPR002455	gpcr family 3  gaba-b receptor
+gpcr	IPR003290	gpcr  family 2  glucagon-like peptide-1 glucagon receptor
+gpcr	IPR017981	gpcr  family 2-like
+growth	IPR009030	growth factor receptor cysteine-rich domain
+growth	IPR009168	insulin-like growth factor binding protein
+growth	IPR015615	transforming growth factor-beta-related
+growth	IPR016248	fibroblast growth factor receptor family
+growth	IPR020408	nerve growth factor-like
+gtpase	IPR001164	arf gtpase activating protein
+gtpase	IPR001806	small gtpase superfamily
+gtpase	IPR004130	gpn-loop gtpase
+gtpase	IPR006689	small gtpase superfamily  arf sar type
+gtpase	IPR008936	rho gtpase activation protein
+gtpase	IPR016478	gtpase  mtg1
+gtpase	IPR020850	gtpase effector domain
+had-superfamily	IPR006357	had-superfamily hydrolase  subfamily iia
+had-superfamily	IPR006379	had-superfamily hydrolase  subfamily iib
+had-superfamily	IPR006383	had-superfamily hydrolase  subfamily ib  pspase-like
+had-superfamily	IPR008380	had-superfamily hydrolase  subfamily ig  5'-nucleotidase
+had-superfamily	IPR010021	had-superfamily phosphatase  yqeg-like
+haem	IPR002016	haem peroxidase  plant fungal bacterial
+haem	IPR010255	haem peroxidase
+haem	IPR016053	haem oxygenase-like
+haem	IPR016084	haem oxygenase-like  multi-helical
+haem	IPR026259	di-c-type haem protein  maug cytochrome c peroxidase
+haemagglutinin	IPR000665	haemagglutinin haemagglutinin-neuraminidase  paramyxovirus
+haemagglutinin	IPR001364	haemagglutinin  influenzavirus a b
+haemagglutinin	IPR008980	viral capsid haemagglutinin protein
+haemagglutinin	IPR013829	haemagglutinin  stalk
+haus	IPR028346	haus augmin-like complex subunit 2
+haus	IPR029131	haus augmin-like complex subunit 5
+haus	IPR029327	haus augmin-like complex subunit 4
+haus	IPR029711	haus augmin-like complex subunit 7-like
+heat	IPR007250	heat shock protein 9 12
+heat	IPR013126	heat shock protein 70 family
+heat	IPR027725	heat shock transcription factor family
+heat	IPR031107	small heat shock protein hsp20
+heavy	IPR000778	cytochrome b245  heavy chain
+heavy	IPR006121	heavy metal-associated domain  hma
+heavy	IPR009451	amine dehydrogenase heavy chain
+heavy	IPR026983	dynein heavy chain
+helical	IPR009083	transcription factor iia  helical
+helical	IPR011990	tetratricopeptide-like helical domain
+helical	IPR016140	bifunctional inhibitor plant lipid transfer protein seed storage helical domain
+helical	IPR017944	kaia rbsu helical domain
+helicase	IPR000212	dna helicase  uvrd rep type
+helicase	IPR000605	helicase  superfamily 3  single-stranded dna rna virus
+helicase	IPR001161	helicase xpb ssl2
+helicase	IPR004483	helicase smubp-2 hcs1-like
+helicase	IPR004589	dna helicase  atp-dependent  recq type
+helicase	IPR010285	dna helicase pif1-like
+helicase	IPR011119	uncharacterised domain  helicase relaxase  putative
+helicase	IPR013020	dna helicase (dna repair)  rad3 type
+helicase	IPR014001	helicase superfamily 1 2  atp-binding domain
+helicase	IPR014015	helicase  superfamily 3  dna virus
+helicase	IPR016136	dna helicase dnab  n-terminal dna primase dnag  c-terminal
+helicase	IPR017170	lhr-like atp-dependent rna helicase  predicted
+helicase	IPR018973	dead deah-box helicase  putative
+herpesvirus	IPR008646	herpesvirus ul45-like
+herpesvirus	IPR022614	herpesvirus ul96 family
+herpesvirus	IPR024351	tegument protein ul11  herpesvirus
+herpesvirus	IPR024360	herpesvirus ul11 homologue
+histidine	IPR001310	histidine triad (hit) protein
+histidine	IPR003594	histidine kinase-like atpase  c-terminal domain
+histidine	IPR004358	signal transduction histidine kinase-related protein  c-terminal
+histidine	IPR006062	histidine biosynthesis
+histidine	IPR029033	histidine phosphatase superfamily
+histone	IPR000286	histone deacetylase superfamily
+histone	IPR002119	histone h2a
+histone	IPR006818	histone chaperone asf1-like
+histone	IPR013178	histone acetyltransferase rtt109 cbp
+histone	IPR030445	histone h3-k79 methyltransferase
+homology	IPR001715	calponin homology domain
+homology	IPR003619	mad homology 1  dwarfin-type
+homology	IPR004087	k homology domain
+homology	IPR004274	fcp1 homology domain
+homology	IPR014772	mammalian uncoordinated homology 13  domain 2
+homology	IPR015946	k homology domain-like  alpha beta
+homology	IPR027267	arfaptin homology (ah) domain bar domain
+homology	IPR028565	mu homology domain
+hydrolase	IPR000805	glycoside hydrolase family 26
+hydrolase	IPR000895	transthyretin hydroxyisourate hydrolase
+hydrolase	IPR000933	glycoside hydrolase  family 29
+hydrolase	IPR001360	glycoside hydrolase family 1
+hydrolase	IPR001362	glycoside hydrolase  family 32
+hydrolase	IPR001554	glycoside hydrolase  family 14
+hydrolase	IPR001578	peptidase c12  ubiquitin carboxyl-terminal hydrolase
+hydrolase	IPR001661	glycoside hydrolase  family 37
+hydrolase	IPR001916	glycoside hydrolase  family 22
+hydrolase	IPR001930	peptidase m1  alanine aminopeptidase leukotriene a4 hydrolase
+hydrolase	IPR001944	glycoside hydrolase  family 35
+hydrolase	IPR002053	glycoside hydrolase  family 25
+hydrolase	IPR002196	glycoside hydrolase  family 24
+hydrolase	IPR002241	glycoside hydrolase  family 27
+hydrolase	IPR003702	acetyl-coa hydrolase transferase
+hydrolase	IPR003785	creatininase formamide hydrolase
+hydrolase	IPR004232	nitrile hydratase alpha  thiocyanate hydrolase gamma
+hydrolase	IPR005198	glycoside hydrolase  family 76
+hydrolase	IPR006101	glycoside hydrolase  family 2
+hydrolase	IPR006357	had-superfamily hydrolase  subfamily iia
+hydrolase	IPR006379	had-superfamily hydrolase  subfamily iib
+hydrolase	IPR006383	had-superfamily hydrolase  subfamily ib  pspase-like
+hydrolase	IPR006439	had hydrolase  subfamily ia
+hydrolase	IPR006684	acyl-coa thioester hydrolase ybgc ybaw family
+hydrolase	IPR006710	glycoside hydrolase  family 43
+hydrolase	IPR007404	lexa-binding  inner membrane-associated putative hydrolase
+hydrolase	IPR008380	had-superfamily hydrolase  subfamily ig  5'-nucleotidase
+hydrolase	IPR011330	glycoside hydrolase deacetylase  beta alpha-barrel
+hydrolase	IPR011613	glycoside hydrolase family 15 phosphorylase b kinase regulatory chain family
+hydrolase	IPR013319	glycoside hydrolase family 11 12
+hydrolase	IPR013780	glycosyl hydrolase  all-beta
+hydrolase	IPR013812	glycoside hydrolase  family 2 20  immunoglobulin-like beta-sandwich domain
+hydrolase	IPR015797	nudix hydrolase domain-like
+hydrolase	IPR015902	glycoside hydrolase  family 13
+hydrolase	IPR015955	lactate dehydrogenase glycoside hydrolase  family 4  c-terminal
+hydrolase	IPR016035	acyl transferase acyl hydrolase lysophospholipase
+hydrolase	IPR017853	glycoside hydrolase superfamily
+hydrolase	IPR023186	inosine uridine-preferring nucleoside hydrolase
+hydrolase	IPR023900	nitrile hydratase alpha subunit  thiocyanate hydrolase gamma subunit
+hydrolase	IPR027369	dinb yfit-like putative metal-dependent hydrolase
+hydrolase	IPR027417	p-loop containing nucleoside triphosphate hydrolase
+hydrolase	IPR028995	glycoside hydrolase families 57 38  central domain
+hydrolase	IPR029058	alpha beta hydrolase fold
+hydrolase	IPR030817	3 5 4-trihydroxycyclohexa-1 2-dione hydrolase
+hydrolase	IPR032466	metal-dependent hydrolase
+hydrolase	IPR033715	gdp-mannose mannosyl hydrolase
+hydroxylase	IPR001221	phenol hydroxylase reductase
+hydroxylase	IPR001273	aromatic amino acid hydroxylase
+hydroxylase	IPR003430	methane phenol toluene hydroxylase
+hydroxylase	IPR010971	ubiquinone biosynthesis hydroxylase ubih coq6
+hypothetical	IPR004792	conserved hypothetical protein chp00275  flavoprotein hi0933-like
+hypothetical	IPR011971	conserved hypothetical protein chp02284
+hypothetical	IPR012808	conserved hypothetical protein chp02453
+hypothetical	IPR014061	conserved hypothetical protein chp02688
+hypothetical	IPR016062	hypothetical protein tm1410-related
+hypothetical	IPR017517	conserved hypothetical protein chp03083  actinobacterial-type
+hypothetical	IPR019962	conserved hypothetical protein chp03663
+hypothetical	IPR027269	hypothetical pa1492 domain
+iia	IPR001241	dna topoisomerase  type iia
+iia	IPR002316	proline-trna ligase  class iia
+iia	IPR004701	phosphotransferase system  mannose-type iia component
+iia	IPR004716	phosphotransferase system  glucitol sorbitol-specific iia component
+iia	IPR006357	had-superfamily hydrolase  subfamily iia
+iia	IPR009083	transcription factor iia  helical
+iia	IPR009088	transcription factor iia  beta-barrel
+import	IPR002056	protein import receptor mas20
+import	IPR005683	mitochondrial import receptor subunit tom22
+import	IPR026253	methionine import atp-binding protein metn
+import	IPR027247	mitochondrial import inner membrane translocase subunit tim10 tim12
+inhibitor	IPR000877	proteinase inhibitor i12  bowman-birk
+inhibitor	IPR001820	protease inhibitor i35 (timp)
+inhibitor	IPR002160	proteinase inhibitor i3  kunitz legume
+inhibitor	IPR003175	cyclin-dependent kinase inhibitor
+inhibitor	IPR005658	proteinase inhibitor i11  ecotin
+inhibitor	IPR006106	cereal seed allergen grain softness trypsin and alpha-amylase inhibitor
+inhibitor	IPR006940	securin sister-chromatid separation inhibitor
+inhibitor	IPR008466	protein phosphatase inhibitor 1
+inhibitor	IPR008993	tissue inhibitor of metalloproteinases-like  ob-fold
+inhibitor	IPR009020	proteinase propeptide inhibitor
+inhibitor	IPR009684	proteinase inhibitor i47  latexin
+inhibitor	IPR009951	host-nuclease inhibitor protein gam
+inhibitor	IPR011065	kunitz inhibitor st1-like
+inhibitor	IPR016085	protease inhibitor  beta-barrel domain
+inhibitor	IPR016098	cyclase-associated protein cap septum formation inhibitor minc  c-terminal
+inhibitor	IPR016140	bifunctional inhibitor plant lipid transfer protein seed storage helical domain
+inhibitor	IPR018203	gdp dissociation inhibitor
+inhibitor	IPR018660	c-type lysozyme  inhibitor
+inhibitor	IPR023223	dna polymerase iii inhibitor ia3  alpha-helix domain
+inhibitor	IPR025899	phosphatase rapc f inhibitor  phrc f
+inhibitor	IPR033258	ep300-interacting inhibitor of differentiation
+initiation	IPR000649	initiation factor 2b-related
+initiation	IPR003446	plasmid replication initiation  repa
+initiation	IPR005872	archaeal bacterial translation initiation factor sui1
+initiation	IPR007224	transcription initiation factor rrn11
+initiation	IPR009001	translation elongation factor ef1a initiation factor if2gamma  c-terminal
+initiation	IPR011488	translation initiation factor 2  alpha subunit
+initiation	IPR016046	transcription initiation spt4-like
+initiation	IPR019350	rna polymerase i-specific transcription initiation factor rrn6-like
+initiation	IPR022793	rna polymerase i-specific transcription initiation factor rrn10
+initiation	IPR023398	translation initiation factor eif- 4e-like
+inner	IPR002010	type iii secretion system inner membrane r protein
+inner	IPR003397	mitochondrial inner membrane translocase subunit tim17 tim22 tim23 peroxisomal protein pmp24
+inner	IPR004929	spanin  inner membrane subunit
+inner	IPR005838	type iii secretion system inner membrane p protein
+inner	IPR007404	lexa-binding  inner membrane-associated putative hydrolase
+inner	IPR024621	inner membrane mitoribosome receptor mba1  mitochondrial
+inner	IPR027247	mitochondrial import inner membrane translocase subunit tim10 tim12
+integral	IPR002809	integral membrane protein emc3 tmco1-like
+integral	IPR005496	integral membrane protein terc
+integral	IPR006541	bacteriocin-associated integral membrane protein
+integral	IPR010020	integral membrane protein  yccs yhfk
+integral	IPR019185	integral membrane protein sys1-related
+iron	IPR000392	nitrogenase iron protein  subunit nifh protochlorophyllide reductase  subunit chll
+iron	IPR003149	iron hydrogenase  small subunit
+iron	IPR003689	zinc iron permease
+iron	IPR004686	tricarboxylate iron carrier
+iron	IPR004923	iron permease ftr1 fip1 efeu
+iron	IPR019903	repair of iron centres family
+iron	IPR022689	iron dependent repressor
+isomerase	IPR000652	triosephosphate isomerase
+isomerase	IPR001250	mannose-6-phosphate isomerase  type i
+isomerase	IPR001998	xylose isomerase
+isomerase	IPR002130	cyclophilin-type peptidyl-prolyl cis-trans isomerase domain
+isomerase	IPR003500	sugar-phosphate isomerase  rpib laca lacb family
+isomerase	IPR004216	l-fucose l-arabinose isomerase  c-terminal
+isomerase	IPR004788	ribose 5-phosphate isomerase  type a
+isomerase	IPR005792	protein disulphide isomerase
+isomerase	IPR006148	glucosamine galactosamine-6-phosphate isomerase
+isomerase	IPR018950	disulphide bond isomerase  dsbc g  n-terminal
+isomerase	IPR021120	kdui iolb isomerase
+isomerase	IPR023016	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase
+isomerase	IPR023566	peptidyl-prolyl cis-trans isomerase  fkbp-type
+kinase	IPR000239	gpcr kinase
+kinase	IPR000333	ser thr protein kinase  tgfb receptor
+kinase	IPR000577	carbohydrate kinase  fggy
+kinase	IPR000850	adenylate kinase ump-cmp kinase
+kinase	IPR000850	adenylate kinase ump-cmp kinase
+kinase	IPR000890	aliphatic acid kinase  short-chain
+kinase	IPR001048	aspartate glutamate uridylate kinase
+kinase	IPR001057	glutamate acetylglutamate kinase
+kinase	IPR001174	galactokinase homoserine kinase
+kinase	IPR001576	phosphoglycerate kinase
+kinase	IPR002504	nad kinase
+kinase	IPR003175	cyclin-dependent kinase inhibitor
+kinase	IPR004567	type ii pantothenate kinase
+kinase	IPR004625	pyridoxine kinase
+kinase	IPR005218	diacylglycerol lipid kinase
+kinase	IPR006283	thiamine-monophosphate kinase
+kinase	IPR010440	lipopolysaccharide kinase
+kinase	IPR011613	glycoside hydrolase family 15 phosphorylase b kinase regulatory chain family
+kinase	IPR011817	uridylate kinase
+kinase	IPR013641	protein kti12 l-seryl-trna(sec) kinase
+kinase	IPR013954	polynucleotide kinase 3 phosphatase
+kinase	IPR014009	pik-related kinase
+kinase	IPR014376	protein kinase c  delta epsilon eta theta types
+kinase	IPR014746	glutamine synthetase guanido kinase  catalytic domain
+kinase	IPR015433	phosphatidylinositol kinase
+kinase	IPR015795	pyruvate kinase  c-terminal
+kinase	IPR016231	mitogen-activated protein (map) kinase kinase kinase  mlk1 mlk2 mlk4
+kinase	IPR016231	mitogen-activated protein (map) kinase kinase kinase  mlk1 mlk2 mlk4
+kinase	IPR016231	mitogen-activated protein (map) kinase kinase kinase  mlk1 mlk2 mlk4
+kinase	IPR016243	tyrosine-protein kinase  csf-1 pdgf receptor family
+kinase	IPR016246	tyrosine-protein kinase  insulin-like receptor
+kinase	IPR016250	tyrosine-protein kinase  fes fps type
+kinase	IPR016251	tyrosine-protein kinase  non-receptor jak tyk2
+kinase	IPR016898	polyphosphate kinase 2
+kinase	IPR017419	mitogen-activated protein kinase kinase kinase 12 13
+kinase	IPR017419	mitogen-activated protein kinase kinase kinase 12 13
+kinase	IPR017419	mitogen-activated protein kinase kinase kinase 12 13
+kinase	IPR019187	cyclin-dependent kinase 2-associated protein
+kinase	IPR020636	calcium calmodulin-dependent calcium-dependent protein kinase
+kinase	IPR020684	rho-associated protein kinase 1 2
+kinase	IPR020777	tyrosine-protein kinase  neurotrophic receptor
+kinase	IPR023465	riboflavin kinase domain
+kinase	IPR023468	riboflavin kinase
+kinase	IPR024104	pseudokinase tribbles family serine-threonine-protein kinase 40
+kinase	IPR028979	hpr(ser) kinase phosphorylase  n-terminal domain-like
+kinase	IPR030616	aurora kinase
+kinase	IPR030665	circadian clock protein kinase kaic
+kinase	IPR031322	shikimate kinase gluconokinase
+kinase	IPR033624	serine threonine-protein kinase mark par1
+kinase-like	IPR000764	uridine kinase-like
+kinase-like	IPR003594	histidine kinase-like atpase  c-terminal domain
+kinase-like	IPR011009	protein kinase-like domain
+kinase-like	IPR011037	pyruvate kinase-like  insert domain
+kinase-like	IPR015813	pyruvate phosphoenolpyruvate kinase-like domain
+l12	IPR000206	ribosomal protein l7 l12
+l12	IPR000911	ribosomal protein l11 l12
+l12	IPR014719	ribosomal protein l7 l12  c-terminal adaptor protein clps-like
+l12	IPR027534	ribosomal protein l12 family
+large	IPR000788	ribonucleotide reductase large subunit  c-terminal
+large	IPR001030	aconitase 3-isopropylmalate dehydratase large subunit  alpha beta alpha domain
+large	IPR004383	ribosomal rna large subunit methyltransferase rlmn cfr
+large	IPR006251	homoaconitase 3-isopropylmalate dehydratase  large subunit
+large	IPR007238	dna primase large subunit  eukaryotic archaeal
+large	IPR010286	ribosomal rna large subunit methyltransferase f-like
+large	IPR015507	ribosomal rna large subunit methyltransferase e
+large	IPR022682	peptidase c2  calpain  large subunit  domain iii
+large	IPR024188	glutamate synthase large subunit-like protein
+lectin	IPR000772	ricin b  lectin domain
+lectin	IPR001229	jacalin-like lectin domain
+lectin	IPR013320	concanavalin a-like lectin glucanase domain
+lectin	IPR016187	c-type lectin fold
+ligase	IPR000873	amp-dependent synthetase ligase
+ligase	IPR000977	dna ligase  atp-dependent
+ligase	IPR001233	trna-splicing ligase  rtcb
+ligase	IPR002301	isoleucine-trna ligase
+ligase	IPR002303	valine-trna ligase
+ligase	IPR002316	proline-trna ligase  class iia
+ligase	IPR002318	alanine-trna ligase  class iic
+ligase	IPR003721	pantoate-beta-alanine ligase
+ligase	IPR004344	tubulin-tyrosine ligase tubulin polyglutamylase
+ligase	IPR004347	pup ligase deamidase
+ligase	IPR004516	histidine-trna ligase atp phosphoribosyltransferase regulatory subunit
+ligase	IPR004562	lipoyltransferase lipoate-protein ligase
+ligase	IPR008225	coenzyme f420:l-glutamate ligase
+ligase	IPR009097	rna ligase cyclic nucleotide phosphodiesterase
+ligase	IPR012387	trna ligase trl1  fungi
+ligase	IPR014145	dna ligase d  polymerase domain
+ligase	IPR019021	e3 ubiquitin-protein ligase substrate receptor mms22
+ligase	IPR024909	cysteinyl-trna synthetase mycothiol ligase
+ligase	IPR031127	e3 ubiquitin ligase rbr family
+ligase	IPR033275	e3 ubiquitin-protein ligase march-like
+lipid	IPR004960	bacterial lipid a biosynthesis acyltransferase
+lipid	IPR005218	diacylglycerol lipid kinase
+lipid	IPR016140	bifunctional inhibitor plant lipid transfer protein seed storage helical domain
+lipid	IPR031259	intracellular lipid binding protein
+lipoprotein	IPR004564	outer membrane lipoprotein carrier protein lola-like
+lipoprotein	IPR010653	nlpb dapx lipoprotein
+lipoprotein	IPR018736	protein of unknown function duf2279  periplasmic lipoprotein
+lipoprotein	IPR019076	sporulation lipoprotein yhcn ylaj-like
+lipoprotein	IPR019114	chaperone lipoprotein  puls outs-like
+lipoprotein	IPR024952	lipoprotein lpp20-like
+lipoprotein	IPR025971	lppp lpre lipoprotein
+lipoprotein	IPR027279	d-aminopeptidase lipoprotein domain
+lyase	IPR000362	fumarate lyase family
+lyase	IPR001106	aromatic amino acid lyase
+lyase	IPR007247	ureidoglycolate lyase
+lyase	IPR008929	chondroitin ac alginate lyase
+lyase	IPR011050	pectin lyase fold virulence factor
+lyase	IPR011071	polysaccharide lyase family 8-like  c-terminal
+lyase	IPR011166	beta-eliminating lyase family
+lyase	IPR011206	citrate lyase beta subunit-like
+lyase	IPR023439	malonate decarboxylase citrate lyase acyl carrier protein
+lyase	IPR024535	pectate lyase superfamily protein
+major	IPR000425	major intrinsic protein
+major	IPR003184	major secreted virus protein  35kda
+major	IPR005828	major facilitator   sugar transporter-like
+major	IPR006490	phage major tail protein  phi13 family
+major	IPR011701	major facilitator superfamily
+major	IPR011855	phage major tail protein tp901-1
+major	IPR017996	major royal jelly protein protein yellow
+major	IPR020846	major facilitator superfamily domain
+mediator	IPR007018	mediator complex  subunit med6
+mediator	IPR009332	mediator of rna polymerase ii transcription subunit 22
+mediator	IPR013921	mediator complex  subunit med20
+mediator	IPR019364	mediator complex  subunit med8  fungi metazoa
+membrane	IPR001708	membrane insertase oxa1 alb3 yidc
+membrane	IPR002010	type iii secretion system inner membrane r protein
+membrane	IPR002809	integral membrane protein emc3 tmco1-like
+membrane	IPR003397	mitochondrial inner membrane translocase subunit tim17 tim22 tim23 peroxisomal protein pmp24
+membrane	IPR003423	outer membrane efflux protein
+membrane	IPR003667	rnf-nqr subunit  membrane protein
+membrane	IPR004299	membrane bound o-acyl transferase  mboat
+membrane	IPR004564	outer membrane lipoprotein carrier protein lola-like
+membrane	IPR004776	membrane transport protein
+membrane	IPR004929	spanin  inner membrane subunit
+membrane	IPR005016	serine incorporator tms membrane protein
+membrane	IPR005496	integral membrane protein terc
+membrane	IPR005838	type iii secretion system inner membrane p protein
+membrane	IPR006143	rnd efflux pump  membrane fusion protein
+membrane	IPR006541	bacteriocin-associated integral membrane protein
+membrane	IPR006876	lmbr1-like membrane protein
+membrane	IPR007354	carotene biosynthesis associated membrane protein
+membrane	IPR010020	integral membrane protein  yccs yhfk
+membrane	IPR011250	outer membrane protein outer membrane enzyme pagp   beta-barrel
+membrane	IPR011250	outer membrane protein outer membrane enzyme pagp   beta-barrel
+membrane	IPR012994	membrane bound ybgt-like
+membrane	IPR016444	synaptobrevin vesicle-associated membrane protein
+membrane	IPR019185	integral membrane protein sys1-related
+membrane	IPR019211	protein of unknown function duf2104  membrane
+membrane	IPR019212	protein of unknown function duf2105  membrane
+membrane	IPR019213	protein of unknown function duf2108  membrane
+membrane	IPR019214	protein of unknown function duf2109  membrane
+membrane	IPR019412	outer membrane protein  iml2 tetratricopeptide repeat protein 39
+membrane	IPR020080	outer membrane adhesin peptidase omptin
+membrane	IPR022813	protein-export membrane protein secd secf  archaeal and bacterial
+membrane	IPR024621	inner membrane mitoribosome receptor mba1  mitochondrial
+membrane	IPR027247	mitochondrial import inner membrane translocase subunit tim10 tim12
+membrane	IPR033399	putative outer membrane lipoprotein-sorting protein
+metallopeptidase	IPR006026	peptidase  metallopeptidase
+metallopeptidase	IPR017050	metallopeptidase  nematode
+metallopeptidase	IPR018766	zinicin-like metallopeptidase type 2
+metallopeptidase	IPR024079	metallopeptidase  catalytic domain
+metazoa	IPR001508	ionotropic glutamate receptor  metazoa
+metazoa	IPR016361	transcriptional enhancer factor  metazoa
+metazoa	IPR017434	protein phosphatase 1 regulatory subunit 3b c d  metazoa
+metazoa	IPR019364	mediator complex  subunit med8  fungi metazoa
+methyltransferase	IPR001525	c-5 cytosine methyltransferase
+methyltransferase	IPR001737	ribosomal rna adenine methyltransferase ksga erm
+methyltransferase	IPR002905	trna methyltransferase  trm1
+methyltransferase	IPR003358	trna (guanine-n-7) methyltransferase  trmb type
+methyltransferase	IPR003742	spout methyltransferase  predicted
+methyltransferase	IPR004033	ubie coq5 methyltransferase
+methyltransferase	IPR004383	ribosomal rna large subunit methyltransferase rlmn cfr
+methyltransferase	IPR004441	rna methyltransferase trmh family
+methyltransferase	IPR004537	tellurite resistance methyltransferase  tehb
+methyltransferase	IPR005304	ribosomal biogenesis  methyltransferase  emg1 nep1
+methyltransferase	IPR006901	trna methyltransferase trmk
+methyltransferase	IPR007213	methyltransferase ppm1 ppm2 tcmp
+methyltransferase	IPR007269	isoprenylcysteine carboxyl methyltransferase
+methyltransferase	IPR007318	phospholipid methyltransferase
+methyltransferase	IPR008715	sam-dependent methyltransferase  nods-related
+methyltransferase	IPR010286	ribosomal rna large subunit methyltransferase f-like
+methyltransferase	IPR010426	trimethylamine methyltransferase
+methyltransferase	IPR012327	d12 class n6 adenine-specific dna methyltransferase
+methyltransferase	IPR015507	ribosomal rna large subunit methyltransferase e
+methyltransferase	IPR016009	trna methyltransferase trmd trm10-type domain
+methyltransferase	IPR017804	methyltransferase egtd-like
+methyltransferase	IPR019410	lysine methyltransferase
+methyltransferase	IPR023267	rna (c5-cytosine) methyltransferase
+methyltransferase	IPR023467	tetrahydromethanopterin s-methyltransferase  subunit h methyltransferase mtx  subunit h
+methyltransferase	IPR025981	ribosomal rna aminoglycoside-resistance methyltransferase
+methyltransferase	IPR029063	s-adenosyl-l-methionine-dependent methyltransferase
+methyltransferase	IPR030445	histone h3-k79 methyltransferase
+methyltransferase	IPR030688	methyltransferase mtra mtxa
+mitochondrial	IPR002030	mitochondrial brown fat uncoupling protein
+mitochondrial	IPR002067	mitochondrial carrier protein
+mitochondrial	IPR003397	mitochondrial inner membrane translocase subunit tim17 tim22 tim23 peroxisomal protein pmp24
+mitochondrial	IPR005683	mitochondrial import receptor subunit tom22
+mitochondrial	IPR006808	atp synthase  f0 complex  subunit g  mitochondrial
+mitochondrial	IPR013684	mitochondrial rho-like
+mitochondrial	IPR019368	ribosomal protein s23 s29  mitochondrial
+mitochondrial	IPR024621	inner membrane mitoribosome receptor mba1  mitochondrial
+mitochondrial	IPR027247	mitochondrial import inner membrane translocase subunit tim10 tim12
+modification	IPR002218	trna uridine 5-carboxymethylaminomethyl modification enzyme mnmg-related
+modification	IPR003442	trna threonylcarbamoyl adenosine modification protein tsae
+modification	IPR004556	modification methylase hemk
+modification	IPR004666	ribosomal s6 modification enzyme rimk lysine biosynthesis enzyme lysx
+modification	IPR017642	dna sulphur modification protein dndb
+molybdopterin	IPR003448	molybdopterin biosynthesis moae
+molybdopterin	IPR003749	thiamines molybdopterin converting factor subunit 1
+molybdopterin	IPR006658	molybdopterin guanine dinucleotide-containing s n-oxide reductase
+molybdopterin	IPR008335	eukaryotic molybdopterin oxidoreductase
+nitrogen	IPR008620	nitrogen fixation protein fixh
+nitrogen	IPR011322	nitrogen regulatory pii-like  alpha beta
+nitrogen	IPR016217	nitrogen fixation  nifu
+nitrogen	IPR019296	uncharacterised protein family  nitrogen regulatory protein pii-related
+nuclear	IPR001723	nuclear hormone receptor
+nuclear	IPR008366	nuclear factor of activated t cells (nfat)
+nuclear	IPR009110	nuclear receptor coactivator  interlocking
+nuclear	IPR017426	nuclear receptor coactivator
+nuclear	IPR026780	proline-rich nuclear receptor coactivator 1 2
+nuclear	IPR029431	tumour protein p53-inducible nuclear protein
+nuclear	IPR030217	nuclear rna export factor
+nuclease	IPR000305	giy-yig nuclease superfamily
+nuclease	IPR003615	hnh nuclease
+nuclease	IPR008947	phospholipase c p1 nuclease domain
+nuclease	IPR014956	putative parb-like nuclease
+nuclease	IPR027050	nuclease sbccd subunit c
+nucleoside	IPR000407	nucleoside phosphatase gda1 cd39
+nucleoside	IPR002259	equilibrative nucleoside transporter
+nucleoside	IPR007710	nucleoside 2-deoxyribosyltransferase
+nucleoside	IPR008276	concentrative nucleoside transporter
+nucleoside	IPR018017	nucleoside phosphorylase
+nucleoside	IPR023186	inosine uridine-preferring nucleoside hydrolase
+nucleoside	IPR027417	p-loop containing nucleoside triphosphate hydrolase
+nucleotide	IPR001019	guanine nucleotide binding protein (g-protein)  alpha subunit
+nucleotide	IPR002591	type i phosphodiesterase nucleotide pyrophosphatase phosphate transferase
+nucleotide	IPR009097	rna ligase cyclic nucleotide phosphodiesterase
+nucleotide	IPR023088	3'5'-cyclic nucleotide phosphodiesterase
+nucleotide	IPR029787	nucleotide cyclase
+ornithine	IPR000183	ornithine dap arg decarboxylase
+ornithine	IPR002993	ornithine decarboxylase antizyme
+ornithine	IPR003462	ornithine cyclodeaminase mu-crystallin
+ornithine	IPR006130	aspartate ornithine carbamoyltransferase
+ornithine	IPR011193	ornithine lysine arginine decarboxylase
+outer	IPR003423	outer membrane efflux protein
+outer	IPR004564	outer membrane lipoprotein carrier protein lola-like
+outer	IPR006714	flagellar filament outer layer protein flaa
+outer	IPR011250	outer membrane protein outer membrane enzyme pagp   beta-barrel
+outer	IPR011250	outer membrane protein outer membrane enzyme pagp   beta-barrel
+outer	IPR019412	outer membrane protein  iml2 tetratricopeptide repeat protein 39
+outer	IPR020080	outer membrane adhesin peptidase omptin
+outer	IPR026099	outer dense fibre protein 2-related
+outer	IPR033399	putative outer membrane lipoprotein-sorting protein
+oxidase	IPR000269	copper amine oxidase
+oxidase	IPR000883	cytochrome c oxidase subunit i
+oxidase	IPR003177	cytochrome c oxidase  subunit viia
+oxidase	IPR004203	cytochrome c oxidase subunit iv family
+oxidase	IPR005171	cytochrome c oxidase subunit iv  prokaryotes
+oxidase	IPR007375	sarcosine oxidase  gamma subunit
+oxidase	IPR008621	cbb3-type cytochrome oxidase component
+oxidase	IPR009075	acyl-coa dehydrogenase oxidase c-terminal
+oxidase	IPR010031	l-gulonolactone d-arabinono-1 4-lactone oxidase
+oxidase	IPR013786	acyl-coa dehydrogenase oxidase  n-terminal
+oxidase	IPR015916	galactose oxidase  beta-propeller
+oxidase	IPR016208	aldehyde oxidase xanthine dehydrogenase
+oxidase	IPR019108	cytochrome c oxidase caa3-type  assembly factor ctag-related
+oxidase	IPR024791	cytochrome c oxidase subunit iii
+oxidoreductase	IPR000103	pyridine nucleotide-disulphide oxidoreductase  class-ii
+oxidoreductase	IPR000440	nadh:ubiquinone plastoquinone oxidoreductase  chain 3
+oxidoreductase	IPR001133	nadh-ubiquinone oxidoreductase chain 4l k
+oxidoreductase	IPR001203	aldehyde ferredoxin oxidoreductase  c-terminal
+oxidoreductase	IPR001433	oxidoreductase fad nad(p)-binding
+oxidoreductase	IPR001891	malic oxidoreductase
+oxidoreductase	IPR002023	nadh-quinone oxidoreductase subunit e-like
+oxidoreductase	IPR003918	nadh:ubiquinone oxidoreductase
+oxidoreductase	IPR008335	eukaryotic molybdopterin oxidoreductase
+oxidoreductase	IPR009014	transketolase c-terminal pyruvate-ferredoxin oxidoreductase domain ii
+oxidoreductase	IPR010226	nadh-quinone oxidoreductase  chain i
+oxidoreductase	IPR012132	glucose-methanol-choline oxidoreductase
+oxidoreductase	IPR016440	rubredoxin-oxygen oxidoreductase
+oxidoreductase	IPR019752	pyruvate ketoisovalerate oxidoreductase  catalytic domain
+oxidoreductase	IPR022885	nad(p)h-quinone oxidoreductase subunit d h
+peptidase	IPR000209	peptidase s8 s53 domain
+peptidase	IPR000223	peptidase s26a  signal peptidase i
+peptidase	IPR000223	peptidase s26a  signal peptidase i
+peptidase	IPR000246	peptidase t2  asparaginase 2
+peptidase	IPR000250	peptidase g1
+peptidase	IPR000671	peptidase a31 family
+peptidase	IPR000718	peptidase m13
+peptidase	IPR000834	peptidase m14  carboxypeptidase a
+peptidase	IPR000994	peptidase m24
+peptidase	IPR001096	peptidase c13  legumain
+peptidase	IPR001314	peptidase s1a  chymotrypsin family
+peptidase	IPR001461	aspartic peptidase a1 family
+peptidase	IPR001548	peptidase m2  peptidyl-dipeptidase a
+peptidase	IPR001578	peptidase c12  ubiquitin carboxyl-terminal hydrolase
+peptidase	IPR001714	peptidase m24  methionine aminopeptidase
+peptidase	IPR001733	peptidase s26b
+peptidase	IPR001930	peptidase m1  alanine aminopeptidase leukotriene a4 hydrolase
+peptidase	IPR001940	peptidase s1c
+peptidase	IPR001948	peptidase m18
+peptidase	IPR002142	peptidase s49
+peptidase	IPR002410	peptidase s33
+peptidase	IPR002610	peptidase s54  rhomboid
+peptidase	IPR002933	peptidase m20
+peptidase	IPR004438	peptidase m3b  oligoendopeptidase f
+peptidase	IPR004447	c-terminal-processing peptidase s41a
+peptidase	IPR005074	peptidase c39  bacteriocin processing
+peptidase	IPR005077	peptidase c11  clostripain
+peptidase	IPR005078	peptidase c54
+peptidase	IPR005320	peptidase s51
+peptidase	IPR006026	peptidase  metallopeptidase
+peptidase	IPR006197	peptidase s24  lexa-like
+peptidase	IPR006639	presenilin signal peptide peptidase
+peptidase	IPR007035	peptidase m55  d-aminopeptidase
+peptidase	IPR008007	peptidase m42
+peptidase	IPR008256	peptidase s1b
+peptidase	IPR009003	peptidase s1  pa clan
+peptidase	IPR010229	peptidase m38  beta-aspartyl dipeptidase
+peptidase	IPR011356	peptidase m17  leucine aminopeptidase peptidase b
+peptidase	IPR011356	peptidase m17  leucine aminopeptidase peptidase b
+peptidase	IPR011697	peptidase c26
+peptidase	IPR011977	peptidase m3b  oligoendopeptidase-related clade 3
+peptidase	IPR012462	peptidase c78  ubiquitin fold modifier-specific peptidase 1  2
+peptidase	IPR012462	peptidase c78  ubiquitin fold modifier-specific peptidase 1  2
+peptidase	IPR012962	peptidase m54  archaemetzincin
+peptidase	IPR013016	peptidase c30 c16
+peptidase	IPR013128	peptidase c1a
+peptidase	IPR013273	peptidase m12b  adam-ts
+peptidase	IPR015500	peptidase s8  subtilisin-related
+peptidase	IPR016125	peptidase c15  pyroglutamyl peptidase i-like
+peptidase	IPR016125	peptidase c15  pyroglutamyl peptidase i-like
+peptidase	IPR019400	peptidase c65  otubain
+peptidase	IPR020080	outer membrane adhesin peptidase omptin
+peptidase	IPR021109	aspartic peptidase domain
+peptidase	IPR021190	peptidase m10a
+peptidase	IPR022682	peptidase c2  calpain  large subunit  domain iii
+peptidase	IPR022684	peptidase c2  calpain family
+peptide	IPR000663	natriuretic peptide
+peptide	IPR000874	bombesin neuromedin-b ranatensin peptide family
+peptide	IPR001571	gpcr  family 2  vasoactive intestinal peptide receptor
+peptide	IPR004374	peptide chain release factor 2
+peptide	IPR004403	peptide chain release factor erf1 arf1
+peptide	IPR006639	presenilin signal peptide peptidase
+peptide	IPR030678	peptide nickel binding protein  mppa-type
+periplasmic	IPR001802	mercuric transport protein periplasmic component copper chaperone copz
+periplasmic	IPR002033	sec-independent periplasmic protein translocase tatc
+periplasmic	IPR002491	abc transporter periplasmic binding domain
+periplasmic	IPR005770	phosphate phosphite phosphonate abc transporter  periplasmic binding protein
+periplasmic	IPR005948	thiamine abc transporter periplasmic binding protein
+periplasmic	IPR006127	periplasmic solute binding protein  znua-like
+periplasmic	IPR008240	chorismate mutase  periplasmic
+periplasmic	IPR014438	glucan biosynthesis  periplasmic  mdog d
+periplasmic	IPR018736	protein of unknown function duf2279  periplasmic lipoprotein
+periplasmic	IPR028082	periplasmic binding protein-like i
+periplasmic	IPR029151	periplasmic sensor domain-like
+permease	IPR001248	purine-cytosine permease
+permease	IPR001851	abc transporter  permease
+permease	IPR003689	zinc iron permease
+permease	IPR004684	2-keto-3-deoxygluconate permease
+permease	IPR004703	phosphotransferase system  sugar-specific permease component
+permease	IPR004923	iron permease ftr1 fip1 efeu
+permease	IPR005495	permease lptg lptf-related
+permease	IPR005667	sulphate abc transporter permease protein 2
+permease	IPR006043	xanthine uracil vitamin c permease
+permease	IPR009834	ureide permease
+permease	IPR011606	branched-chain amino acid transport  permease
+permease	IPR018227	tryptophan tyrosine permease
+permease	IPR030802	abc transporter permease male
+peroxidase	IPR000889	glutathione peroxidase
+peroxidase	IPR002016	haem peroxidase  plant fungal bacterial
+peroxidase	IPR006314	dyp-type peroxidase
+peroxidase	IPR010255	haem peroxidase
+peroxidase	IPR010644	putative heme-dependent peroxidase chlorite dismutase
+peroxidase	IPR026259	di-c-type haem protein  maug cytochrome c peroxidase
+phage	IPR006490	phage major tail protein  phi13 family
+phage	IPR011855	phage major tail protein tp901-1
+phage	IPR013046	phage baseplate assembly protein v gp45
+phage	IPR014795	vibrio phage icp1  orf50
+phage	IPR019056	phage tail assembly chaperone protein  tac6
+phage	IPR021146	phage gp6-like head-tail connector protein
+phage	IPR024455	phage capsid
+pheromone	IPR001499	gpcr fungal pheromone mating factor  ste3
+pheromone	IPR002816	pheromone shutdown  trab
+pheromone	IPR006170	pheromone general odorant binding protein
+pheromone	IPR016057	pheromone er-2 er-23  protozoan
+phosphatase	IPR000326	phosphatidic acid phosphatase type 2 haloperoxidase
+phosphatase	IPR000407	nucleoside phosphatase gda1 cd39
+phosphatase	IPR001011	acid phosphatase  class a  bacterial
+phosphatase	IPR003695	ppx gppa phosphatase
+phosphatase	IPR004861	protein-tyrosine phosphatase  siw14-like
+phosphatase	IPR005135	endonuclease exonuclease phosphatase
+phosphatase	IPR005519	acid phosphatase  class b-like
+phosphatase	IPR008356	protein-tyrosine phosphatase  kim-containing
+phosphatase	IPR008466	protein phosphatase inhibitor 1
+phosphatase	IPR010021	had-superfamily phosphatase  yqeg-like
+phosphatase	IPR010023	3-deoxy-d-manno-octulosonate 8-phosphate phosphatase
+phosphatase	IPR011159	phosphoprotein phosphatase ppz ppq1
+phosphatase	IPR013954	polynucleotide kinase 3 phosphatase
+phosphatase	IPR015655	protein phosphatase 2c family
+phosphatase	IPR016336	receptor tyrosine-protein phosphatase  alpha epsilon-type
+phosphatase	IPR017434	protein phosphatase 1 regulatory subunit 3b c d  metazoa
+phosphatase	IPR017867	protein-tyrosine phosphatase  low molecular weight
+phosphatase	IPR023198	phosphoglycolate phosphatase  domain 2
+phosphatase	IPR024950	dual specificity phosphatase
+phosphatase	IPR025899	phosphatase rapc f inhibitor  phrc f
+phosphatase	IPR029033	histidine phosphatase superfamily
+phosphatase-like	IPR008963	purple acid phosphatase-like  n-terminal
+phosphatase-like	IPR016195	polymerase histidinol phosphatase-like
+phosphatase-like	IPR029021	protein-tyrosine phosphatase-like
+phosphatase-like	IPR029052	metallo-dependent phosphatase-like
+phosphate	IPR000228	rna 3'-terminal phosphate cyclase
+phosphate	IPR002505	phosphate acetyl butaryl transferase
+phosphate	IPR002591	type i phosphodiesterase nucleotide pyrophosphatase phosphate transferase
+phosphate	IPR003733	thiamine phosphate synthase
+phosphate	IPR005770	phosphate phosphite phosphonate abc transporter  periplasmic binding protein
+phosphate	IPR008205	geranylgeranylglyceryl phosphate synthase heptaprenylglyceryl phosphate synthase
+phosphate	IPR008205	geranylgeranylglyceryl phosphate synthase heptaprenylglyceryl phosphate synthase
+phosphate	IPR012147	phosphate acetyl butyryltransferase
+phosphate	IPR013792	rna 3'-terminal phosphate cyclase enolpyruvate transferase  alpha beta
+phosphate	IPR018445	putative phosphate transport regulator
+phosphate	IPR019263	inorganic phosphate transporter pho88
+phosphate	IPR020831	glyceraldehyde erythrose phosphate dehydrogenase family
+phosphate	IPR022284	glycerol-3-phosphate o-acyltransferase dihydroxyacetone phosphate acyltransferase
+phosphodiesterase	IPR000979	phosphodiesterase mj0936 vps29
+phosphodiesterase	IPR002591	type i phosphodiesterase nucleotide pyrophosphatase phosphate transferase
+phosphodiesterase	IPR007431	acyl carrier protein phosphodiesterase
+phosphodiesterase	IPR009097	rna ligase cyclic nucleotide phosphodiesterase
+phosphodiesterase	IPR017946	plc-like phosphodiesterase  tim beta alpha-barrel domain
+phosphodiesterase	IPR023088	3'5'-cyclic nucleotide phosphodiesterase
+phospholipase	IPR001192	phosphoinositide phospholipase c family
+phospholipase	IPR008947	phospholipase c p1 nuclease domain
+phospholipase	IPR015679	phospholipase d family
+phospholipase	IPR033562	patatin-like phospholipase domain-containing protein
+phosphoribosyltransferase	IPR001348	atp phosphoribosyltransferase hisg
+phosphoribosyltransferase	IPR004516	histidine-trna ligase atp phosphoribosyltransferase regulatory subunit
+phosphoribosyltransferase	IPR007229	nicotinate phosphoribosyltransferase family
+phosphoribosyltransferase	IPR023031	orotate phosphoribosyltransferase
+phosphorylase	IPR000053	thymidine pyrimidine-nucleoside phosphorylase
+phosphorylase	IPR001369	pnp mtap phosphorylase
+phosphorylase	IPR007184	mannoside phosphorylase
+phosphorylase	IPR011613	glycoside hydrolase family 15 phosphorylase b kinase regulatory chain family
+phosphorylase	IPR018017	nucleoside phosphorylase
+phosphorylase	IPR028979	hpr(ser) kinase phosphorylase  n-terminal domain-like
+phosphotransferase	IPR000749	atp:guanido phosphotransferase
+phosphotransferase	IPR002745	phosphotransferase kpta tpt1
+phosphotransferase	IPR003352	phosphotransferase system  eiic
+phosphotransferase	IPR003501	phosphotransferase system  eiib component  type 2 3
+phosphotransferase	IPR004701	phosphotransferase system  mannose-type iia component
+phosphotransferase	IPR004703	phosphotransferase system  sugar-specific permease component
+phosphotransferase	IPR004716	phosphotransferase system  glucitol sorbitol-specific iia component
+phosphotransferase	IPR016152	phosphotransferase anion transporter
+photosystem	IPR000549	photosystem i psag psak protein
+photosystem	IPR000932	photosystem antenna protein-like
+photosystem	IPR001280	photosystem i psaa psab
+photosystem	IPR009518	photosystem ii psbx
+photosystem	IPR016003	photosystem ii cytochrome c-550 precursor
+photosystem	IPR025585	photosystem ii pbs27
+plasmid	IPR003446	plasmid replication initiation  repa
+plasmid	IPR007688	plasmid  conjugal transfer trbl virb6
+plasmid	IPR009483	invasion plasmid antigen ipad
+plasmid	IPR018003	insecticidal toxin complex plasmid virulence protein
+polymerase	IPR002298	dna polymerase a
+polymerase	IPR004615	dna polymerase iii  psi subunit
+polymerase	IPR004805	dna polymerase iii  alpha subunit
+polymerase	IPR005574	rna polymerase ii  rpb4
+polymerase	IPR006110	rna polymerase  subunit omega k rpb6
+polymerase	IPR006172	dna-directed dna polymerase  family b
+polymerase	IPR006591	rna polymerase archaeal subunit p eukaryotic subunit rpabc4
+polymerase	IPR008921	dna polymerase iii  clamp loader complex  gamma delta delta subunit  c-terminal
+polymerase	IPR009025	dna-directed rna polymerase  rbp11-like dimerisation domain
+polymerase	IPR009332	mediator of rna polymerase ii transcription subunit 22
+polymerase	IPR010996	dna polymerase beta-like  n-terminal domain
+polymerase	IPR012164	dna-directed rna polymerase subunit transcription factor s
+polymerase	IPR012845	rna polymerase sigma factor  flia whig
+polymerase	IPR013324	rna polymerase sigma factor  region 3 4
+polymerase	IPR014145	dna ligase d  polymerase domain
+polymerase	IPR014284	rna polymerase sigma-70 like domain
+polymerase	IPR014322	rna polymerase sigma-b f g type
+polymerase	IPR015712	dna-directed rna polymerase  subunit 2
+polymerase	IPR016049	rna polymerase rpc34-like
+polymerase	IPR016195	polymerase histidinol phosphatase-like
+polymerase	IPR016263	rna polymerase sporulation-specific sigma factor
+polymerase	IPR016371	rna polymerase sigma-h factor
+polymerase	IPR019350	rna polymerase i-specific transcription initiation factor rrn6-like
+polymerase	IPR022312	dna polymerase family x
+polymerase	IPR022793	rna polymerase i-specific transcription initiation factor rrn10
+polymerase	IPR023223	dna polymerase iii inhibitor ia3  alpha-helix domain
+polymerase	IPR024826	dna polymerase delta ii small subunit family
+polymerase	IPR027031	glycyl-trna synthetase dna polymerase subunit gamma-2
+polymerase	IPR029040	rna polymerase subunit rpabc4 transcription elongation factor spt4
+polysaccharide	IPR002797	polysaccharide biosynthesis protein
+polysaccharide	IPR003715	polysaccharide export protein
+polysaccharide	IPR011071	polysaccharide lyase family 8-like  c-terminal
+polysaccharide	IPR021148	polysaccharide biosynthesis domain
+porin	IPR001702	porin  gram-negative type
+porin	IPR003192	porin  lamb type
+porin	IPR018759	putative beta-barrel porin 2
+porin	IPR023614	porin domain
+porin	IPR027246	eukaryotic porin tom40
+potassium	IPR000369	potassium channel  voltage-dependent  beta subunit  kcne
+potassium	IPR001395	aldo keto reductase potassium channel subunit beta
+potassium	IPR003280	two pore domain potassium channel
+potassium	IPR003855	potassium transporter
+potassium	IPR003938	potassium channel  voltage-dependent  eag elk erg
+potassium	IPR004481	sodium potassium calcium exchanger
+potassium	IPR005408	two pore domain potassium channel  twik family
+potassium	IPR006036	potassium uptake protein trka
+potassium	IPR016449	potassium channel  inwardly rectifying  kir
+potassium	IPR028325	voltage-gated potassium channel
+predicted	IPR003742	spout methyltransferase  predicted
+predicted	IPR009725	predicted 3-demethylubiquinone-9 3-methyltransferase
+predicted	IPR016431	pyruvate-formate lyase-activating enzyme  predicted
+predicted	IPR017170	lhr-like atp-dependent rna helicase  predicted
+prenyltransferase	IPR000537	ubia prenyltransferase family
+prenyltransferase	IPR004507	flavin prenyltransferase ubix pad1
+prenyltransferase	IPR008930	terpenoid cyclases protein prenyltransferase alpha-alpha toroid
+prenyltransferase	IPR033964	aromatic prenyltransferase
+protease	IPR001820	protease inhibitor i35 (timp)
+protease	IPR003675	caax amino terminal protease
+protease	IPR016085	protease inhibitor  beta-barrel domain
+protease	IPR023562	clp protease proteolytic subunit  translocation-enhancing protein tepa
+protease	IPR026898	protease prsw
+protease	IPR027065	lon protease
+protease	IPR028889	ubiquitin specific protease domain
+proteasome	IPR001353	proteasome  subunit alpha beta
+proteasome	IPR005937	26s proteasome subunit p45
+proteasome	IPR019151	proteasome assembly chaperone 2
+proteasome	IPR019585	26s proteasome regulatory subunit rpn7 cop9 signalosome complex subunit 1
+proteasome	IPR026827	proteasome component ecm29 translational activator gcn1
+proteasome	IPR027040	proteasome subunit rpn10
+protein-like	IPR000799	steroidogenic acute regulatory protein-like
+protein-like	IPR000932	photosystem antenna protein-like
+protein-like	IPR008990	electron transport accessory protein-like domain
+protein-like	IPR016031	tryptophan rna-binding attenuator protein-like domain
+protein-like	IPR021136	flagellar hook-length control protein-like  c-terminal
+protein-like	IPR028082	periplasmic binding protein-like i
+protein-like	IPR028265	m-phase-specific plk1-interacting protein-like
+protein-tyrosine	IPR004861	protein-tyrosine phosphatase  siw14-like
+protein-tyrosine	IPR008356	protein-tyrosine phosphatase  kim-containing
+protein-tyrosine	IPR017867	protein-tyrosine phosphatase  low molecular weight
+protein-tyrosine	IPR029021	protein-tyrosine phosphatase-like
+proteinase	IPR000877	proteinase inhibitor i12  bowman-birk
+proteinase	IPR002160	proteinase inhibitor i3  kunitz legume
+proteinase	IPR005658	proteinase inhibitor i11  ecotin
+proteinase	IPR009020	proteinase propeptide inhibitor
+proteinase	IPR009684	proteinase inhibitor i47  latexin
+pseudouridine	IPR001656	pseudouridine synthase  trud
+pseudouridine	IPR004802	trna pseudouridine synthase b family
+pseudouridine	IPR020097	pseudouridine synthase i  trua  alpha beta domain
+pseudouridine	IPR020103	pseudouridine synthase  catalytic domain
+pump	IPR003810	putative manganese efflux pump
+pump	IPR006143	rnd efflux pump  membrane fusion protein
+pump	IPR006726	para-hydroxybenzoic acid efflux pump subunit aaeb fusaric acid resistance protein
+pump	IPR016300	arsenical pump atpase  arsa get3
+putative	IPR000801	putative esterase
+putative	IPR003810	putative manganese efflux pump
+putative	IPR005358	putative zinc- or iron-chelating domain containing protein
+putative	IPR007404	lexa-binding  inner membrane-associated putative hydrolase
+putative	IPR009061	putative dna-binding domain
+putative	IPR010644	putative heme-dependent peroxidase chlorite dismutase
+putative	IPR011119	uncharacterised domain  helicase relaxase  putative
+putative	IPR012016	aconitase x subunit 2  putative
+putative	IPR014956	putative parb-like nuclease
+putative	IPR018445	putative phosphate transport regulator
+putative	IPR018759	putative beta-barrel porin 2
+putative	IPR018973	dead deah-box helicase  putative
+putative	IPR027277	nicotinate-nucleotide pyrophosphorylase putative pyrophosphorylase modd
+putative	IPR027369	dinb yfit-like putative metal-dependent hydrolase
+putative	IPR032820	putative f0f1-atpase subunit  ca2+ mg2+ transporter
+putative	IPR033399	putative outer membrane lipoprotein-sorting protein
+pyrophosphatase	IPR002591	type i phosphodiesterase nucleotide pyrophosphatase phosphate transferase
+pyrophosphatase	IPR003763	cdp-diacylglycerol pyrophosphatase
+pyrophosphatase	IPR014871	dutpase dctp pyrophosphatase
+pyrophosphatase	IPR025984	dctp pyrophosphatase 1
+pyrophosphatase	IPR030673	pyrophosphatase  gppa ppx-type
+pyruvate	IPR011037	pyruvate kinase-like  insert domain
+pyruvate	IPR015795	pyruvate kinase  c-terminal
+pyruvate	IPR015813	pyruvate phosphoenolpyruvate kinase-like domain
+pyruvate	IPR019752	pyruvate ketoisovalerate oxidoreductase  catalytic domain
+radical	IPR007197	radical sam
+radical	IPR012839	organic radical enzyme activase
+radical	IPR023821	radical sam  tatd-associated
+radical	IPR023970	methylthiotransferase radical sam-type protein
+receptor	IPR000276	g protein-coupled receptor  rhodopsin-like
+receptor	IPR000333	ser thr protein kinase  tgfb receptor
+receptor	IPR000388	sulphonylurea receptor
+receptor	IPR001508	ionotropic glutamate receptor  metazoa
+receptor	IPR001571	gpcr  family 2  vasoactive intestinal peptide receptor
+receptor	IPR001723	nuclear hormone receptor
+receptor	IPR002056	protein import receptor mas20
+receptor	IPR002455	gpcr family 3  gaba-b receptor
+receptor	IPR003290	gpcr  family 2  glucagon-like peptide-1 glucagon receptor
+receptor	IPR003438	glial cell line-derived neurotrophic factor receptor
+receptor	IPR004269	folate receptor
+receptor	IPR004729	transient receptor potential channel
+receptor	IPR005683	mitochondrial import receptor subunit tom22
+receptor	IPR007960	taste receptor type 2
+receptor	IPR009011	mannose-6-phosphate receptor binding domain
+receptor	IPR009030	growth factor receptor cysteine-rich domain
+receptor	IPR009110	nuclear receptor coactivator  interlocking
+receptor	IPR010105	tonb-dependent siderophore receptor
+receptor	IPR010949	tonb-dependent haemoglobin transferrin lactoferrin receptor
+receptor	IPR014935	steroid receptor coactivator
+receptor	IPR015621	interleukin-1 receptor family
+receptor	IPR016243	tyrosine-protein kinase  csf-1 pdgf receptor family
+receptor	IPR016246	tyrosine-protein kinase  insulin-like receptor
+receptor	IPR016248	fibroblast growth factor receptor family
+receptor	IPR016257	ephrin receptor type-a  type-b
+receptor	IPR016336	receptor tyrosine-protein phosphatase  alpha epsilon-type
+receptor	IPR017241	toll-like receptor
+receptor	IPR017426	nuclear receptor coactivator
+receptor	IPR018389	trap transporter solute receptor dctp teaa
+receptor	IPR019021	e3 ubiquitin-protein ligase substrate receptor mms22
+receptor	IPR020777	tyrosine-protein kinase  neurotrophic receptor
+receptor	IPR021663	t-cell surface glycoprotein cd3 zeta subunit high affinity ige receptor gamma subunit
+receptor	IPR022248	tnf receptor family  relt
+receptor	IPR022323	tumour necrosis factor receptor 11
+receptor	IPR022343	gcr1-camp receptor
+receptor	IPR024111	peroxisomal targeting signal 1 receptor family
+receptor	IPR024621	inner membrane mitoribosome receptor mba1  mitochondrial
+receptor	IPR026780	proline-rich nuclear receptor coactivator 1 2
+receptor	IPR028927	mannose-6-phosphate receptor
+recognition	IPR002778	signal recognition particle  srp19 subunit
+recognition	IPR008721	origin recognition complex  subunit 6
+recognition	IPR011162	mhc classes i ii-like antigen recognition protein
+recognition	IPR015510	peptidoglycan recognition protein
+recognition	IPR022941	signal recognition particle  srp54 subunit
+reductase	IPR000358	ribonucleotide reductase small subunit family
+reductase	IPR000392	nitrogenase iron protein  subunit nifh protochlorophyllide reductase  subunit chll
+reductase	IPR000701	succinate dehydrogenase fumarate reductase  transmembrane subunit
+reductase	IPR000788	ribonucleotide reductase large subunit  c-terminal
+reductase	IPR001221	phenol hydroxylase reductase
+reductase	IPR001395	aldo keto reductase potassium channel subunit beta
+reductase	IPR001834	nadh:cytochrome b5 reductase (cbr)
+reductase	IPR002202	hydroxymethylglutaryl-coa reductase  class i ii
+reductase	IPR002347	short-chain dehydrogenase reductase sdr
+reductase	IPR003171	methylenetetrahydrofolate reductase
+reductase	IPR004137	hydroxylamine reductase ni-containing co dehydrogenase
+reductase	IPR004338	nadh-quinone reductase nqr2 rnfd
+reductase	IPR004465	ribonucleotide reductase class ib  nrdi
+reductase	IPR004511	phosphoadenosine phosphosulphate adenosine 5'-phosphosulphate reductase
+reductase	IPR005913	dtdp-4-dehydrorhamnose reductase family
+reductase	IPR006658	molybdopterin guanine dinucleotide-containing s n-oxide reductase
+reductase	IPR008924	methyl-coenzyme m reductase  alpha beta subunit  c-terminal
+reductase	IPR009024	methyl-coenzyme m reductase  ferredoxin-like fold
+reductase	IPR009249	ferredoxin-dependent bilin reductase
+reductase	IPR010187	selenoprotein b  glycine betaine sarcosine d-proline reductase family
+reductase	IPR010649	nitrate trimethylamine n-oxide reductase nape tore
+reductase	IPR011777	geranylgeranyl reductase family
+reductase	IPR015417	glycine sarcosine betaine reductase complex  protein b  subunit alpha  beta
+reductase	IPR016156	fad nad-linked reductase  dimerisation domain
+reductase	IPR016209	protochlorophyllide reductase  chlb  light independent
+reductase	IPR020945	dmso nitrate reductase chaperone
+reductase	IPR026327	methyl-coenzyme m reductase  protein c-like
+reductase	IPR029500	nadph-dependent 7-cyano-7-deazaguanine reductase quef
+reductase	IPR030664	succinate dehydrogenase fumarate reductase adenylylsulphate reductase   flavoprotein subunit
+reductase	IPR030664	succinate dehydrogenase fumarate reductase adenylylsulphate reductase   flavoprotein subunit
+regulator	IPR000944	transcription regulator rrf2-type
+regulator	IPR002876	transcriptional regulator taco1-like
+regulator	IPR007359	positive regulator of sigma(e)  rsec mucc
+regulator	IPR008920	transcription regulator fadr gntr  c-terminal
+regulator	IPR009044	ssdna-binding transcriptional regulator
+regulator	IPR010203	regulator of ribonuclease activity a
+regulator	IPR010368	control of competence regulator comk  ylbf ymca
+regulator	IPR013351	type iii secretion system effector delivery regulator tyea-related
+regulator	IPR013401	type iii secretion regulator  yopn lcre inve mxic
+regulator	IPR015893	tetracycline transcriptional regulator  tetr-like  c-terminal
+regulator	IPR016495	p53 negative regulator mdm2 mdm4
+regulator	IPR017685	hth-type transcriptional regulator argp
+regulator	IPR018445	putative phosphate transport regulator
+regulator	IPR019238	transcriptional regulator  abiei 2 antitoxin  type iv ta system
+regulator	IPR020449	transcription regulator hth  arac- type
+regulator	IPR022797	type iii secretion system regulator lcrr chaperone cesd2
+regulator	IPR022988	nickel-responsive transcriptional regulator nikr
+regulator	IPR023216	transcription regulator ski snon
+regulator	IPR024163	aerotolerance regulator  n-terminal
+regulator	IPR025224	cell cycle and apoptosis regulator protein
+regulator	IPR033981	sporulation regulator whia-like
+regulatory	IPR000799	steroidogenic acute regulatory protein-like
+regulatory	IPR004516	histidine-trna ligase atp phosphoribosyltransferase regulatory subunit
+regulatory	IPR005650	blai transcriptional regulatory family
+regulatory	IPR011256	regulatory factor  effector binding domain
+regulatory	IPR011322	nitrogen regulatory pii-like  alpha beta
+regulatory	IPR011613	glycoside hydrolase family 15 phosphorylase b kinase regulatory chain family
+regulatory	IPR015111	hut operon regulatory protein hutp
+regulatory	IPR017300	na(+) h(+) exchange regulatory cofactor nherf
+regulatory	IPR017431	interferon regulatory factor-1 2
+regulatory	IPR017434	protein phosphatase 1 regulatory subunit 3b c d  metazoa
+regulatory	IPR019296	uncharacterised protein family  nitrogen regulatory protein pii-related
+regulatory	IPR019585	26s proteasome regulatory subunit rpn7 cop9 signalosome complex subunit 1
+regulatory	IPR022879	v-type atp synthase regulatory subunit b beta
+repair	IPR002099	dna mismatch repair protein family
+repair	IPR004583	dna repair protein rad4
+repair	IPR007232	dna repair protein rad52 59 22
+repair	IPR007695	dna mismatch repair protein muts-like  n-terminal
+repair	IPR011184	dna mismatch repair muts
+repair	IPR013632	dna recombination and repair protein rad51-like  c-terminal
+repair	IPR016467	dna recombination and repair protein  reca-like
+repair	IPR019903	repair of iron centres family
+repeat	IPR000884	thrombospondin type-1 (tsp1) repeat
+repeat	IPR019412	outer membrane protein  iml2 tetratricopeptide repeat protein 39
+repeat	IPR033010	the wd repeat cdc20 fizzy family
+repeat	IPR033635	ankyrin repeat and sam domain-containing protein 1
+replication	IPR003446	plasmid replication initiation  repa
+replication	IPR010921	trp repressor replication initiator
+replication	IPR013970	replication factor a protein 3
+replication	IPR020591	chromosomal replication control  initiator dnaa-like
+repressor	IPR000831	trp repressor
+repressor	IPR008988	transcriptional repressor  c-terminal
+repressor	IPR010921	trp repressor replication initiator
+repressor	IPR022689	iron dependent repressor
+repressor	IPR024946	arginine repressor c-terminal-like domain
+resistance	IPR000390	small multidrug resistance protein family
+resistance	IPR001036	acriflavin resistance protein
+resistance	IPR002657	bile acid:sodium symporter arsenical resistance protein  acr3
+resistance	IPR004537	tellurite resistance methyltransferase  tehb
+resistance	IPR006726	para-hydroxybenzoic acid efflux pump subunit aaeb fusaric acid resistance protein
+resistance	IPR018791	uv radiation resistance protein autophagy-related protein 14
+resistance	IPR025961	heavy-metal resistance protein
+resistance	IPR029068	glyoxalase bleomycin resistance protein dihydroxybiphenyl dioxygenase
+ribonuclease	IPR000026	guanine-specific ribonuclease n1 t1 u2
+ribonuclease	IPR001352	ribonuclease hii hiii
+ribonuclease	IPR001427	pancreatic ribonuclease
+ribonuclease	IPR001568	ribonuclease t2-like
+ribonuclease	IPR002759	ribonuclease p mrp protein subunit
+ribonuclease	IPR004476	ribonuclease ii ribonuclease r
+ribonuclease	IPR004476	ribonuclease ii ribonuclease r
+ribonuclease	IPR004613	ribonuclease j
+ribonuclease	IPR006941	ribonuclease caf1
+ribonuclease	IPR010203	regulator of ribonuclease activity a
+ribonuclease	IPR012337	ribonuclease h-like domain
+ribonuclease	IPR013471	ribonuclease z bn
+ribonuclease	IPR019307	rna-binding protein au-1 ribonuclease e g
+ribosomal	IPR000196	ribosomal protein l19 l19e
+ribosomal	IPR000206	ribosomal protein l7 l12
+ribosomal	IPR000218	ribosomal protein l14p
+ribosomal	IPR000235	ribosomal protein s5 s7
+ribosomal	IPR000244	ribosomal protein l9
+ribosomal	IPR000266	ribosomal protein s17 s11
+ribosomal	IPR000307	ribosomal protein s16
+ribosomal	IPR000439	ribosomal protein l15e
+ribosomal	IPR000529	ribosomal protein s6
+ribosomal	IPR000589	ribosomal protein s15
+ribosomal	IPR000597	ribosomal protein l3
+ribosomal	IPR000702	ribosomal protein l6
+ribosomal	IPR000754	ribosomal protein s9
+ribosomal	IPR000851	ribosomal protein s5
+ribosomal	IPR000911	ribosomal protein l11 l12
+ribosomal	IPR000988	ribosomal protein l24e-related
+ribosomal	IPR001063	ribosomal protein l22 l17
+ribosomal	IPR001147	ribosomal protein l21e
+ribosomal	IPR001197	ribosomal protein l10e
+ribosomal	IPR001209	ribosomal protein s14
+ribosomal	IPR001266	ribosomal protein s19e
+ribosomal	IPR001377	ribosomal protein s6e
+ribosomal	IPR001380	ribosomal protein l13e
+ribosomal	IPR001515	ribosomal protein l32e
+ribosomal	IPR001593	ribosomal protein s3ae
+ribosomal	IPR001737	ribosomal rna adenine methyltransferase ksga erm
+ribosomal	IPR001780	ribosomal protein l35a
+ribosomal	IPR001790	ribosomal protein l10p
+ribosomal	IPR001848	ribosomal protein s10
+ribosomal	IPR001865	ribosomal protein s2
+ribosomal	IPR001892	ribosomal protein s13
+ribosomal	IPR001971	ribosomal protein s11
+ribosomal	IPR001975	ribosomal protein l40e
+ribosomal	IPR002132	ribosomal protein l5
+ribosomal	IPR002136	ribosomal protein l4 l1e
+ribosomal	IPR002150	ribosomal protein l31
+ribosomal	IPR002171	ribosomal protein l2
+ribosomal	IPR002222	ribosomal protein s19 s15
+ribosomal	IPR002671	ribosomal protein l22e
+ribosomal	IPR003489	ribosomal protein s30ae sigma 54 modulation protein
+ribosomal	IPR004383	ribosomal rna large subunit methyltransferase rlmn cfr
+ribosomal	IPR004666	ribosomal s6 modification enzyme rimk lysine biosynthesis enzyme lysx
+ribosomal	IPR005304	ribosomal biogenesis  methyltransferase  emg1 nep1
+ribosomal	IPR005484	ribosomal protein l18
+ribosomal	IPR005703	ribosomal protein s3  eukaryotic archaeal
+ribosomal	IPR005822	ribosomal protein l13
+ribosomal	IPR006032	ribosomal protein s12 s23
+ribosomal	IPR009027	ribosomal protein l9 rnase h1  n-terminal
+ribosomal	IPR010286	ribosomal rna large subunit methyltransferase f-like
+ribosomal	IPR010979	ribosomal protein s13-like  h2th
+ribosomal	IPR011035	ribosomal protein l25 gln-trna synthetase  anti-codon-binding domain
+ribosomal	IPR011332	zinc-binding ribosomal protein
+ribosomal	IPR013025	ribosomal protein l25 l23
+ribosomal	IPR014717	translation elongation factor ef1b ribosomal protein s6
+ribosomal	IPR014719	ribosomal protein l7 l12  c-terminal adaptor protein clps-like
+ribosomal	IPR014722	ribosomal protein l2 domain 2
+ribosomal	IPR015324	ribosomal protein rsm22  bacterial-type
+ribosomal	IPR015507	ribosomal rna large subunit methyltransferase e
+ribosomal	IPR018492	ribosomal protein l7ae l8 nhp2 family
+ribosomal	IPR019368	ribosomal protein s23 s29  mitochondrial
+ribosomal	IPR020568	ribosomal protein s5 domain 2-type fold
+ribosomal	IPR021137	ribosomal protein l35
+ribosomal	IPR022309	ribosomal protein s8e ribosomal biogenesis nsa2
+ribosomal	IPR022309	ribosomal protein s8e ribosomal biogenesis nsa2
+ribosomal	IPR022801	ribosomal protein s4 s9
+ribosomal	IPR025981	ribosomal rna aminoglycoside-resistance methyltransferase
+ribosomal	IPR027534	ribosomal protein l12 family
+ribosomal	IPR028364	ribosomal protein l1 ribosomal biogenesis protein
+ribosomal	IPR028364	ribosomal protein l1 ribosomal biogenesis protein
+ribosomal	IPR028877	50s ribosomal protein l18ae 60s ribosomal protein l20 and l18a
+ribosomal	IPR028877	50s ribosomal protein l18ae 60s ribosomal protein l20 and l18a
+ribosomal	IPR028909	ribosomal protein l21-like
+ribosomal	IPR029064	50s ribosomal protein l30e-like
+ribosomal	IPR029751	ribosomal protein l25
+ribosomal	IPR030826	30s ribosomal protein
+ribosomal	IPR030878	ribosomal protein l15
+rna	IPR000228	rna 3'-terminal phosphate cyclase
+rna	IPR000605	helicase  superfamily 3  single-stranded dna rna virus
+rna	IPR001604	dna rna non-specific endonuclease
+rna	IPR001737	ribosomal rna adenine methyltransferase ksga erm
+rna	IPR004383	ribosomal rna large subunit methyltransferase rlmn cfr
+rna	IPR004441	rna methyltransferase trmh family
+rna	IPR005574	rna polymerase ii  rpb4
+rna	IPR006110	rna polymerase  subunit omega k rpb6
+rna	IPR006591	rna polymerase archaeal subunit p eukaryotic subunit rpabc4
+rna	IPR009025	dna-directed rna polymerase  rbp11-like dimerisation domain
+rna	IPR009097	rna ligase cyclic nucleotide phosphodiesterase
+rna	IPR009332	mediator of rna polymerase ii transcription subunit 22
+rna	IPR010286	ribosomal rna large subunit methyltransferase f-like
+rna	IPR012164	dna-directed rna polymerase subunit transcription factor s
+rna	IPR012845	rna polymerase sigma factor  flia whig
+rna	IPR013324	rna polymerase sigma factor  region 3 4
+rna	IPR013792	rna 3'-terminal phosphate cyclase enolpyruvate transferase  alpha beta
+rna	IPR014284	rna polymerase sigma-70 like domain
+rna	IPR014322	rna polymerase sigma-b f g type
+rna	IPR015507	ribosomal rna large subunit methyltransferase e
+rna	IPR015712	dna-directed rna polymerase  subunit 2
+rna	IPR016049	rna polymerase rpc34-like
+rna	IPR016263	rna polymerase sporulation-specific sigma factor
+rna	IPR016371	rna polymerase sigma-h factor
+rna	IPR017170	lhr-like atp-dependent rna helicase  predicted
+rna	IPR019350	rna polymerase i-specific transcription initiation factor rrn6-like
+rna	IPR022793	rna polymerase i-specific transcription initiation factor rrn10
+rna	IPR023267	rna (c5-cytosine) methyltransferase
+rna	IPR025981	ribosomal rna aminoglycoside-resistance methyltransferase
+rna	IPR029040	rna polymerase subunit rpabc4 transcription elongation factor spt4
+rna	IPR030217	nuclear rna export factor
+rna-binding	IPR002775	dna rna-binding protein alba-like
+rna-binding	IPR009068	s15 ns1  rna-binding
+rna-binding	IPR014720	double-stranded rna-binding domain
+rna-binding	IPR016031	tryptophan rna-binding attenuator protein-like domain
+rna-binding	IPR019307	rna-binding protein au-1 ribonuclease e g
+rna-binding	IPR026699	exosome complex rna-binding protein 1 rrp40 rrp4
+rnase	IPR002738	rnase p subunit p30
+rnase	IPR007175	rnase p  rpr2 rpp21 subunit
+rnase	IPR009027	ribosomal protein l9 rnase h1  n-terminal
+rnase	IPR023534	rof rnase p-like
+secretion	IPR000983	bacterial general secretion pathway protein g-type pilin
+secretion	IPR001172	flagellar motor switch flin type iii secretion hrcqb
+secretion	IPR001712	type iii secretion system fhipep
+secretion	IPR002010	type iii secretion system inner membrane r protein
+secretion	IPR003688	type iv secretion system protein trag vird4
+secretion	IPR004846	type ii iii secretion system
+secretion	IPR005415	type iii secretion system  low calcium response  chaperone lcrh sycd
+secretion	IPR005714	atpase  type iii secretion system  flii yscn
+secretion	IPR005838	type iii secretion system inner membrane p protein
+secretion	IPR006135	type iii secretion system substrate exporter
+secretion	IPR006533	type vi secretion system  rhsge-associated vgr protein
+secretion	IPR006972	secretion system effector c  ssec-like
+secretion	IPR007792	type iv secretion system  virb3   trbd   avhb
+secretion	IPR010290	transmembrane secretion effector
+secretion	IPR010310	type vii secretion system esat-6-like
+secretion	IPR012842	type iii secretion system hrpe yscl
+secretion	IPR013351	type iii secretion system effector delivery regulator tyea-related
+secretion	IPR013385	type iii secretion system apparatus protein yscq hrcq spao
+secretion	IPR013401	type iii secretion regulator  yopn lcre inve mxic
+secretion	IPR018920	esat-6 secretion machinery protein essa yuec
+secretion	IPR019029	type iii secretion system  prgh eprh-like
+secretion	IPR021123	type iii secretion  needle-protein-like
+secretion	IPR022797	type iii secretion system regulator lcrr chaperone cesd2
+secretion	IPR025955	type-iv secretion system protein trac conjugative transfer atpase
+serine	IPR001085	serine hydroxymethyltransferase
+serine	IPR005016	serine incorporator tms membrane protein
+serine	IPR005881	serine o-acetyltransferase
+serine	IPR033624	serine threonine-protein kinase mark par1
+shock	IPR007250	heat shock protein 9 12
+shock	IPR011129	cold shock protein
+shock	IPR013126	heat shock protein 70 family
+shock	IPR027725	heat shock transcription factor family
+shock	IPR031107	small heat shock protein hsp20
+sigma	IPR003489	ribosomal protein s30ae sigma 54 modulation protein
+sigma	IPR012845	rna polymerase sigma factor  flia whig
+sigma	IPR013324	rna polymerase sigma factor  region 3 4
+sigma	IPR016263	rna polymerase sporulation-specific sigma factor
+sigma	IPR016635	adaptor protein complex  sigma subunit
+signal	IPR000223	peptidase s26a  signal peptidase i
+signal	IPR002778	signal recognition particle  srp19 subunit
+signal	IPR004358	signal transduction histidine kinase-related protein  c-terminal
+signal	IPR006639	presenilin signal peptide peptidase
+signal	IPR022941	signal recognition particle  srp54 subunit
+signal	IPR024111	peroxisomal targeting signal 1 receptor family
+small	IPR000358	ribonucleotide reductase small subunit family
+small	IPR000390	small multidrug resistance protein family
+small	IPR001806	small gtpase superfamily
+small	IPR002755	dna primase  small subunit
+small	IPR003149	iron hydrogenase  small subunit
+small	IPR006689	small gtpase superfamily  arf sar type
+small	IPR016352	small leucine-rich proteoglycan  class i  decorin asporin byglycan
+small	IPR024826	dna polymerase delta ii small subunit family
+small	IPR026075	small proline-rich protein late cornified envelope protein
+small	IPR031107	small heat shock protein hsp20
+sodium	IPR000402	sodium potassium-transporting atpase subunit beta
+sodium	IPR001696	voltage gated sodium channel  alpha subunit
+sodium	IPR001734	sodium solute symporter
+sodium	IPR001898	sodium sulphate symporter
+sodium	IPR004481	sodium potassium calcium exchanger
+sodium	IPR004836	sodium calcium exchanger protein
+sodium	IPR005899	sodium ion-translocating decarboxylase
+sodium	IPR027098	sodium channel subunit beta-1 beta-3
+solute	IPR001734	sodium solute symporter
+solute	IPR005178	organic solute transporter subunit alpha transmembrane protein 184
+solute	IPR006127	periplasmic solute binding protein  znua-like
+solute	IPR018389	trap transporter solute receptor dctp teaa
+sporulation	IPR002798	stage ii sporulation protein m-like
+sporulation	IPR013486	sporulation stage ii protein d  amidase enhancer lytb
+sporulation	IPR019076	sporulation lipoprotein yhcn ylaj-like
+sporulation	IPR022476	sporulation protein yabp yqfc
+sporulation	IPR025664	stage iii sporulation protein ac ad family
+sporulation	IPR033981	sporulation regulator whia-like
+subdomain	IPR009028	coatomer calthrin adaptor appendage  c-terminal subdomain
+subdomain	IPR013041	coatomer clathrin adaptor appendage  ig-like subdomain
+subdomain	IPR013816	atp-grasp fold  subdomain 2
+subdomain	IPR016111	hexon coat protein  subdomain 4
+subdomain	IPR022384	formiminotransferase subdomain
+subfamily	IPR006357	had-superfamily hydrolase  subfamily iia
+subfamily	IPR006379	had-superfamily hydrolase  subfamily iib
+subfamily	IPR006383	had-superfamily hydrolase  subfamily ib  pspase-like
+subfamily	IPR006439	had hydrolase  subfamily ia
+subfamily	IPR008380	had-superfamily hydrolase  subfamily ig  5'-nucleotidase
+subfamily	IPR014536	sorting nexin 9 subfamily
+subfamily	IPR024858	golgin subfamily a
+symporter	IPR000175	sodium:neurotransmitter symporter
+symporter	IPR001734	sodium solute symporter
+symporter	IPR001898	sodium sulphate symporter
+symporter	IPR001991	sodium:dicarboxylate symporter
+symporter	IPR002657	bile acid:sodium symporter arsenical resistance protein  acr3
+symporter	IPR004740	nucleoside:h+ symporter
+synthase	IPR000131	atp synthase  f1 complex  gamma subunit
+synthase	IPR000454	atp synthase  f0 complex  subunit c
+synthase	IPR000568	atp synthase  f0 complex  subunit a
+synthase	IPR001269	trna-dihydrouridine synthase
+synthase	IPR001465	malate synthase
+synthase	IPR001469	atp synthase  f1 complex  delta epsilon subunit
+synthase	IPR001518	argininosuccinate synthase
+synthase	IPR001636	phosphoribosylaminoimidazole-succinocarboxamide synthase
+synthase	IPR001656	pseudouridine synthase  trud
+synthase	IPR002020	citrate synthase
+synthase	IPR002060	squalene phytoene synthase
+synthase	IPR002146	atp synthase  f0 complex  subunit b b'  bacterial chloroplast
+synthase	IPR002180	6 7-dimethyl-8-ribityllumazine synthase
+synthase	IPR002489	glutamate synthase  alpha subunit  c-terminal
+synthase	IPR002582	holo-[acyl carrier protein] synthase
+synthase	IPR002587	myo-inositol-1-phosphate synthase
+synthase	IPR002684	biotin synthase biotin biosynthesis bifunctional protein bioab
+synthase	IPR002773	deoxyhypusine synthase
+synthase	IPR003698	lipoyl synthase
+synthase	IPR003733	thiamine phosphate synthase
+synthase	IPR003830	(2r)-phospho-3-sulpholactate synthase  coma
+synthase	IPR004461	co dehydrogenase acetyl-coa synthase complex beta subunit
+synthase	IPR004588	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase  bacterial-type
+synthase	IPR004723	8-amino-7-oxononanoate synthase   archaea proteobacteria type
+synthase	IPR004802	trna pseudouridine synthase b family
+synthase	IPR004835	chitin synthase
+synthase	IPR005244	fo synthase  subunit 2-like
+synthase	IPR005294	atp synthase  f1 complex  alpha subunit
+synthase	IPR005856	cysteine synthase
+synthase	IPR006426	asparagine synthase  glutamine-hydrolyzing
+synthase	IPR006808	atp synthase  f0 complex  subunit g  mitochondrial
+synthase	IPR007115	6-pyruvoyl tetrahydropterin synthase qued family protein
+synthase	IPR008205	geranylgeranylglyceryl phosphate synthase heptaprenylglyceryl phosphate synthase
+synthase	IPR008205	geranylgeranylglyceryl phosphate synthase heptaprenylglyceryl phosphate synthase
+synthase	IPR008688	atp synthase  f0 complex  subunit b mi25
+synthase	IPR008949	isoprenoid synthase domain
+synthase	IPR010898	heptaprenyl diphosphate synthase component i
+synthase	IPR014503	clavaminate synthase
+synthase	IPR016218	acetyl-coa decarbonylase synthase complex  gamma subunit
+synthase	IPR017945	dhbp synthase ribb-like alpha beta domain
+synthase	IPR018513	cellulose synthase bcsb  bacterial
+synthase	IPR019999	anthranilate synthase component i-like
+synthase	IPR020097	pseudouridine synthase i  trua  alpha beta domain
+synthase	IPR020103	pseudouridine synthase  catalytic domain
+synthase	IPR020807	polyketide synthase  dehydratase domain
+synthase	IPR022878	v-type atp synthase catalytic alpha chain
+synthase	IPR022879	v-type atp synthase regulatory subunit b beta
+synthase	IPR022924	cardiolipin synthase
+synthase	IPR023026	tryptophan synthase beta chain beta chain-like
+synthase	IPR024188	glutamate synthase large subunit-like protein
+synthase	IPR024652	trichodiene synthase
+synthase	IPR026107	hyaluronan synthase nodulation protein c
+synthase	IPR027790	s-adenosylmethionine synthase
+synthase	IPR030960	3-dehydroquinate synthase domain
+synthase	IPR030963	3-dehydroquinate synthase family
+synthase	IPR032690	cdp-archaeol synthase
+synthase-like	IPR004450	threonine synthase-like
+synthase-like	IPR011005	dihydropteroate synthase-like
+synthase-like	IPR011607	methylglyoxal synthase-like domain
+synthase-like	IPR017938	riboflavin synthase-like beta-barrel
+synthase-like	IPR024924	7-carboxy-7-deazaguanine synthase-like
+synthesis	IPR003664	fatty acid synthesis plsx protein
+synthesis	IPR008792	coenzyme pqq synthesis d
+synthesis	IPR016435	diphthamide synthesis dph1 dph2
+synthesis	IPR017200	coenzyme pqq synthesis protein e
+synthetase	IPR000092	polyprenyl synthetase
+synthetase	IPR000873	amp-dependent synthetase ligase
+synthetase	IPR000924	glutamyl glutaminyl-trna synthetase
+synthetase	IPR001114	adenylosuccinate synthetase
+synthetase	IPR001645	folylpolyglutamate synthetase
+synthetase	IPR002305	aminoacyl-trna synthetase  class ic
+synthetase	IPR003473	quinolinate synthetase a
+synthetase	IPR003694	nad(+) synthetase
+synthetase	IPR004493	leucyl-trna synthetase  class ia  archaeal eukaryotic cytosolic
+synthetase	IPR004529	phenylalanyl-trna synthetase  class iic  alpha subunit
+synthetase	IPR004531	phenylalanyl-trna synthetase  class iic  beta subunit  archae euk cytosolic
+synthetase	IPR004536	selenophosphate synthetase
+synthetase	IPR006194	glycine-trna synthetase  heterodimeric
+synthetase	IPR006195	aminoacyl-trna synthetase  class ii
+synthetase	IPR007822	lanthionine synthetase c-like
+synthetase	IPR009008	valyl leucyl isoleucyl-trna synthetase  editing domain
+synthetase	IPR009080	aminoacyl-trna synthetase  class ia  anticodon-binding
+synthetase	IPR011035	ribosomal protein l25 gln-trna synthetase  anti-codon-binding domain
+synthetase	IPR014746	glutamine synthetase guanido kinase  catalytic domain
+synthetase	IPR014758	methionyl-trna synthetase
+synthetase	IPR017449	prolyl-trna synthetase  class ii
+synthetase	IPR018150	aminoacyl-trna synthetase  class ii (d k n)-like
+synthetase	IPR020058	glutamyl glutaminyl-trna synthetase  class ib  catalytic domain
+synthetase	IPR024909	cysteinyl-trna synthetase mycothiol ligase
+synthetase	IPR027031	glycyl-trna synthetase dna polymerase subunit gamma-2
+tail	IPR006490	phage major tail protein  phi13 family
+tail	IPR009312	minor tail protein u-like
+tail	IPR010667	bacteriophage t4  gp19  tail tube
+tail	IPR011855	phage major tail protein tp901-1
+tail	IPR019056	phage tail assembly chaperone protein  tac6
+thiamine	IPR003733	thiamine phosphate synthase
+thiamine	IPR005948	thiamine abc transporter periplasmic binding protein
+thiamine	IPR011766	thiamine pyrophosphate enzyme  c-terminal tpp-binding
+thiamine	IPR012001	thiamine pyrophosphate enzyme  n-terminal tpp-binding domain
+thiamine	IPR012110	thiamine pyrophosphate (tpp)-dependent enzyme
+topoisomerase	IPR000380	dna topoisomerase  type ia
+topoisomerase	IPR001241	dna topoisomerase  type iia
+topoisomerase	IPR002815	spo11 dna topoisomerase vi subunit a
+topoisomerase	IPR008336	dna topoisomerase i  dna binding  eukaryotic-type
+topoisomerase	IPR013760	dna topoisomerase  type iia-like domain
+toxin	IPR002061	scorpion long chain toxin defensin
+toxin	IPR003558	cytolethal distending toxin a c
+toxin	IPR003571	snake three-finger toxin
+toxin	IPR004991	clostridium epsilon toxin etx bacillus mosquitocidal toxin mtx2
+toxin	IPR004991	clostridium epsilon toxin etx bacillus mosquitocidal toxin mtx2
+toxin	IPR007712	toxin-antitoxin system  rele pare toxin family
+toxin	IPR009241	toxin higb-like
+toxin	IPR011329	killer toxin kp4 smk
+toxin	IPR013307	superantigen  staphylococcal streptococcal toxin  bacterial
+toxin	IPR014942	nucleotidyl transferase abieii toxin  type iv ta system
+toxin	IPR016091	superantigen toxin  c-terminal
+toxin	IPR018003	insecticidal toxin complex plasmid virulence protein
+transcription	IPR000812	transcription factor tfiib
+transcription	IPR000837	ap-1 transcription factor
+transcription	IPR000944	transcription regulator rrf2-type
+transcription	IPR001217	transcription factor stat
+transcription	IPR001699	transcription factor  t-box
+transcription	IPR002100	transcription factor  mads-box
+transcription	IPR002112	transcription factor jun
+transcription	IPR003025	transcription factor otx
+transcription	IPR004979	transcription factor ap-2
+transcription	IPR007224	transcription initiation factor rrn11
+transcription	IPR008920	transcription regulator fadr gntr  c-terminal
+transcription	IPR008967	p53-like transcription factor  dna-binding
+transcription	IPR009083	transcription factor iia  helical
+transcription	IPR009088	transcription factor iia  beta-barrel
+transcription	IPR009332	mediator of rna polymerase ii transcription subunit 22
+transcription	IPR012164	dna-directed rna polymerase subunit transcription factor s
+transcription	IPR015648	transcription factor dp
+transcription	IPR015988	stat transcription factor  coiled coil
+transcription	IPR016046	transcription initiation spt4-like
+transcription	IPR016374	transcription factor  gata-2 3
+transcription	IPR016375	transcription factor gata-4 5 6
+transcription	IPR016378	transcription factor cyclic amp-dependent  cre-bp1-type
+transcription	IPR016492	transcription elongation factor  tfiis-related
+transcription	IPR017923	transcription factor iis  n-terminal
+transcription	IPR019350	rna polymerase i-specific transcription initiation factor rrn6-like
+transcription	IPR020449	transcription regulator hth  arac- type
+transcription	IPR021156	transcription elongation factor a-like brain expressed x-linked
+transcription	IPR022097	transcription factor sox
+transcription	IPR022793	rna polymerase i-specific transcription initiation factor rrn10
+transcription	IPR023216	transcription regulator ski snon
+transcription	IPR023459	transcription elongation factor grea greb family
+transcription	IPR024874	transcription factor maf family
+transcription	IPR024940	transcription factor tcf lef
+transcription	IPR026085	activating transcription factor 7-interacting protein
+transcription	IPR027725	heat shock transcription factor family
+transcription	IPR028978	chorismate pyruvate-lyase ubic transcription regulator-associated  domain
+transcription	IPR029040	rna polymerase subunit rpabc4 transcription elongation factor spt4
+transcription	IPR030450	transcription factor sp1 family
+transcription	IPR030701	transcription factor tfiiib component b''
+transcriptional	IPR002876	transcriptional regulator taco1-like
+transcriptional	IPR005650	blai transcriptional regulatory family
+transcriptional	IPR008988	transcriptional repressor  c-terminal
+transcriptional	IPR009044	ssdna-binding transcriptional regulator
+transcriptional	IPR015893	tetracycline transcriptional regulator  tetr-like  c-terminal
+transcriptional	IPR016361	transcriptional enhancer factor  metazoa
+transcriptional	IPR017685	hth-type transcriptional regulator argp
+transcriptional	IPR019238	transcriptional regulator  abiei 2 antitoxin  type iv ta system
+transcriptional	IPR022988	nickel-responsive transcriptional regulator nikr
+transcriptional	IPR024684	transcriptional activator perc bacteriophage sfv orf40
+transfer	IPR001308	electron transfer flavoprotein alpha subunit fixb
+transfer	IPR006944	bacteriophage gene transfer agent portal protein
+transfer	IPR007688	plasmid  conjugal transfer trbl virb6
+transfer	IPR009838	type iv conjugative transfer system  protein tral
+transfer	IPR010258	conjugal transfer  trbg virb9 cagx
+transfer	IPR012255	electron transfer flavoprotein  beta subunit
+transfer	IPR016140	bifunctional inhibitor plant lipid transfer protein seed storage helical domain
+transfer	IPR019106	type-f conjugative transfer system pilin assembly protein trbc
+transfer	IPR025955	type-iv secretion system protein trac conjugative transfer atpase
+transferase	IPR000715	glycosyl transferase  family 4
+transferase	IPR000811	glycosyl transferase  family 35
+transferase	IPR001503	glycosyl transferase family 10
+transferase	IPR001675	glycosyl transferase family 29
+transferase	IPR001830	glycosyl transferase  family 20
+transferase	IPR002201	glycosyl transferase  family 9
+transferase	IPR002495	glycosyl transferase  family 8
+transferase	IPR002505	phosphate acetyl butaryl transferase
+transferase	IPR002591	type i phosphodiesterase nucleotide pyrophosphatase phosphate transferase
+transferase	IPR002882	lppg:fo 2-phospho-l-lactate transferase cofd upf0052
+transferase	IPR003440	glycosyl transferase  family 48
+transferase	IPR003674	oligosaccharyl transferase  stt3 subunit
+transferase	IPR003702	acetyl-coa hydrolase transferase
+transferase	IPR004165	coenzyme a transferase family i
+transferase	IPR004299	membrane bound o-acyl transferase  mboat
+transferase	IPR004629	glycosyl transferase wecb taga cpsf
+transferase	IPR008278	4'-phosphopantetheinyl transferase superfamily
+transferase	IPR011034	formyl transferase  c-terminal-like
+transferase	IPR013792	rna 3'-terminal phosphate cyclase enolpyruvate transferase  alpha beta
+transferase	IPR014942	nucleotidyl transferase abieii toxin  type iv ta system
+transferase	IPR015424	pyridoxal phosphate-dependent transferase
+transferase	IPR016035	acyl transferase acyl hydrolase lysophospholipase
+transferase	IPR021149	oligosaccharyl transferase complex  subunit ost3 ost6
+transferase	IPR030700	arginine-trna-protein transferase
+translation	IPR001884	translation elongation factor if5a
+translation	IPR004405	translation release factor  pelota
+translation	IPR004540	translation elongation factor efg ef2
+translation	IPR005872	archaeal bacterial translation initiation factor sui1
+translation	IPR008991	translation protein sh3-like domain
+translation	IPR009000	translation protein  beta-barrel domain
+translation	IPR009001	translation elongation factor ef1a initiation factor if2gamma  c-terminal
+translation	IPR011488	translation initiation factor 2  alpha subunit
+translation	IPR014717	translation elongation factor ef1b ribosomal protein s6
+translation	IPR020599	translation elongation factor p yeip
+translation	IPR023398	translation initiation factor eif- 4e-like
+translocase	IPR000185	protein translocase subunit seca
+translocase	IPR001901	protein translocase complex  sece sec61-gamma subunit
+translocase	IPR002033	sec-independent periplasmic protein translocase tatc
+translocase	IPR003369	sec-independent protein translocase protein tata b e
+translocase	IPR003397	mitochondrial inner membrane translocase subunit tim17 tim22 tim23 peroxisomal protein pmp24
+translocase	IPR027247	mitochondrial import inner membrane translocase subunit tim10 tim12
+transmembrane	IPR000515	abc transporter type 1  transmembrane domain meti-like
+transmembrane	IPR000701	succinate dehydrogenase fumarate reductase  transmembrane subunit
+transmembrane	IPR002549	transmembrane protein tqsa-like
+transmembrane	IPR003339	abc ecf transporter  transmembrane component
+transmembrane	IPR004687	lysosomal-associated transmembrane protein 4 5
+transmembrane	IPR005178	organic solute transporter subunit alpha transmembrane protein 184
+transmembrane	IPR008429	cleft lip and palate transmembrane 1
+transmembrane	IPR010290	transmembrane secretion effector
+transmembrane	IPR011925	lipoprotein-releasing system transmembrane protein lolc e
+transmembrane	IPR016174	di-haem cytochrome  transmembrane
+transmembrane	IPR019051	trp biosynthesis associated  transmembrane protein  oprn chp
+transmembrane	IPR019099	uncharacterised protein family pgpgw  transmembrane
+transmembrane	IPR019253	protein of unknown function duf2244  transmembrane
+transmembrane	IPR019286	protein of unknown function duf2339  transmembrane
+transmembrane	IPR019394	testis-specific protein tex28 transmembrane and coiled-coil domains protein
+transmembrane	IPR029695	transmembrane protein 74-like
+transmembrane	IPR033355	transmembrane protein 88
+transport	IPR001071	cellular retinaldehyde binding alpha-tocopherol transport
+transport	IPR001802	mercuric transport protein periplasmic component copper chaperone copz
+transport	IPR002523	mg2+ transporter protein  cora-like zinc transport protein zntb
+transport	IPR003400	biopolymer transport protein exbd tolr
+transport	IPR004697	p-aminobenzoyl-glutamate transport protein abgt
+transport	IPR004776	membrane transport protein
+transport	IPR007194	transport protein particle (trapp) component
+transport	IPR007305	vesicle transport protein  got1 sft2-like
+transport	IPR008990	electron transport accessory protein-like domain
+transport	IPR010207	electron transport complex  rnfb rsxb
+transport	IPR011606	branched-chain amino acid transport  permease
+transport	IPR016482	protein transport protein secg sec61-beta sbh
+transport	IPR018445	putative phosphate transport regulator
+transport	IPR024096	no signalling golgi transport  ligand-binding domain
+transport	IPR030679	abc-type amino acid transport system  atpase component  hisp-type
+transporter	IPR000060	bcct transporter family
+transporter	IPR000109	proton-dependent oligopeptide transporter family
+transporter	IPR000292	formate nitrite transporter
+transporter	IPR000412	abc-2 transporter
+transporter	IPR000515	abc transporter type 1  transmembrane domain meti-like
+transporter	IPR000791	acetate transporter gpr1 fun34 satp family
+transporter	IPR001851	abc transporter  permease
+transporter	IPR001902	slc26a sulp transporter
+transporter	IPR001905	ammonium transporter
+transporter	IPR002259	equilibrative nucleoside transporter
+transporter	IPR002293	amino acid polyamine transporter i
+transporter	IPR002491	abc transporter periplasmic binding domain
+transporter	IPR002523	mg2+ transporter protein  cora-like zinc transport protein zntb
+transporter	IPR003020	bicarbonate transporter  eukaryotic
+transporter	IPR003339	abc ecf transporter  transmembrane component
+transporter	IPR003370	chromate transporter
+transporter	IPR003445	cation transporter
+transporter	IPR003855	potassium transporter
+transporter	IPR004156	organic anion transporter polypeptide oatp
+transporter	IPR004316	sweet sugar transporter
+transporter	IPR004324	folate-biopterin transporter
+transporter	IPR004679	2-hydroxycarboxylate transporter
+transporter	IPR004693	silicon transporter
+transporter	IPR004813	oligopeptide transporter  opt superfamily
+transporter	IPR004842	slc12a transporter family
+transporter	IPR004937	urea transporter
+transporter	IPR005178	organic solute transporter subunit alpha transmembrane protein 184
+transporter	IPR005283	peroxysomal long chain fatty acyl transporter
+transporter	IPR005667	sulphate abc transporter permease protein 2
+transporter	IPR005770	phosphate phosphite phosphonate abc transporter  periplasmic binding protein
+transporter	IPR005948	thiamine abc transporter periplasmic binding protein
+transporter	IPR006160	short chain fatty acid transporter atoe
+transporter	IPR008276	concentrative nucleoside transporter
+transporter	IPR008509	molybdate-anion transporter
+transporter	IPR009825	ecf transporter  substrate-specific component-like
+transporter	IPR011541	nickel cobalt transporter  high-affinity
+transporter	IPR013305	abc transporter tap-like
+transporter	IPR016152	phosphotransferase anion transporter
+transporter	IPR018389	trap transporter solute receptor dctp teaa
+transporter	IPR019263	inorganic phosphate transporter pho88
+transporter	IPR024529	ecf transporter  substrate-specific component
+transporter	IPR026082	abc transporter a  abca
+transporter	IPR029020	ammonium urea transporter
+transporter	IPR030802	abc transporter permease male
+transporter	IPR031563	molybdate transporter 1 2
+transporter	IPR032688	abc-2 family transporter protein
+transporter	IPR032820	putative f0f1-atpase subunit  ca2+ mg2+ transporter
+triphosphate	IPR008180	deoxyuridine triphosphate nucleotidohydrolase deoxycytidine triphosphate deaminase
+triphosphate	IPR008180	deoxyuridine triphosphate nucleotidohydrolase deoxycytidine triphosphate deaminase
+triphosphate	IPR027417	p-loop containing nucleoside triphosphate hydrolase
+triphosphate	IPR029001	inosine triphosphate pyrophosphatase-like
+trna	IPR002218	trna uridine 5-carboxymethylaminomethyl modification enzyme mnmg-related
+trna	IPR002905	trna methyltransferase  trm1
+trna	IPR003358	trna (guanine-n-7) methyltransferase  trmb type
+trna	IPR003442	trna threonylcarbamoyl adenosine modification protein tsae
+trna	IPR004802	trna pseudouridine synthase b family
+trna	IPR006901	trna methyltransferase trmk
+trna	IPR007356	trna (guanine-n1-)-methyltransferase  eukaryotic
+trna	IPR011856	trna endonuclease-like domain
+trna	IPR012387	trna ligase trl1  fungi
+trna	IPR016009	trna methyltransferase trmd trm10-type domain
+trna	IPR018022	trna dimethylallyltransferase
+trna	IPR027555	trna (mo5u34)-methyltransferase-like
+tryptophan	IPR004981	tryptophan 2 3-dioxygenase
+tryptophan	IPR016031	tryptophan rna-binding attenuator protein-like domain
+tryptophan	IPR018227	tryptophan tyrosine permease
+tryptophan	IPR023026	tryptophan synthase beta chain beta chain-like
+tubulin	IPR000217	tubulin
+tubulin	IPR004344	tubulin-tyrosine ligase tubulin polyglutamylase
+tubulin	IPR008280	tubulin ftsz  c-terminal
+tubulin	IPR018316	tubulin ftsz  2-layer sandwich domain
+tumour	IPR002117	p53 tumour suppressor family
+tumour	IPR006053	tumour necrosis factor
+tumour	IPR008983	tumour necrosis factor-like domain
+tumour	IPR022323	tumour necrosis factor receptor 11
+tumour	IPR029431	tumour protein p53-inducible nuclear protein
+tyrosine-protein	IPR016243	tyrosine-protein kinase  csf-1 pdgf receptor family
+tyrosine-protein	IPR016246	tyrosine-protein kinase  insulin-like receptor
+tyrosine-protein	IPR016250	tyrosine-protein kinase  fes fps type
+tyrosine-protein	IPR016251	tyrosine-protein kinase  non-receptor jak tyk2
+tyrosine-protein	IPR016336	receptor tyrosine-protein phosphatase  alpha epsilon-type
+tyrosine-protein	IPR020777	tyrosine-protein kinase  neurotrophic receptor
+ubiquitin	IPR000011	ubiquitin sumo-activating enzyme e1
+ubiquitin	IPR001578	peptidase c12  ubiquitin carboxyl-terminal hydrolase
+ubiquitin	IPR012462	peptidase c78  ubiquitin fold modifier-specific peptidase 1  2
+ubiquitin	IPR028889	ubiquitin specific protease domain
+ubiquitin	IPR031127	e3 ubiquitin ligase rbr family
+uncharacterised	IPR005134	uncharacterised protein family upf0114
+uncharacterised	IPR005265	uncharacterised protein family upf0093
+uncharacterised	IPR006698	uncharacterised protein family upf0229
+uncharacterised	IPR007513	uncharacterised protein family serf
+uncharacterised	IPR007657	glycosyltransferase aer61  uncharacterised
+uncharacterised	IPR007801	uncharacterised protein family upf0276
+uncharacterised	IPR007841	uncharacterised protein family upf0210
+uncharacterised	IPR008886	uncharacterised protein family upf0227 esterase yqia
+uncharacterised	IPR008912	uncharacterised protein family coxe-like
+uncharacterised	IPR008922	uncharacterised domain  di-copper centre
+uncharacterised	IPR010195	uncharacterised peroxidase-related
+uncharacterised	IPR010282	uncharacterised protein family hutd ves
+uncharacterised	IPR011119	uncharacterised domain  helicase relaxase  putative
+uncharacterised	IPR018383	uncharacterised protein family upf0324  prokaryote
+uncharacterised	IPR019099	uncharacterised protein family pgpgw  transmembrane
+uncharacterised	IPR019296	uncharacterised protein family  nitrogen regulatory protein pii-related
+uncharacterised	IPR019629	uncharacterised protein family hi1736 ygjv
+uncharacterised	IPR022552	uncharacterised protein family ycf55
+uncharacterised	IPR022788	uncharacterised protein family upf0184
+unknown	IPR003746	protein of unknown function duf167
+unknown	IPR003795	protein of unknown function duf192
+unknown	IPR005240	protein of unknown function duf389
+unknown	IPR007294	protein of unknown function duf401
+unknown	IPR007339	protein of unknown function duf417
+unknown	IPR007355	protein of unknown function duf424
+unknown	IPR007362	protein of unknown function duf429
+unknown	IPR007367	protein of unknown function duf433
+unknown	IPR007383	protein of unknown function duf445
+unknown	IPR007386	protein of unknown function duf447
+unknown	IPR007402	protein of unknown function duf455
+unknown	IPR007438	protein of unknown function duf488
+unknown	IPR007497	protein of unknown function duf541
+unknown	IPR007503	protein of unknown function duf530
+unknown	IPR007922	protein of unknown function duf721 upf0232
+unknown	IPR008032	protein of unknown function duf749
+unknown	IPR008538	domain of unknown function duf820
+unknown	IPR009500	protein of unknown function duf1118
+unknown	IPR009568	protein of unknown function duf1184
+unknown	IPR009739	protein of unknown function duf1311
+unknown	IPR009758	protein of unknown function duf1326
+unknown	IPR009784	protein of unknown function duf1349
+unknown	IPR009828	protein of unknown function duf1394
+unknown	IPR009906	protein of unknown function duf1445
+unknown	IPR009910	protein of unknown function duf1450
+unknown	IPR009916	protein of unknown function duf1453
+unknown	IPR010297	protein of unknown function duf900  hydrolase-like
+unknown	IPR010369	protein of unknown function duf966
+unknown	IPR010412	protein of unknown function duf1007
+unknown	IPR010652	protein of unknown function duf1232
+unknown	IPR010858	protein of unknown function duf1481
+unknown	IPR011101	protein of unknown function duf5131
+unknown	IPR012440	protein of unknown function duf1641
+unknown	IPR012441	protein of unknown function duf1643
+unknown	IPR012548	protein of unknown function duf1704
+unknown	IPR014923	protein of unknown function duf1802
+unknown	IPR015001	protein of unknown function duf1850
+unknown	IPR018691	protein of unknown function duf2188
+unknown	IPR018736	protein of unknown function duf2279  periplasmic lipoprotein
+unknown	IPR018988	protein of unknown function duf2000
+unknown	IPR019209	protein of unknown function duf2098
+unknown	IPR019211	protein of unknown function duf2104  membrane
+unknown	IPR019212	protein of unknown function duf2105  membrane
+unknown	IPR019213	protein of unknown function duf2108  membrane
+unknown	IPR019214	protein of unknown function duf2109  membrane
+unknown	IPR019253	protein of unknown function duf2244  transmembrane
+unknown	IPR019254	protein of unknown function duf2250
+unknown	IPR019270	protein of unknown function duf2283
+unknown	IPR019283	protein of unknown function duf2330
+unknown	IPR019285	protein of unknown function duf2336
+unknown	IPR019286	protein of unknown function duf2339  transmembrane
+unknown	IPR019692	protein of unknown function duf2581
+unknown	IPR021125	protein of unknown function duf2127
+unknown	IPR021147	protein of unknown function duf697
+unknown	IPR021637	protein of unknown function duf3243
+unknown	IPR022565	protein of unknown function duf2608
+unknown	IPR022584	protein of unknown function duf2937
+unknown	IPR022601	protein of unknown function duf3160
+unknown	IPR022604	protein of unknown function duf2955
+unknown	IPR022606	protein of unknown function duf2914
+unknown	IPR024459	protein of unknown function duf1073
+unknown	IPR024464	protein of unknown function duf2391
+unknown	IPR024515	protein of unknown function duf3397
+unknown	IPR025440	protein of unknown function duf4306
+unknown	IPR026325	protein of unknown function duf932
+unknown	IPR027980	protein of unknown function duf4445
+unknown	IPR031681	protein of unknown function duf5082
+viral	IPR007609	ssrna positive strand viral 18kda cysteine-rich protein
+viral	IPR008980	viral capsid haemagglutinin protein
+viral	IPR028919	viral movement protein
+viral	IPR029053	viral coat protein subunit
+virulence	IPR003991	pertactin virulence factor family
+virulence	IPR011050	pectin lyase fold virulence factor
+virulence	IPR017039	virulence factor brkb
+virulence	IPR018003	insecticidal toxin complex plasmid virulence protein
+virus	IPR000605	helicase  superfamily 3  single-stranded dna rna virus
+virus	IPR003184	major secreted virus protein  35kda
+virus	IPR010392	satellite virus coat
+virus	IPR014015	helicase  superfamily 3  dna virus
+virus	IPR016184	capsid spike protein  ssdna virus
+voltage-dependent	IPR000369	potassium channel  voltage-dependent  beta subunit  kcne
+voltage-dependent	IPR000584	voltage-dependent calcium channel  l-type  beta subunit
+voltage-dependent	IPR002077	voltage-dependent calcium channel  alpha-1 subunit
+voltage-dependent	IPR003938	potassium channel  voltage-dependent  eag elk erg
+voltage-dependent	IPR004695	voltage-dependent anion channel
+zinc	IPR000315	b-box-type zinc finger
+zinc	IPR000962	zinc finger  dksa trar c4-type
+zinc	IPR001222	zinc finger  tfiis-type
+zinc	IPR001781	zinc finger  lim-type
+zinc	IPR001876	zinc finger  ranbp2-type
+zinc	IPR001878	zinc finger  cchc-type
+zinc	IPR002523	mg2+ transporter protein  cora-like zinc transport protein zntb
+zinc	IPR003604	zinc finger  u1-type
+zinc	IPR003689	zinc iron permease
+zinc	IPR007527	zinc finger  swim-type
+zinc	IPR013083	zinc finger  ring fyve phd-type
+zinc	IPR013088	zinc finger  nhr gata-type
+zinc	IPR015880	zinc finger  c2h2-like
+zinc	IPR027775	c2h2- zinc finger protein family
