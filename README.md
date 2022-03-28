@@ -7,17 +7,18 @@ Functional analysis of Prokaryotes using Gene Set Enrichment Analysis on Transcr
 2. Install R 3.4 or newer, if not available
 3. goto the gsea_pro folder and run
 
-./gsea_pro_v3.pl  <br>                                                                                                                                          <br>
-                                -s sessiondir and output folder [default=current folder]                                                                    <br>
-                                -table  Tab delimited text file of locus-tags and experiments: first column = locus_tag, other columns = experiments        <br>
-                                -g genome prefix, including full path [e.g. /var/genomes/Bacteria/Lactococcus_lactis_cremoris_MG1363_uid58837/NC_009004 ]   <br>
-                                -method analyzing method: experiment | cluster  [ default = experiment ]                                                    <br>
-                                -up     cutoff value for positive values [default = 2]                                                                      <br>
-                                -down   cutoff value for negative values [default = -2]                                                                     <br>
-                                -cluster        Name of the clustercolumn [default = clusterID]                                                             <br>
-                                -auto  Auto detect threshold values [default= true]                                                                         <br>
-                                -o user prefix for results [default = gsea_pro ]                                                                            <br>
-
+./gsea_pro_v3.pl  <br> 
+<ul>                                                                                                                                 </li>
+    <li> <b>-s       </b>sessiondir and output folder [default=current folder]                                                                    </li>
+    <li> <b>-table   </b>Tab delimited text file of locus-tags and experiments: first column = locus_tag, other columns = experiments        </li>
+    <li> <b>-g       </b>genome prefix, including full path [e.g. /var/genomes/Bacteria/Lactococcus_lactis_cremoris_MG1363_uid58837/NC_009004 ]   </li>
+    <li> <b>-method  </b>analyzing method: experiment | cluster  [ default = experiment ]                                                    </li>
+    <li> <b>-up      </b>cutoff value for positive values [default = 2]                                                                      </li>
+    <li> <b>-down    </b>cutoff value for negative values [default = -2]                                                                     </li>
+    <li> <b>-cluster </b> Name of the clustercolumn [default = clusterID]                                                             </li>
+    <li> <b>-auto    </b>Auto detect threshold values [default= true]                                                                         </li>
+    <li> <b>-o user  </b>prefix for results [default = gsea_pro ]                                                                            </li>
+</ul>
 
 
 4. <b>Example command line:</b>
