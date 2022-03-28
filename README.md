@@ -1,13 +1,11 @@
 # GSEApro
 Functional analysis of Prokaryotes using Gene Set Enrichment Analysis on Transcriptome (RNA-Seq) or Proteome data
-# GSEAPro
-# GSEAPro
+
 
 # INSTALL GSEA-Pro
-Clone GSEA-Pro from github
-Install R 3.4 or newer, if not available
-
-goto the gsea_pro folder and run
+1. Clone GSEA-Pro from github
+2. Install R 3.4 or newer, if not available
+3. goto the gsea_pro folder and run
 
 ./gsea_pro_v3.pl
                                 -s sessiondir and output folder [default=current folder]
@@ -22,7 +20,7 @@ goto the gsea_pro folder and run
 
 
 
-Example command line;
+4. <b>Example command line:</b>
 ./gsea_pro_v3.pl -table gsea_pro_Experiment_Table.txt -g /var/genomes/Bacteria/Bacillus_subtilis_168_uid57675/NC_000964 -o my_results
 
 
