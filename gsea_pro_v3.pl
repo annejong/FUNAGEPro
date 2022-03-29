@@ -4,7 +4,8 @@
 #
 #	Anne de Jong
 #
-#	July 2018
+#	First release; July 2018
+#   Last update; March 2022
 #
 #	GSEA-Pro v3.0 Gene Set Enrichment Analysis for prokaryotes, multiple experiments and Clusters
 #	All html tables are removed and will be js driven on the basis of the .JSON
@@ -48,7 +49,7 @@ my $KEGG_organisms = "$program_dir/KEGG_organism.table";
 my $usage = "$program_dir/gsea_pro_v3.pl
 				-s sessiondir and output folder [default=current folder]
 				-table	Tab delimited text file of locus-tags and experiments: first column = locus_tag, other columns = experiments
-				-g genome prefix, including full path [e.g. /var/genomes/Bacteria/Lactococcus_lactis_cremoris_MG1363_uid58837/NC_009004 ]
+				-g genome prefix, including full path [e.g. /data/g2d_mirror/Lactococcus_lactis_cremoris_MG1363_uid58837/NC_009004 ]
 				-method	analyzing method: experiment | cluster  [ default = $method ]
 				-up	cutoff value for positive values [default = $up]
 				-down	cutoff value for negative values [default = $down]
@@ -81,11 +82,11 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 	$classes{SUPERFAMILY} = "http://supfam.cs.bris.ac.uk/SUPERFAMILY/cgi-bin/scop.cgi?ipid="; 	
 	$classes{Pfam} = "http://pfam.xfam.org/family/" ; 
 	$classes{KEYWORDS} = "https://en.wikipedia.org/wiki/" ;
-	$classes{eggNOG_COG} = "http://eggnog5.embl.de/" ; 
-	$classes{ENOG} = "http://eggnog5.embl.de/" ; 
+	$classes{eggNOG_COG} = "https://www.ncbi.nlm.nih.gov/Structure/cdd/" ; 
+	$classes{ENOG} = "https://www.ncbi.nlm.nih.gov/Structure/cdd/" ; 
 	$classes{COG} = "http://ecoliwiki.net/colipedia/index.php/Clusters_of_Orthologous_Groups_(COGs)?name=" ; 
-	$classes{operons} = "http://genome2d.molgenrug.nl/index.php/show-operon?operonname=" ; 
-	$classes{REGULON} = "http://genome2d.molgenrug.nl/index.php/show-regulon?REGULON=" ; 
+	$classes{operons} = g2d_operon_url() ; 
+	$classes{REGULON} = "https://www.prodoric.de/matrix/?term=" ; 
 	#$classes{MetaCyc} = "http://metacyc.org/META/new-image?type=PATHWAY&object=" ; 
 	
 # session folders
@@ -196,6 +197,18 @@ my @analysis_report ; # Contains messages to be reported to the webserver
 	
 # ------------------------------------------------------------ functions ----------------------------------------------------------------------
 
+
+sub g2d_operon_url {
+  # http://genome2d.molgenrug.nl/g2d_show_feature_from_table.html?genome=g2d_mirror%2FBacillus_subtilis_subsp_subtilis_str_168%2FASM904v1_genomic&annotation=operons&feature=operon_0006
+	my $url = 'http://genome2d.molgenrug.nl/g2d_show_feature_from_table.html' ;
+	my $url_genome = $genome;
+	$url_genome =~ s/\/data\/// ;  # remove /data
+	$url_genome =~ s/\//%2F/g ; # replace / by %2F for the url
+	$url = $url.'?genome='.$url_genome.'&annotation=operons&feature=' ;
+	print "============> $url \n";
+	return $url ;
+	
+}
 
 sub make_GenomeAnnotation_JSON {
 	# convert the genome table of genome2d to json format
