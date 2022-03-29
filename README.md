@@ -8,7 +8,7 @@ Functional analysis of Prokaryotes using Gene Set Enrichment Analysis on Transcr
 3. goto the gsea_pro folder and run
 
 ./gsea_pro_v3.pl  <br> 
-<ul>                                                                                                                                 </li>
+<ul style="list-style-type:none;">                                                                                                                                 </li>
     <li> <b>-s       </b>sessiondir and output folder [default=current folder]                                                                    </li>
     <li> <b>-table   </b>Tab delimited text file of locus-tags and experiments: first column = locus_tag, other columns = experiments        </li>
     <li> <b>-g       </b>genome prefix, including full path [e.g. /var/genomes/Bacteria/Lactococcus_lactis_cremoris_MG1363_uid58837/NC_009004 ]   </li>
