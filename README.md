@@ -1,10 +1,13 @@
-# GSEApro
+# FUNAGE-Pro
 Functional analysis of Prokaryotes using Gene Set Enrichment Analysis on Transcriptome (RNA-Seq) or Proteome data
 
+update 2022-Apr-19, Name change from GSEA-Pro to FUNAGE-Pro
 
-# INSTALL GSEA-Pro
-1. Clone GSEA-Pro from github
+# INSTALL FUNAGE-Pro
+1. Clone FUNAGE-Pro from github
 2. Install R 3.4 or newer, if not available
+2. Install Perl 5.26 or newer, if not available
+2. Install Python 3.6 or newer, if not available
 3. goto the gsea_pro folder and run
 
 ./gsea_pro_v3.pl  <br> 
@@ -28,8 +31,8 @@ Functional analysis of Prokaryotes using Gene Set Enrichment Analysis on Transcr
 
 # INSTALL FACoP locally 
 
-1) goto the FACoP subfolder of GSEA_Pro
-2) run the script 00.GSEApro_build_database.sh
+1) goto the FACoP subfolder of FUNAGE_Pro
+2) run the script 00.FUNAGEpro_build_database.sh
 3) run the script 01.GSEApro_annotate_genomes.sh
 4) Install DIAMOND on your server; Benjamin Buchfink, Chao Xie & Daniel H. Huson, Fast and Sensitive Protein Alignment using DIAMOND, Nature Methods, 12, 59–60 (2015) doi:10.1038/nmeth.3176.)
 

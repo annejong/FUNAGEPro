@@ -1,10 +1,10 @@
 # Gene Set Enrichment Analysis for Prokaryotes
-# GSEA_Pro
+# FUNAGE_Pro
 #
 # Anne de Jong
 # University of Groningen
 # 
-# April 29, 2015
+# April 19, 2022 Name changed to FUNAGE-Pro
 
 
 # using phyper(q, m, n, k, lower.tail = TRUE, log.p = FALSE) from package {stat}
